@@ -1,0 +1,3 @@
+Trivial (majority class)       accuracy = 0.100
+Keyword rules                  accuracy = 0.975
+TF-IDF + LogReg                accuracy = 1.000

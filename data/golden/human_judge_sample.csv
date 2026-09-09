@@ -1,0 +1,31 @@
+tweet_id,text,draft_reply,grounding,correctness,tone,actionability
+71,Where's my package for order #590941149? No tracking info showing up.,[MOCK] Hi there! Let's take a look. Please DM us your order number #110002396 and zip code so we can pull up tracking. ^AB,4,4,3,5
+501,"Please cancel my order #856881618, I found it cheaper elsewhere.","[MOCK] Let's take a look, DM order #625063062 and we'll confirm the cancellation status. ^RL",4,4,3,5
+261,"Order #886365312 arrived damaged, my phone case was smashed in the box.","[MOCK] That's not okay, we'll fix this. DM order #450811990 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
+359,"I got the wrong item for order #490732457, I ordered my shoes and got something else.","[MOCK] That's not okay, we'll fix this. DM order #538912794 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
+875,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
+393,"@AmazonHelp I've asked twice already, I need a refund on order #355164255.",[MOCK] We completely understand. Please DM your order number #356022467 so we can review and process a refund. ^RL,4,4,3,5
+671,"Someone else may have accessed my account, I can't log in anymore.",[MOCK] Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,4,4,5,5
+33,@AmazonHelp any update on order #645119047? Tracking hasn't moved in 3 days.,[MOCK] Thanks for reaching out! Could you send us the order number #786066793 via DM so we can check the latest tracking status? ^KT,4,4,5,5
+929,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
+987,Shoutout to the support team for sorting out my order so quickly.,"[MOCK] Awesome to hear, thank you for the feedback! ^RL",2,3,5,2
+163,"Order #361846370 says delivered but I never got it, and it was already 11 days late.",[MOCK] That's not the experience we want for you. DM us order #817461907 and we'll look into the carrier delay right away. ^AB,4,4,3,5
+123,"Order #153921577 says delivered but I never got it, and it was already 5 days late.",[MOCK] We're really sorry for the delay on order #590122159. Please DM your order number and address so we can investigate with the carrier. ^JS,4,4,5,5
+25,"Just checking in on order #726563708, when will it ship?",[MOCK] Hi there! Let's take a look. Please DM us your order number #248532577 and zip code so we can pull up tracking. ^AB,4,4,3,5
+763,"I was charged twice for order #693634042, please fix this.","[MOCK] That shouldn't happen, let's fix it. DM us the details of the charge and order #366570563. ^DM",4,4,3,5
+1123,@AmazonHelp check your DMs,[MOCK] We are! Check our careers page for openings. ^RL,2,3,3,2
+901,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
+141,My order #190137896 was supposed to arrive 4 days ago and it's still not here!,[MOCK] Apologies for the wait on order #295130056! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,4,4,5,5
+523,"Please cancel my order #871588919, I found it cheaper elsewhere.","[MOCK] Let's take a look, DM order #461971444 and we'll confirm the cancellation status. ^RL",4,4,3,5
+295,the monitor arrived completely broken from order #165310776. Not happy.,"[MOCK] That's not okay, we'll fix this. DM order #836691577 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
+549,Is it too late to cancel order #134075063?,[MOCK] We can help with that. Please DM order #925677464 and we'll check if it can still be cancelled before shipping. ^JS,4,4,3,5
+239,My order #762992051 was supposed to arrive 5 days ago and it's still not here!,[MOCK] That's not the experience we want for you. DM us order #834868441 and we'll look into the carrier delay right away. ^AB,4,4,3,5
+329,"Order #326810757 arrived damaged, my phone case was smashed in the box.","[MOCK] That's not okay, we'll fix this. DM order #410791488 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
+189,"This is ridiculous, order #932894596 is 8 days late with no explanation.",[MOCK] Apologies for the wait on order #575368059! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,4,4,5,5
+281,the router arrived completely broken from order #527499187. Not happy.,"[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #984968439 and we'll get a replacement started. ^KT",4,4,5,5
+273,"This is the second time my phone case came defective, order #225279834.","[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #426808977 and we'll get a replacement started. ^KT",4,4,5,5
+1141,"following you now, love the brand",[MOCK] We're here! How can we help? ^AB,2,3,3,2
+301,the vacuum arrived completely broken from order #802992685. Not happy.,"[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #561784080 and we'll get a replacement started. ^KT",4,4,5,5
+61,"Just checking in on order #266211829, when will it ship?",[MOCK] Hi there! Let's take a look. Please DM us your order number #162795957 and zip code so we can pull up tracking. ^AB,4,4,3,5
+1145,"random question, are you hiring right now?",[MOCK] We're here! How can we help? ^AB,2,3,3,2
+91,@AmazonHelp any update on order #958872154? Tracking hasn't moved in 3 days.,[MOCK] Hi there! Let's take a look. Please DM us your order number #292587044 and zip code so we can pull up tracking. ^AB,4,4,3,5

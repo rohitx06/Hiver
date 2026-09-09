@@ -1,0 +1,201 @@
+tweet_id,text,gold_intent,gold_escalate,gold_escalate_reason
+549,Is it too late to cancel order #134075063?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+783,Why was I billed for a subscription I cancelled months ago?,billing_dispute,1,disputed charge requires billing team / account lookup
+239,My order #762992051 was supposed to arrive 5 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+91,@AmazonHelp any update on order #958872154? Tracking hasn't moved in 3 days.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1117,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+119,"Just checking in on order #545002643, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+761,"I was charged twice for order #147285340, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+535,Is it too late to cancel order #902874167?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+429,"Please refund order #668503222 immediately, item never arrived.",refund_request,1,money leaving the company requires human sign-off per policy
+395,"I want a full refund for order #219032752, this is unacceptable.",refund_request,1,money leaving the company requires human sign-off per policy
+643,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+545,Can I cancel order #700003920? It hasn't shipped yet I think.,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+753,"I was charged twice for order #275913951, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+449,"@AmazonHelp I've asked twice already, I need a refund on order #861639583.",refund_request,1,money leaving the company requires human sign-off per policy
+1123,@AmazonHelp check your DMs,other,1,"doesn't match a known resolvable intent, default to human triage"
+877,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+141,My order #190137896 was supposed to arrive 4 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+551,Is it too late to cancel order #502074351?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+867,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+309,my shoes arrived completely broken from order #541102414. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+993,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+791,"I was charged twice for order #827120114, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+875,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+415,"Cancel and refund order #843102880, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+1149,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+1021,"Great experience with customer service today, thanks for the quick help.",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+641,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+1083,@AmazonHelp check your DMs,other,1,"doesn't match a known resolvable intent, default to human triage"
+661,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+963,"Just wanted to say the replacement I got was super fast, thank you!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+243,my shoes arrived completely broken from order #415001254. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+669,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+1023,"Great experience with customer service today, thanks for the quick help.",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+501,"Please cancel my order #856881618, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+741,"There's a charge on my card I don't recognize, might be related to order #918970742.",billing_dispute,1,disputed charge requires billing team / account lookup
+569,Is it too late to cancel order #538364955?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+789,"I was charged twice for order #330876810, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+1115,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+543,Can I cancel order #648011361? It hasn't shipped yet I think.,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+665,"Someone else may have accessed my account, I can't log in anymore.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+781,"I was charged twice for order #567059305, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+763,"I was charged twice for order #693634042, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+423,"Cancel and refund order #490102359, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+839,@AmazonHelp charged me the wrong amount for order #629442753.,billing_dispute,1,disputed charge requires billing team / account lookup
+151,My order #935147672 was supposed to arrive 6 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+303,"This is the second time the backpack came defective, order #528133274.",damaged_or_wrong_item,1,"repeat/escalated complaint pattern, replacement alone won't rebuild trust"
+329,"Order #326810757 arrived damaged, my phone case was smashed in the box.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1171,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+211,"Order #409471503 says delivered but I never got it, and it was already 14 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+895,"This is the third bad experience in a row with AmazonHelp, so frustrating.",general_complaint,1,"pattern of repeated failures, needs human account review not a template reply"
+145,My order #904258674 was supposed to arrive 2 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+27,"Hi, can you tell me where order #264112119 is? Placed it last week.",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+603,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+393,"@AmazonHelp I've asked twice already, I need a refund on order #355164255.",refund_request,1,money leaving the company requires human sign-off per policy
+811,"I was charged twice for order #968285490, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+163,"Order #361846370 says delivered but I never got it, and it was already 11 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+33,@AmazonHelp any update on order #645119047? Tracking hasn't moved in 3 days.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+881,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+775,@AmazonHelp charged me the wrong amount for order #892510222.,billing_dispute,1,disputed charge requires billing team / account lookup
+483,Is it too late to cancel order #259923818?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+523,"Please cancel my order #871588919, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+273,"This is the second time my phone case came defective, order #225279834.",damaged_or_wrong_item,1,"repeat/escalated complaint pattern, replacement alone won't rebuild trust"
+627,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+901,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+185,"Order #222500131 says delivered but I never got it, and it was already 8 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1105,does anyone even work here lol,other,1,"doesn't match a known resolvable intent, default to human triage"
+1199,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+331,"This is the second time my phone case came defective, order #288650860.",damaged_or_wrong_item,1,"repeat/escalated complaint pattern, replacement alone won't rebuild trust"
+1101,does anyone even work here lol,other,1,"doesn't match a known resolvable intent, default to human triage"
+903,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+599,"Please cancel my order #118406723, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+637,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+517,Is it too late to cancel order #999371401?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+123,"Order #153921577 says delivered but I never got it, and it was already 5 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+745,@AmazonHelp charged me the wrong amount for order #853563434.,billing_dispute,1,disputed charge requires billing team / account lookup
+719,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+513,Is it too late to cancel order #801038300?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+301,the vacuum arrived completely broken from order #802992685. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+89,@AmazonHelp any update on order #816114302? Tracking hasn't moved in 3 days.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+3,"Just checking in on order #134126396, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+873,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1003,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1151,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+1135,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+479,"Cancel and refund order #500718660, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+381,"Please refund order #368438908 immediately, item never arrived.",refund_request,1,money leaving the company requires human sign-off per policy
+189,"This is ridiculous, order #932894596 is 8 days late with no explanation.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+883,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+281,the router arrived completely broken from order #527499187. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+265,the blender arrived completely broken from order #602866993. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1031,"Great experience with customer service today, thanks for the quick help.",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+521,Is it too late to cancel order #244096091?,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+31,Where's my package for order #219778234? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+571,"Please cancel my order #859754807, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+987,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+915,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+435,"Please refund order #865975088 immediately, item never arrived.",refund_request,1,money leaving the company requires human sign-off per policy
+1029,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+691,"I can't log into my account, keeps saying wrong password even after reset.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+43,Where's my package for order #570406376? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+621,"Someone else may have accessed my account, I can't log in anymore.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+431,"Please refund order #635844374 immediately, item never arrived.",refund_request,1,money leaving the company requires human sign-off per policy
+809,Why was I billed for a subscription I cancelled months ago?,billing_dispute,1,disputed charge requires billing team / account lookup
+981,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+181,@AmazonHelp order #148872110 missed its delivery window again. What's going on?,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+35,Where's my package for order #918739736? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+191,My order #754586204 was supposed to arrive 14 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+315,the router arrived completely broken from order #753903309. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+363,"Please refund order #457944766 immediately, item never arrived.",refund_request,1,money leaving the company requires human sign-off per policy
+995,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+655,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+295,the monitor arrived completely broken from order #165310776. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+555,Can I cancel order #911941471? It hasn't shipped yet I think.,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1079,"Just wanted to say the replacement I got was super fast, thank you!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+275,"I got the wrong item for order #517305280, I ordered the monitor and got something else.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+911,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+283,my shoes arrived completely broken from order #154308262. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1035,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+311,"Order #211240259 arrived damaged, the coffee maker was smashed in the box.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+37,"Hi, can you tell me where order #489747629 is? Placed it last week.",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+267,the backpack arrived completely broken from order #948988297. Not happy.,damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+183,My order #716396766 was supposed to arrive 9 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+55,"Just checking in on order #368227631, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1111,@AmazonHelp check your DMs,other,1,"doesn't match a known resolvable intent, default to human triage"
+747,"I was charged twice for order #432759989, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+425,"Cancel and refund order #137365109, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+61,"Just checking in on order #266211829, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+689,"Someone else may have accessed my account, I can't log in anymore.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+631,"I can't log into my account, keeps saying wrong password even after reset.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+843,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+25,"Just checking in on order #726563708, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+65,"Hi, can you tell me where order #299528037 is? Placed it last week.",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+271,"Order #755070775 arrived damaged, the desk lamp was smashed in the box.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+871,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+671,"Someone else may have accessed my account, I can't log in anymore.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+161,"Order #599154414 says delivered but I never got it, and it was already 13 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1001,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+795,"There's a charge on my card I don't recognize, might be related to order #984412594.",billing_dispute,1,disputed charge requires billing team / account lookup
+1121,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+387,"I want a full refund for order #502559419, this is unacceptable.",refund_request,1,money leaving the company requires human sign-off per policy
+195,"Order #412737284 says delivered but I never got it, and it was already 5 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+909,"This is the third bad experience in a row with AmazonHelp, so frustrating.",general_complaint,1,"pattern of repeated failures, needs human account review not a template reply"
+147,My order #365518424 was supposed to arrive 2 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+929,Really disappointed with how AmazonHelp has handled things lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1049,"Great experience with customer service today, thanks for the quick help.",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1015,"Great experience with customer service today, thanks for the quick help.",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+755,Why was I billed for a subscription I cancelled months ago?,billing_dispute,1,disputed charge requires billing team / account lookup
+1113,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+663,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+905,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1143,does anyone even work here lol,other,1,"doesn't match a known resolvable intent, default to human triage"
+401,"I want a full refund for order #519246503, this is unacceptable.",refund_request,1,money leaving the company requires human sign-off per policy
+157,My order #643271261 was supposed to arrive 2 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+75,Where's my package for order #269379374? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1155,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+451,"@AmazonHelp I've asked twice already, I need a refund on order #234400576.",refund_request,1,money leaving the company requires human sign-off per policy
+1107,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+507,"I need to cancel order #316968866 before it ships, how do I do that?",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+633,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+861,Been a customer for years and the service has really gone downhill lately.,general_complaint,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+41,"Just checking in on order #327416584, when will it ship?",order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+515,Can I cancel order #925412179? It hasn't shipped yet I think.,cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1141,"following you now, love the brand",other,1,"doesn't match a known resolvable intent, default to human triage"
+511,"Please cancel my order #870257350, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+723,"I was charged twice for order #242485313, please fix this.",billing_dispute,1,disputed charge requires billing team / account lookup
+21,Where's my package for order #171069472? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+153,"Order #525904456 says delivered but I never got it, and it was already 3 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1051,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+175,"This is ridiculous, order #229553265 is 7 days late with no explanation.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+625,"Password reset email never arrived, I've tried 3 times.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+865,"This is the third bad experience in a row with AmazonHelp, so frustrating.",general_complaint,1,"pattern of repeated failures, needs human account review not a template reply"
+305,"Order #263894795 arrived damaged, the monitor was smashed in the box.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+421,"Cancel and refund order #145478504, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+261,"Order #886365312 arrived damaged, my phone case was smashed in the box.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+71,Where's my package for order #590941149? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+69,Where's my package for order #379995032? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+277,"This is the second time the blender came defective, order #803217037.",damaged_or_wrong_item,1,"repeat/escalated complaint pattern, replacement alone won't rebuild trust"
+397,"@AmazonHelp I've asked twice already, I need a refund on order #560891752.",refund_request,1,money leaving the company requires human sign-off per policy
+63,Where's my package for order #161380746? No tracking info showing up.,order_status,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+985,"Just wanted to say the replacement I got was super fast, thank you!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+757,Why was I billed for a subscription I cancelled months ago?,billing_dispute,1,disputed charge requires billing team / account lookup
+751,@AmazonHelp charged me the wrong amount for order #757448675.,billing_dispute,1,disputed charge requires billing team / account lookup
+1025,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+403,"I want a full refund for order #470228863, this is unacceptable.",refund_request,1,money leaving the company requires human sign-off per policy
+991,"Just wanted to say the replacement I got was super fast, thank you!",positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+785,"There's a charge on my card I don't recognize, might be related to order #213449146.",billing_dispute,1,disputed charge requires billing team / account lookup
+359,"I got the wrong item for order #490732457, I ordered my shoes and got something else.",damaged_or_wrong_item,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+675,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+541,"I need to cancel order #276670424 before it ships, how do I do that?",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+385,"Cancel and refund order #475364113, I don't want it anymore after this experience.",refund_request,1,money leaving the company requires human sign-off per policy
+155,My order #954942461 was supposed to arrive 14 days ago and it's still not here!,delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+959,"Customer service wait times are unacceptable, been trying to get help for an hour.",general_complaint,1,"pattern of repeated failures, needs human account review not a template reply"
+1169,@AmazonHelp check your DMs,other,1,"doesn't match a known resolvable intent, default to human triage"
+505,"Please cancel my order #145168545, I found it cheaper elsewhere.",cancel_order,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+635,"I can't log into my account, keeps saying wrong password even after reset.",account_access,1,"touches authentication/PII, must go through secure verification flow"
+931,"This is the third bad experience in a row with AmazonHelp, so frustrating.",general_complaint,1,"pattern of repeated failures, needs human account review not a template reply"
+391,"I want a full refund for order #120405269, this is unacceptable.",refund_request,1,money leaving the company requires human sign-off per policy
+209,"Order #473620340 says delivered but I never got it, and it was already 7 days late.",delivery_delay,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
+1145,"random question, are you hiring right now?",other,1,"doesn't match a known resolvable intent, default to human triage"
+997,Shoutout to the support team for sorting out my order so quickly.,positive_feedback,0,"standard resolvable request, template DM-for-order-number reply is sufficient"
