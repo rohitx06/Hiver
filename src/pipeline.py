@@ -11,8 +11,8 @@ import argparse
 import subprocess
 import sys
 import pandas as pd
-from llm_agent import LLMAgent
-from decision import final_decision
+from .llm_agent import LLMAgent
+from .decision import final_decision
 
 
 def run(golden_path="data/golden/golden_eval.csv", raw_csv="data/raw/tweets.csv",
@@ -21,10 +21,12 @@ def run(golden_path="data/golden/golden_eval.csv", raw_csv="data/raw/tweets.csv"
     if limit:
         golden = golden.head(limit)
 
-    agent = LLMAgent(raw_csv=raw_csv)
+    # Prevent exact golden examples from being retrieved as their own evidence.
+    # This avoids a subtle evaluation leak while preserving real historical context.
+    agent = LLMAgent(raw_csv=raw_csv, exclude_texts=set(golden["text"].astype(str)))
     print(f"Agent running in {agent.mode.upper()} mode.")
     if agent.mode == "mock":
-        print("  -> No ANTHROPIC_API_KEY found. Set it to get real LLM classification/drafting.\n"
+        print("  -> No GROQ_API_KEY found. Set it to get real LLM classification/drafting.\n"
               "     Results below are from the deterministic mock agent, clearly labeled as such.")
 
     rows = []

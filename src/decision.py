@@ -10,7 +10,7 @@ refund reply, auto-answering an account-access request). A rule the team
 can read, audit, and change without touching a prompt is worth the
 redundancy.
 """
-from intents import INTENTS
+from .intents import INTENTS
 
 LOW_CONFIDENCE_THRESHOLD = 0.55
 

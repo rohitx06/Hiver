@@ -1,0 +1,1201 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,_gold_intent
+1,cust_21395,True,Fri Mar 01 00:07:00 +0000 2024,"Hi, can you tell me where order #126855092 is? Placed it last week.",2,,order_status
+2,AmazonHelp,False,Fri Mar 01 01:21:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #249827706 and zip code so we can pull up tracking. ^AB,,1,order_status
+3,cust_83563,True,Fri Mar 01 00:21:00 +0000 2024,"Just checking in on order #134126396, when will it ship?",4,,order_status
+4,AmazonHelp,False,Fri Mar 01 00:29:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #349817734 and zip code so we can pull up tracking. ^AB,,3,order_status
+5,cust_30926,True,Fri Mar 01 00:35:00 +0000 2024,@AmazonHelp any update on order #868820204? Tracking hasn't moved in 3 days.,6,,order_status
+6,AmazonHelp,False,Fri Mar 01 00:40:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #582334538 and zip code so we can pull up tracking. ^AB,,5,order_status
+7,cust_59797,True,Fri Mar 01 00:49:00 +0000 2024,"Just checking in on order #465341213, when will it ship?",8,,order_status
+8,AmazonHelp,False,Fri Mar 01 01:05:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #919795579 and zip code so we can pull up tracking. ^AB,,7,order_status
+9,cust_80284,True,Fri Mar 01 01:03:00 +0000 2024,"Hi, can you tell me where order #485451171 is? Placed it last week.",10,,order_status
+10,AmazonHelp,False,Fri Mar 01 02:06:00 +0000 2024,Thanks for reaching out! Could you send us the order number #966647391 via DM so we can check the latest tracking status? ^KT,,9,order_status
+11,cust_35203,True,Fri Mar 01 01:17:00 +0000 2024,"Hi, can you tell me where order #506448196 is? Placed it last week.",12,,order_status
+12,AmazonHelp,False,Fri Mar 01 02:35:00 +0000 2024,Thanks for reaching out! Could you send us the order number #990566476 via DM so we can check the latest tracking status? ^KT,,11,order_status
+13,cust_46434,True,Fri Mar 01 01:31:00 +0000 2024,"Hi, can you tell me where order #149203558 is? Placed it last week.",14,,order_status
+14,AmazonHelp,False,Fri Mar 01 02:24:00 +0000 2024,Thanks for reaching out! Could you send us the order number #185675980 via DM so we can check the latest tracking status? ^KT,,13,order_status
+15,cust_99593,True,Fri Mar 01 01:45:00 +0000 2024,"Just checking in on order #782560971, when will it ship?",16,,order_status
+16,AmazonHelp,False,Fri Mar 01 02:24:00 +0000 2024,Thanks for reaching out! Could you send us the order number #481469012 via DM so we can check the latest tracking status? ^KT,,15,order_status
+17,cust_45382,True,Fri Mar 01 01:59:00 +0000 2024,"Hi, can you tell me where order #754049436 is? Placed it last week.",18,,order_status
+18,AmazonHelp,False,Fri Mar 01 02:52:00 +0000 2024,We hear you! Send us a DM with order #362863730 and we'll get you the most current tracking update. ^DM,,17,order_status
+19,cust_62581,True,Fri Mar 01 02:13:00 +0000 2024,@AmazonHelp any update on order #835098955? Tracking hasn't moved in 3 days.,20,,order_status
+20,AmazonHelp,False,Fri Mar 01 02:58:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #345938494 and zip code so we can pull up tracking. ^AB,,19,order_status
+21,cust_61856,True,Fri Mar 01 02:27:00 +0000 2024,Where's my package for order #171069472? No tracking info showing up.,22,,order_status
+22,AmazonHelp,False,Fri Mar 01 03:35:00 +0000 2024,We hear you! Send us a DM with order #437882805 and we'll get you the most current tracking update. ^DM,,21,order_status
+23,cust_86622,True,Fri Mar 01 02:41:00 +0000 2024,"Just checking in on order #253407200, when will it ship?",24,,order_status
+24,AmazonHelp,False,Fri Mar 01 03:19:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #899925830 and zip code so we can pull up tracking. ^AB,,23,order_status
+25,cust_16175,True,Fri Mar 01 02:55:00 +0000 2024,"Just checking in on order #726563708, when will it ship?",26,,order_status
+26,AmazonHelp,False,Fri Mar 01 03:11:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #248532577 and zip code so we can pull up tracking. ^AB,,25,order_status
+27,cust_60019,True,Fri Mar 01 03:09:00 +0000 2024,"Hi, can you tell me where order #264112119 is? Placed it last week.",28,,order_status
+28,AmazonHelp,False,Fri Mar 01 04:03:00 +0000 2024,We hear you! Send us a DM with order #553290810 and we'll get you the most current tracking update. ^DM,,27,order_status
+29,cust_44973,True,Fri Mar 01 03:23:00 +0000 2024,"Just checking in on order #668132202, when will it ship?",30,,order_status
+30,AmazonHelp,False,Fri Mar 01 04:36:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #830448745 and zip code so we can pull up tracking. ^AB,,29,order_status
+31,cust_75612,True,Fri Mar 01 03:37:00 +0000 2024,Where's my package for order #219778234? No tracking info showing up.,32,,order_status
+32,AmazonHelp,False,Fri Mar 01 04:15:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #587182120 and zip code so we can pull up tracking. ^AB,,31,order_status
+33,cust_30032,True,Fri Mar 01 03:51:00 +0000 2024,@AmazonHelp any update on order #645119047? Tracking hasn't moved in 3 days.,34,,order_status
+34,AmazonHelp,False,Fri Mar 01 04:21:00 +0000 2024,Thanks for reaching out! Could you send us the order number #786066793 via DM so we can check the latest tracking status? ^KT,,33,order_status
+35,cust_12552,True,Fri Mar 01 04:05:00 +0000 2024,Where's my package for order #918739736? No tracking info showing up.,36,,order_status
+36,AmazonHelp,False,Fri Mar 01 05:12:00 +0000 2024,We hear you! Send us a DM with order #100614068 and we'll get you the most current tracking update. ^DM,,35,order_status
+37,cust_73699,True,Fri Mar 01 04:19:00 +0000 2024,"Hi, can you tell me where order #489747629 is? Placed it last week.",38,,order_status
+38,AmazonHelp,False,Fri Mar 01 04:34:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #358633898 and zip code so we can pull up tracking. ^AB,,37,order_status
+39,cust_44741,True,Fri Mar 01 04:33:00 +0000 2024,"Hi, can you tell me where order #916690353 is? Placed it last week.",40,,order_status
+40,AmazonHelp,False,Fri Mar 01 04:59:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #237859287 and zip code so we can pull up tracking. ^AB,,39,order_status
+41,cust_62296,True,Fri Mar 01 04:47:00 +0000 2024,"Just checking in on order #327416584, when will it ship?",42,,order_status
+42,AmazonHelp,False,Fri Mar 01 05:31:00 +0000 2024,We hear you! Send us a DM with order #840739735 and we'll get you the most current tracking update. ^DM,,41,order_status
+43,cust_12757,True,Fri Mar 01 05:01:00 +0000 2024,Where's my package for order #570406376? No tracking info showing up.,44,,order_status
+44,AmazonHelp,False,Fri Mar 01 05:49:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #366186631 and zip code so we can pull up tracking. ^AB,,43,order_status
+45,cust_14117,True,Fri Mar 01 05:15:00 +0000 2024,@AmazonHelp any update on order #731832764? Tracking hasn't moved in 3 days.,46,,order_status
+46,AmazonHelp,False,Fri Mar 01 05:28:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #860038427 and zip code so we can pull up tracking. ^AB,,45,order_status
+47,cust_27342,True,Fri Mar 01 05:29:00 +0000 2024,Where's my package for order #176082500? No tracking info showing up.,48,,order_status
+48,AmazonHelp,False,Fri Mar 01 06:43:00 +0000 2024,Thanks for reaching out! Could you send us the order number #818309417 via DM so we can check the latest tracking status? ^KT,,47,order_status
+49,cust_66498,True,Fri Mar 01 05:43:00 +0000 2024,"Just checking in on order #360916298, when will it ship?",50,,order_status
+50,AmazonHelp,False,Fri Mar 01 07:12:00 +0000 2024,Thanks for reaching out! Could you send us the order number #304451095 via DM so we can check the latest tracking status? ^KT,,49,order_status
+51,cust_54473,True,Fri Mar 01 05:57:00 +0000 2024,Where's my package for order #554814084? No tracking info showing up.,52,,order_status
+52,AmazonHelp,False,Fri Mar 01 06:53:00 +0000 2024,We hear you! Send us a DM with order #158165865 and we'll get you the most current tracking update. ^DM,,51,order_status
+53,cust_46509,True,Fri Mar 01 06:11:00 +0000 2024,"Hi, can you tell me where order #366992705 is? Placed it last week.",54,,order_status
+54,AmazonHelp,False,Fri Mar 01 06:39:00 +0000 2024,We hear you! Send us a DM with order #581695135 and we'll get you the most current tracking update. ^DM,,53,order_status
+55,cust_11934,True,Fri Mar 01 06:25:00 +0000 2024,"Just checking in on order #368227631, when will it ship?",56,,order_status
+56,AmazonHelp,False,Fri Mar 01 07:39:00 +0000 2024,We hear you! Send us a DM with order #205128697 and we'll get you the most current tracking update. ^DM,,55,order_status
+57,cust_17685,True,Fri Mar 01 06:39:00 +0000 2024,"Hi, can you tell me where order #909134796 is? Placed it last week.",58,,order_status
+58,AmazonHelp,False,Fri Mar 01 07:35:00 +0000 2024,Thanks for reaching out! Could you send us the order number #621453189 via DM so we can check the latest tracking status? ^KT,,57,order_status
+59,cust_82845,True,Fri Mar 01 06:53:00 +0000 2024,@AmazonHelp any update on order #506919288? Tracking hasn't moved in 3 days.,60,,order_status
+60,AmazonHelp,False,Fri Mar 01 07:52:00 +0000 2024,Thanks for reaching out! Could you send us the order number #941889393 via DM so we can check the latest tracking status? ^KT,,59,order_status
+61,cust_17989,True,Fri Mar 01 07:07:00 +0000 2024,"Just checking in on order #266211829, when will it ship?",62,,order_status
+62,AmazonHelp,False,Fri Mar 01 08:21:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #162795957 and zip code so we can pull up tracking. ^AB,,61,order_status
+63,cust_76562,True,Fri Mar 01 07:21:00 +0000 2024,Where's my package for order #161380746? No tracking info showing up.,64,,order_status
+64,AmazonHelp,False,Fri Mar 01 07:33:00 +0000 2024,Thanks for reaching out! Could you send us the order number #639931481 via DM so we can check the latest tracking status? ^KT,,63,order_status
+65,cust_84668,True,Fri Mar 01 07:35:00 +0000 2024,"Hi, can you tell me where order #299528037 is? Placed it last week.",66,,order_status
+66,AmazonHelp,False,Fri Mar 01 07:55:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #825003955 and zip code so we can pull up tracking. ^AB,,65,order_status
+67,cust_84085,True,Fri Mar 01 07:49:00 +0000 2024,@AmazonHelp any update on order #721609600? Tracking hasn't moved in 3 days.,68,,order_status
+68,AmazonHelp,False,Fri Mar 01 09:08:00 +0000 2024,We hear you! Send us a DM with order #188029013 and we'll get you the most current tracking update. ^DM,,67,order_status
+69,cust_27154,True,Fri Mar 01 08:03:00 +0000 2024,Where's my package for order #379995032? No tracking info showing up.,70,,order_status
+70,AmazonHelp,False,Fri Mar 01 08:58:00 +0000 2024,We hear you! Send us a DM with order #437352358 and we'll get you the most current tracking update. ^DM,,69,order_status
+71,cust_23104,True,Fri Mar 01 08:17:00 +0000 2024,Where's my package for order #590941149? No tracking info showing up.,72,,order_status
+72,AmazonHelp,False,Fri Mar 01 09:34:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #110002396 and zip code so we can pull up tracking. ^AB,,71,order_status
+73,cust_58434,True,Fri Mar 01 08:31:00 +0000 2024,"Hi, can you tell me where order #677280546 is? Placed it last week.",74,,order_status
+74,AmazonHelp,False,Fri Mar 01 09:07:00 +0000 2024,Thanks for reaching out! Could you send us the order number #242224154 via DM so we can check the latest tracking status? ^KT,,73,order_status
+75,cust_79329,True,Fri Mar 01 08:45:00 +0000 2024,Where's my package for order #269379374? No tracking info showing up.,76,,order_status
+76,AmazonHelp,False,Fri Mar 01 10:13:00 +0000 2024,We hear you! Send us a DM with order #424825305 and we'll get you the most current tracking update. ^DM,,75,order_status
+77,cust_24029,True,Fri Mar 01 08:59:00 +0000 2024,"Hi, can you tell me where order #817112652 is? Placed it last week.",78,,order_status
+78,AmazonHelp,False,Fri Mar 01 09:18:00 +0000 2024,We hear you! Send us a DM with order #211225158 and we'll get you the most current tracking update. ^DM,,77,order_status
+79,cust_44600,True,Fri Mar 01 09:13:00 +0000 2024,@AmazonHelp any update on order #392431670? Tracking hasn't moved in 3 days.,80,,order_status
+80,AmazonHelp,False,Fri Mar 01 10:39:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #870530217 and zip code so we can pull up tracking. ^AB,,79,order_status
+81,cust_53719,True,Fri Mar 01 09:27:00 +0000 2024,"Just checking in on order #369639388, when will it ship?",82,,order_status
+82,AmazonHelp,False,Fri Mar 01 09:32:00 +0000 2024,We hear you! Send us a DM with order #554811020 and we'll get you the most current tracking update. ^DM,,81,order_status
+83,cust_83519,True,Fri Mar 01 09:41:00 +0000 2024,@AmazonHelp any update on order #784095277? Tracking hasn't moved in 3 days.,84,,order_status
+84,AmazonHelp,False,Fri Mar 01 10:40:00 +0000 2024,We hear you! Send us a DM with order #574417266 and we'll get you the most current tracking update. ^DM,,83,order_status
+85,cust_82420,True,Fri Mar 01 09:55:00 +0000 2024,"Hi, can you tell me where order #220123666 is? Placed it last week.",86,,order_status
+86,AmazonHelp,False,Fri Mar 01 11:14:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #685823118 and zip code so we can pull up tracking. ^AB,,85,order_status
+87,cust_99399,True,Fri Mar 01 10:09:00 +0000 2024,@AmazonHelp any update on order #561479973? Tracking hasn't moved in 3 days.,88,,order_status
+88,AmazonHelp,False,Fri Mar 01 10:40:00 +0000 2024,Thanks for reaching out! Could you send us the order number #491541578 via DM so we can check the latest tracking status? ^KT,,87,order_status
+89,cust_41029,True,Fri Mar 01 10:23:00 +0000 2024,@AmazonHelp any update on order #816114302? Tracking hasn't moved in 3 days.,90,,order_status
+90,AmazonHelp,False,Fri Mar 01 10:47:00 +0000 2024,We hear you! Send us a DM with order #536344399 and we'll get you the most current tracking update. ^DM,,89,order_status
+91,cust_97806,True,Fri Mar 01 10:37:00 +0000 2024,@AmazonHelp any update on order #958872154? Tracking hasn't moved in 3 days.,92,,order_status
+92,AmazonHelp,False,Fri Mar 01 11:34:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #292587044 and zip code so we can pull up tracking. ^AB,,91,order_status
+93,cust_39154,True,Fri Mar 01 10:51:00 +0000 2024,@AmazonHelp any update on order #386480450? Tracking hasn't moved in 3 days.,94,,order_status
+94,AmazonHelp,False,Fri Mar 01 11:56:00 +0000 2024,We hear you! Send us a DM with order #216066793 and we'll get you the most current tracking update. ^DM,,93,order_status
+95,cust_96511,True,Fri Mar 01 11:05:00 +0000 2024,@AmazonHelp any update on order #976803188? Tracking hasn't moved in 3 days.,96,,order_status
+96,AmazonHelp,False,Fri Mar 01 11:13:00 +0000 2024,Thanks for reaching out! Could you send us the order number #981044229 via DM so we can check the latest tracking status? ^KT,,95,order_status
+97,cust_76768,True,Fri Mar 01 11:19:00 +0000 2024,@AmazonHelp any update on order #527849588? Tracking hasn't moved in 3 days.,98,,order_status
+98,AmazonHelp,False,Fri Mar 01 12:46:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #930353157 and zip code so we can pull up tracking. ^AB,,97,order_status
+99,cust_44795,True,Fri Mar 01 11:33:00 +0000 2024,"Just checking in on order #829627019, when will it ship?",100,,order_status
+100,AmazonHelp,False,Fri Mar 01 12:52:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #223847257 and zip code so we can pull up tracking. ^AB,,99,order_status
+101,cust_77033,True,Fri Mar 01 11:47:00 +0000 2024,"Hi, can you tell me where order #216396351 is? Placed it last week.",102,,order_status
+102,AmazonHelp,False,Fri Mar 01 13:09:00 +0000 2024,Thanks for reaching out! Could you send us the order number #882269302 via DM so we can check the latest tracking status? ^KT,,101,order_status
+103,cust_80575,True,Fri Mar 01 12:01:00 +0000 2024,"Hi, can you tell me where order #513600440 is? Placed it last week.",104,,order_status
+104,AmazonHelp,False,Fri Mar 01 13:12:00 +0000 2024,Thanks for reaching out! Could you send us the order number #147659674 via DM so we can check the latest tracking status? ^KT,,103,order_status
+105,cust_26334,True,Fri Mar 01 12:15:00 +0000 2024,@AmazonHelp any update on order #491079829? Tracking hasn't moved in 3 days.,106,,order_status
+106,AmazonHelp,False,Fri Mar 01 13:44:00 +0000 2024,We hear you! Send us a DM with order #454549587 and we'll get you the most current tracking update. ^DM,,105,order_status
+107,cust_82667,True,Fri Mar 01 12:29:00 +0000 2024,Where's my package for order #644518647? No tracking info showing up.,108,,order_status
+108,AmazonHelp,False,Fri Mar 01 13:11:00 +0000 2024,Thanks for reaching out! Could you send us the order number #450236225 via DM so we can check the latest tracking status? ^KT,,107,order_status
+109,cust_49446,True,Fri Mar 01 12:43:00 +0000 2024,@AmazonHelp any update on order #305986733? Tracking hasn't moved in 3 days.,110,,order_status
+110,AmazonHelp,False,Fri Mar 01 14:00:00 +0000 2024,Thanks for reaching out! Could you send us the order number #827264603 via DM so we can check the latest tracking status? ^KT,,109,order_status
+111,cust_89516,True,Fri Mar 01 12:57:00 +0000 2024,"Just checking in on order #688343096, when will it ship?",112,,order_status
+112,AmazonHelp,False,Fri Mar 01 14:16:00 +0000 2024,Thanks for reaching out! Could you send us the order number #325681936 via DM so we can check the latest tracking status? ^KT,,111,order_status
+113,cust_96356,True,Fri Mar 01 13:11:00 +0000 2024,Where's my package for order #599277266? No tracking info showing up.,114,,order_status
+114,AmazonHelp,False,Fri Mar 01 13:37:00 +0000 2024,We hear you! Send us a DM with order #329460134 and we'll get you the most current tracking update. ^DM,,113,order_status
+115,cust_98184,True,Fri Mar 01 13:25:00 +0000 2024,"Hi, can you tell me where order #404713332 is? Placed it last week.",116,,order_status
+116,AmazonHelp,False,Fri Mar 01 14:00:00 +0000 2024,We hear you! Send us a DM with order #764926227 and we'll get you the most current tracking update. ^DM,,115,order_status
+117,cust_19545,True,Fri Mar 01 13:39:00 +0000 2024,Where's my package for order #341206079? No tracking info showing up.,118,,order_status
+118,AmazonHelp,False,Fri Mar 01 15:02:00 +0000 2024,Hi there! Let's take a look. Please DM us your order number #149621604 and zip code so we can pull up tracking. ^AB,,117,order_status
+119,cust_41979,True,Fri Mar 01 13:53:00 +0000 2024,"Just checking in on order #545002643, when will it ship?",120,,order_status
+120,AmazonHelp,False,Fri Mar 01 14:49:00 +0000 2024,We hear you! Send us a DM with order #847704681 and we'll get you the most current tracking update. ^DM,,119,order_status
+121,cust_77889,True,Fri Mar 01 14:07:00 +0000 2024,"This is ridiculous, order #804436922 is 14 days late with no explanation.",122,,delivery_delay
+122,AmazonHelp,False,Fri Mar 01 14:34:00 +0000 2024,We're really sorry for the delay on order #935822550. Please DM your order number and address so we can investigate with the carrier. ^JS,,121,delivery_delay
+123,cust_97500,True,Fri Mar 01 14:21:00 +0000 2024,"Order #153921577 says delivered but I never got it, and it was already 5 days late.",124,,delivery_delay
+124,AmazonHelp,False,Fri Mar 01 15:25:00 +0000 2024,We're really sorry for the delay on order #590122159. Please DM your order number and address so we can investigate with the carrier. ^JS,,123,delivery_delay
+125,cust_30861,True,Fri Mar 01 14:35:00 +0000 2024,@AmazonHelp order #910943524 missed its delivery window again. What's going on?,126,,delivery_delay
+126,AmazonHelp,False,Fri Mar 01 15:37:00 +0000 2024,That's not the experience we want for you. DM us order #642001424 and we'll look into the carrier delay right away. ^AB,,125,delivery_delay
+127,cust_73517,True,Fri Mar 01 14:49:00 +0000 2024,"Order #583258726 says delivered but I never got it, and it was already 14 days late.",128,,delivery_delay
+128,AmazonHelp,False,Fri Mar 01 16:00:00 +0000 2024,We're really sorry for the delay on order #784683755. Please DM your order number and address so we can investigate with the carrier. ^JS,,127,delivery_delay
+129,cust_51904,True,Fri Mar 01 15:03:00 +0000 2024,"This is ridiculous, order #394846763 is 3 days late with no explanation.",130,,delivery_delay
+130,AmazonHelp,False,Fri Mar 01 15:50:00 +0000 2024,That's not the experience we want for you. DM us order #406798268 and we'll look into the carrier delay right away. ^AB,,129,delivery_delay
+131,cust_18418,True,Fri Mar 01 15:17:00 +0000 2024,My order #248578017 was supposed to arrive 5 days ago and it's still not here!,132,,delivery_delay
+132,AmazonHelp,False,Fri Mar 01 15:49:00 +0000 2024,Apologies for the wait on order #845122940! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,131,delivery_delay
+133,cust_61049,True,Fri Mar 01 15:31:00 +0000 2024,"Order #537656494 says delivered but I never got it, and it was already 10 days late.",134,,delivery_delay
+134,AmazonHelp,False,Fri Mar 01 16:29:00 +0000 2024,Apologies for the wait on order #546434187! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,133,delivery_delay
+135,cust_64921,True,Fri Mar 01 15:45:00 +0000 2024,My order #922050912 was supposed to arrive 8 days ago and it's still not here!,136,,delivery_delay
+136,AmazonHelp,False,Fri Mar 01 16:39:00 +0000 2024,Apologies for the wait on order #106330865! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,135,delivery_delay
+137,cust_97670,True,Fri Mar 01 15:59:00 +0000 2024,"This is ridiculous, order #624232414 is 6 days late with no explanation.",138,,delivery_delay
+138,AmazonHelp,False,Fri Mar 01 16:47:00 +0000 2024,Apologies for the wait on order #621454127! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,137,delivery_delay
+139,cust_87580,True,Fri Mar 01 16:13:00 +0000 2024,"Order #877583839 says delivered but I never got it, and it was already 9 days late.",140,,delivery_delay
+140,AmazonHelp,False,Fri Mar 01 17:08:00 +0000 2024,We're really sorry for the delay on order #768143326. Please DM your order number and address so we can investigate with the carrier. ^JS,,139,delivery_delay
+141,cust_52906,True,Fri Mar 01 16:27:00 +0000 2024,My order #190137896 was supposed to arrive 4 days ago and it's still not here!,142,,delivery_delay
+142,AmazonHelp,False,Fri Mar 01 17:20:00 +0000 2024,Apologies for the wait on order #295130056! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,141,delivery_delay
+143,cust_71644,True,Fri Mar 01 16:41:00 +0000 2024,"This is ridiculous, order #588229686 is 7 days late with no explanation.",144,,delivery_delay
+144,AmazonHelp,False,Fri Mar 01 16:56:00 +0000 2024,Apologies for the wait on order #398775766! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,143,delivery_delay
+145,cust_15276,True,Fri Mar 01 16:55:00 +0000 2024,My order #904258674 was supposed to arrive 2 days ago and it's still not here!,146,,delivery_delay
+146,AmazonHelp,False,Fri Mar 01 18:23:00 +0000 2024,Apologies for the wait on order #340756713! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,145,delivery_delay
+147,cust_97747,True,Fri Mar 01 17:09:00 +0000 2024,My order #365518424 was supposed to arrive 2 days ago and it's still not here!,148,,delivery_delay
+148,AmazonHelp,False,Fri Mar 01 18:14:00 +0000 2024,That's not the experience we want for you. DM us order #263619298 and we'll look into the carrier delay right away. ^AB,,147,delivery_delay
+149,cust_89593,True,Fri Mar 01 17:23:00 +0000 2024,My order #705557720 was supposed to arrive 9 days ago and it's still not here!,150,,delivery_delay
+150,AmazonHelp,False,Fri Mar 01 18:45:00 +0000 2024,That's not the experience we want for you. DM us order #375139575 and we'll look into the carrier delay right away. ^AB,,149,delivery_delay
+151,cust_98781,True,Fri Mar 01 17:37:00 +0000 2024,My order #935147672 was supposed to arrive 6 days ago and it's still not here!,152,,delivery_delay
+152,AmazonHelp,False,Fri Mar 01 18:55:00 +0000 2024,We're really sorry for the delay on order #721358005. Please DM your order number and address so we can investigate with the carrier. ^JS,,151,delivery_delay
+153,cust_99687,True,Fri Mar 01 17:51:00 +0000 2024,"Order #525904456 says delivered but I never got it, and it was already 3 days late.",154,,delivery_delay
+154,AmazonHelp,False,Fri Mar 01 18:34:00 +0000 2024,That's not the experience we want for you. DM us order #841541582 and we'll look into the carrier delay right away. ^AB,,153,delivery_delay
+155,cust_58571,True,Fri Mar 01 18:05:00 +0000 2024,My order #954942461 was supposed to arrive 14 days ago and it's still not here!,156,,delivery_delay
+156,AmazonHelp,False,Fri Mar 01 19:34:00 +0000 2024,We're really sorry for the delay on order #472807202. Please DM your order number and address so we can investigate with the carrier. ^JS,,155,delivery_delay
+157,cust_57472,True,Fri Mar 01 18:19:00 +0000 2024,My order #643271261 was supposed to arrive 2 days ago and it's still not here!,158,,delivery_delay
+158,AmazonHelp,False,Fri Mar 01 19:19:00 +0000 2024,Apologies for the wait on order #982971099! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,157,delivery_delay
+159,cust_90728,True,Fri Mar 01 18:33:00 +0000 2024,"Order #859466878 says delivered but I never got it, and it was already 8 days late.",160,,delivery_delay
+160,AmazonHelp,False,Fri Mar 01 19:12:00 +0000 2024,We're really sorry for the delay on order #887906704. Please DM your order number and address so we can investigate with the carrier. ^JS,,159,delivery_delay
+161,cust_46559,True,Fri Mar 01 18:47:00 +0000 2024,"Order #599154414 says delivered but I never got it, and it was already 13 days late.",162,,delivery_delay
+162,AmazonHelp,False,Fri Mar 01 19:03:00 +0000 2024,That's not the experience we want for you. DM us order #388187517 and we'll look into the carrier delay right away. ^AB,,161,delivery_delay
+163,cust_74789,True,Fri Mar 01 19:01:00 +0000 2024,"Order #361846370 says delivered but I never got it, and it was already 11 days late.",164,,delivery_delay
+164,AmazonHelp,False,Fri Mar 01 19:09:00 +0000 2024,That's not the experience we want for you. DM us order #817461907 and we'll look into the carrier delay right away. ^AB,,163,delivery_delay
+165,cust_88139,True,Fri Mar 01 19:15:00 +0000 2024,@AmazonHelp order #295249057 missed its delivery window again. What's going on?,166,,delivery_delay
+166,AmazonHelp,False,Fri Mar 01 19:55:00 +0000 2024,Apologies for the wait on order #956665975! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,165,delivery_delay
+167,cust_74038,True,Fri Mar 01 19:29:00 +0000 2024,@AmazonHelp order #696776072 missed its delivery window again. What's going on?,168,,delivery_delay
+168,AmazonHelp,False,Fri Mar 01 20:26:00 +0000 2024,We're really sorry for the delay on order #191926217. Please DM your order number and address so we can investigate with the carrier. ^JS,,167,delivery_delay
+169,cust_22196,True,Fri Mar 01 19:43:00 +0000 2024,"This is ridiculous, order #841536135 is 12 days late with no explanation.",170,,delivery_delay
+170,AmazonHelp,False,Fri Mar 01 19:50:00 +0000 2024,That's not the experience we want for you. DM us order #627015393 and we'll look into the carrier delay right away. ^AB,,169,delivery_delay
+171,cust_82544,True,Fri Mar 01 19:57:00 +0000 2024,@AmazonHelp order #337937327 missed its delivery window again. What's going on?,172,,delivery_delay
+172,AmazonHelp,False,Fri Mar 01 21:02:00 +0000 2024,We're really sorry for the delay on order #428786222. Please DM your order number and address so we can investigate with the carrier. ^JS,,171,delivery_delay
+173,cust_42951,True,Fri Mar 01 20:11:00 +0000 2024,@AmazonHelp order #556881239 missed its delivery window again. What's going on?,174,,delivery_delay
+174,AmazonHelp,False,Fri Mar 01 20:55:00 +0000 2024,Apologies for the wait on order #854684750! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,173,delivery_delay
+175,cust_35105,True,Fri Mar 01 20:25:00 +0000 2024,"This is ridiculous, order #229553265 is 7 days late with no explanation.",176,,delivery_delay
+176,AmazonHelp,False,Fri Mar 01 20:53:00 +0000 2024,We're really sorry for the delay on order #897662466. Please DM your order number and address so we can investigate with the carrier. ^JS,,175,delivery_delay
+177,cust_23176,True,Fri Mar 01 20:39:00 +0000 2024,"This is ridiculous, order #893070706 is 6 days late with no explanation.",178,,delivery_delay
+178,AmazonHelp,False,Fri Mar 01 21:20:00 +0000 2024,That's not the experience we want for you. DM us order #733064117 and we'll look into the carrier delay right away. ^AB,,177,delivery_delay
+179,cust_26591,True,Fri Mar 01 20:53:00 +0000 2024,"This is ridiculous, order #418092217 is 7 days late with no explanation.",180,,delivery_delay
+180,AmazonHelp,False,Fri Mar 01 22:06:00 +0000 2024,We're really sorry for the delay on order #424557359. Please DM your order number and address so we can investigate with the carrier. ^JS,,179,delivery_delay
+181,cust_23446,True,Fri Mar 01 21:07:00 +0000 2024,@AmazonHelp order #148872110 missed its delivery window again. What's going on?,182,,delivery_delay
+182,AmazonHelp,False,Fri Mar 01 22:14:00 +0000 2024,Apologies for the wait on order #848846217! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,181,delivery_delay
+183,cust_43092,True,Fri Mar 01 21:21:00 +0000 2024,My order #716396766 was supposed to arrive 9 days ago and it's still not here!,184,,delivery_delay
+184,AmazonHelp,False,Fri Mar 01 21:32:00 +0000 2024,Apologies for the wait on order #572949775! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,183,delivery_delay
+185,cust_29887,True,Fri Mar 01 21:35:00 +0000 2024,"Order #222500131 says delivered but I never got it, and it was already 8 days late.",186,,delivery_delay
+186,AmazonHelp,False,Fri Mar 01 21:46:00 +0000 2024,Apologies for the wait on order #179545125! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,185,delivery_delay
+187,cust_89471,True,Fri Mar 01 21:49:00 +0000 2024,"This is ridiculous, order #970957171 is 6 days late with no explanation.",188,,delivery_delay
+188,AmazonHelp,False,Fri Mar 01 22:47:00 +0000 2024,We're really sorry for the delay on order #366493008. Please DM your order number and address so we can investigate with the carrier. ^JS,,187,delivery_delay
+189,cust_50026,True,Fri Mar 01 22:03:00 +0000 2024,"This is ridiculous, order #932894596 is 8 days late with no explanation.",190,,delivery_delay
+190,AmazonHelp,False,Fri Mar 01 23:02:00 +0000 2024,Apologies for the wait on order #575368059! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,189,delivery_delay
+191,cust_20641,True,Fri Mar 01 22:17:00 +0000 2024,My order #754586204 was supposed to arrive 14 days ago and it's still not here!,192,,delivery_delay
+192,AmazonHelp,False,Fri Mar 01 23:46:00 +0000 2024,We're really sorry for the delay on order #771641650. Please DM your order number and address so we can investigate with the carrier. ^JS,,191,delivery_delay
+193,cust_87832,True,Fri Mar 01 22:31:00 +0000 2024,"This is ridiculous, order #357553274 is 10 days late with no explanation.",194,,delivery_delay
+194,AmazonHelp,False,Fri Mar 01 23:33:00 +0000 2024,We're really sorry for the delay on order #268075622. Please DM your order number and address so we can investigate with the carrier. ^JS,,193,delivery_delay
+195,cust_19329,True,Fri Mar 01 22:45:00 +0000 2024,"Order #412737284 says delivered but I never got it, and it was already 5 days late.",196,,delivery_delay
+196,AmazonHelp,False,Fri Mar 01 23:48:00 +0000 2024,Apologies for the wait on order #859088046! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,195,delivery_delay
+197,cust_94886,True,Fri Mar 01 22:59:00 +0000 2024,"This is ridiculous, order #384063364 is 12 days late with no explanation.",198,,delivery_delay
+198,AmazonHelp,False,Fri Mar 01 23:32:00 +0000 2024,We're really sorry for the delay on order #556489494. Please DM your order number and address so we can investigate with the carrier. ^JS,,197,delivery_delay
+199,cust_47828,True,Fri Mar 01 23:13:00 +0000 2024,"This is ridiculous, order #385220694 is 3 days late with no explanation.",200,,delivery_delay
+200,AmazonHelp,False,Sat Mar 02 00:30:00 +0000 2024,We're really sorry for the delay on order #278158234. Please DM your order number and address so we can investigate with the carrier. ^JS,,199,delivery_delay
+201,cust_80776,True,Fri Mar 01 23:27:00 +0000 2024,"Order #233523720 says delivered but I never got it, and it was already 13 days late.",202,,delivery_delay
+202,AmazonHelp,False,Sat Mar 02 00:36:00 +0000 2024,Apologies for the wait on order #851333320! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,201,delivery_delay
+203,cust_13390,True,Fri Mar 01 23:41:00 +0000 2024,"Order #570040006 says delivered but I never got it, and it was already 11 days late.",204,,delivery_delay
+204,AmazonHelp,False,Sat Mar 02 00:18:00 +0000 2024,We're really sorry for the delay on order #563887247. Please DM your order number and address so we can investigate with the carrier. ^JS,,203,delivery_delay
+205,cust_32962,True,Fri Mar 01 23:55:00 +0000 2024,My order #345805719 was supposed to arrive 11 days ago and it's still not here!,206,,delivery_delay
+206,AmazonHelp,False,Sat Mar 02 00:05:00 +0000 2024,We're really sorry for the delay on order #921155204. Please DM your order number and address so we can investigate with the carrier. ^JS,,205,delivery_delay
+207,cust_21959,True,Sat Mar 02 00:09:00 +0000 2024,"Order #657233178 says delivered but I never got it, and it was already 6 days late.",208,,delivery_delay
+208,AmazonHelp,False,Sat Mar 02 01:16:00 +0000 2024,We're really sorry for the delay on order #728492896. Please DM your order number and address so we can investigate with the carrier. ^JS,,207,delivery_delay
+209,cust_63955,True,Sat Mar 02 00:23:00 +0000 2024,"Order #473620340 says delivered but I never got it, and it was already 7 days late.",210,,delivery_delay
+210,AmazonHelp,False,Sat Mar 02 01:10:00 +0000 2024,Apologies for the wait on order #819550381! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,209,delivery_delay
+211,cust_43082,True,Sat Mar 02 00:37:00 +0000 2024,"Order #409471503 says delivered but I never got it, and it was already 14 days late.",212,,delivery_delay
+212,AmazonHelp,False,Sat Mar 02 01:22:00 +0000 2024,That's not the experience we want for you. DM us order #139403247 and we'll look into the carrier delay right away. ^AB,,211,delivery_delay
+213,cust_17104,True,Sat Mar 02 00:51:00 +0000 2024,@AmazonHelp order #224469868 missed its delivery window again. What's going on?,214,,delivery_delay
+214,AmazonHelp,False,Sat Mar 02 01:48:00 +0000 2024,We're really sorry for the delay on order #806157458. Please DM your order number and address so we can investigate with the carrier. ^JS,,213,delivery_delay
+215,cust_36680,True,Sat Mar 02 01:05:00 +0000 2024,"This is ridiculous, order #656670062 is 11 days late with no explanation.",216,,delivery_delay
+216,AmazonHelp,False,Sat Mar 02 01:16:00 +0000 2024,Apologies for the wait on order #771527524! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,215,delivery_delay
+217,cust_92578,True,Sat Mar 02 01:19:00 +0000 2024,@AmazonHelp order #689720101 missed its delivery window again. What's going on?,218,,delivery_delay
+218,AmazonHelp,False,Sat Mar 02 01:27:00 +0000 2024,Apologies for the wait on order #849740261! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,217,delivery_delay
+219,cust_39451,True,Sat Mar 02 01:33:00 +0000 2024,"This is ridiculous, order #862123506 is 6 days late with no explanation.",220,,delivery_delay
+220,AmazonHelp,False,Sat Mar 02 01:49:00 +0000 2024,That's not the experience we want for you. DM us order #114682844 and we'll look into the carrier delay right away. ^AB,,219,delivery_delay
+221,cust_64459,True,Sat Mar 02 01:47:00 +0000 2024,My order #595475899 was supposed to arrive 12 days ago and it's still not here!,222,,delivery_delay
+222,AmazonHelp,False,Sat Mar 02 02:26:00 +0000 2024,We're really sorry for the delay on order #635126623. Please DM your order number and address so we can investigate with the carrier. ^JS,,221,delivery_delay
+223,cust_76616,True,Sat Mar 02 02:01:00 +0000 2024,"Order #607042130 says delivered but I never got it, and it was already 9 days late.",224,,delivery_delay
+224,AmazonHelp,False,Sat Mar 02 03:22:00 +0000 2024,That's not the experience we want for you. DM us order #255308128 and we'll look into the carrier delay right away. ^AB,,223,delivery_delay
+225,cust_47072,True,Sat Mar 02 02:15:00 +0000 2024,"This is ridiculous, order #174958005 is 14 days late with no explanation.",226,,delivery_delay
+226,AmazonHelp,False,Sat Mar 02 02:20:00 +0000 2024,Apologies for the wait on order #464938258! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,225,delivery_delay
+227,cust_73483,True,Sat Mar 02 02:29:00 +0000 2024,@AmazonHelp order #999232921 missed its delivery window again. What's going on?,228,,delivery_delay
+228,AmazonHelp,False,Sat Mar 02 03:42:00 +0000 2024,That's not the experience we want for you. DM us order #625747313 and we'll look into the carrier delay right away. ^AB,,227,delivery_delay
+229,cust_41300,True,Sat Mar 02 02:43:00 +0000 2024,@AmazonHelp order #456954682 missed its delivery window again. What's going on?,230,,delivery_delay
+230,AmazonHelp,False,Sat Mar 02 03:12:00 +0000 2024,That's not the experience we want for you. DM us order #505026213 and we'll look into the carrier delay right away. ^AB,,229,delivery_delay
+231,cust_60604,True,Sat Mar 02 02:57:00 +0000 2024,"Order #350785761 says delivered but I never got it, and it was already 2 days late.",232,,delivery_delay
+232,AmazonHelp,False,Sat Mar 02 03:50:00 +0000 2024,Apologies for the wait on order #899621068! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,,231,delivery_delay
+233,cust_23069,True,Sat Mar 02 03:11:00 +0000 2024,"This is ridiculous, order #631855083 is 4 days late with no explanation.",234,,delivery_delay
+234,AmazonHelp,False,Sat Mar 02 04:12:00 +0000 2024,That's not the experience we want for you. DM us order #733701411 and we'll look into the carrier delay right away. ^AB,,233,delivery_delay
+235,cust_54375,True,Sat Mar 02 03:25:00 +0000 2024,"Order #116479358 says delivered but I never got it, and it was already 8 days late.",236,,delivery_delay
+236,AmazonHelp,False,Sat Mar 02 04:03:00 +0000 2024,That's not the experience we want for you. DM us order #265744099 and we'll look into the carrier delay right away. ^AB,,235,delivery_delay
+237,cust_73956,True,Sat Mar 02 03:39:00 +0000 2024,"Order #797756796 says delivered but I never got it, and it was already 7 days late.",238,,delivery_delay
+238,AmazonHelp,False,Sat Mar 02 05:04:00 +0000 2024,That's not the experience we want for you. DM us order #672972597 and we'll look into the carrier delay right away. ^AB,,237,delivery_delay
+239,cust_66881,True,Sat Mar 02 03:53:00 +0000 2024,My order #762992051 was supposed to arrive 5 days ago and it's still not here!,240,,delivery_delay
+240,AmazonHelp,False,Sat Mar 02 04:09:00 +0000 2024,That's not the experience we want for you. DM us order #834868441 and we'll look into the carrier delay right away. ^AB,,239,delivery_delay
+241,cust_52516,True,Sat Mar 02 04:07:00 +0000 2024,the blender arrived completely broken from order #916440738. Not happy.,242,,damaged_or_wrong_item
+242,AmazonHelp,False,Sat Mar 02 04:17:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #845178074 and we'll get a replacement started. ^KT",,241,damaged_or_wrong_item
+243,cust_84177,True,Sat Mar 02 04:21:00 +0000 2024,my shoes arrived completely broken from order #415001254. Not happy.,244,,damaged_or_wrong_item
+244,AmazonHelp,False,Sat Mar 02 05:18:00 +0000 2024,"That's not okay, we'll fix this. DM order #256304376 with a photo of the damage so we can process a replacement. ^JS",,243,damaged_or_wrong_item
+245,cust_75230,True,Sat Mar 02 04:35:00 +0000 2024,"I got the wrong item for order #282518553, I ordered my phone case and got something else.",246,,damaged_or_wrong_item
+246,AmazonHelp,False,Sat Mar 02 05:10:00 +0000 2024,Sorry about that! Send a DM with order #510753814 and a picture and we'll sort out a replacement or refund. ^DM,,245,damaged_or_wrong_item
+247,cust_70981,True,Sat Mar 02 04:49:00 +0000 2024,"I got the wrong item for order #349310440, I ordered the monitor and got something else.",248,,damaged_or_wrong_item
+248,AmazonHelp,False,Sat Mar 02 04:55:00 +0000 2024,"That's not okay, we'll fix this. DM order #593460064 with a photo of the damage so we can process a replacement. ^JS",,247,damaged_or_wrong_item
+249,cust_93746,True,Sat Mar 02 05:03:00 +0000 2024,"Order #827579147 arrived damaged, the vacuum was smashed in the box.",250,,damaged_or_wrong_item
+250,AmazonHelp,False,Sat Mar 02 05:46:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #574303740 and we'll get a replacement started. ^KT",,249,damaged_or_wrong_item
+251,cust_41091,True,Sat Mar 02 05:17:00 +0000 2024,"This is the second time the router came defective, order #841218491.",252,,damaged_or_wrong_item
+252,AmazonHelp,False,Sat Mar 02 05:35:00 +0000 2024,"That's not okay, we'll fix this. DM order #313907621 with a photo of the damage so we can process a replacement. ^JS",,251,damaged_or_wrong_item
+253,cust_61879,True,Sat Mar 02 05:31:00 +0000 2024,"This is the second time my shoes came defective, order #714097318.",254,,damaged_or_wrong_item
+254,AmazonHelp,False,Sat Mar 02 07:00:00 +0000 2024,"That's not okay, we'll fix this. DM order #850845198 with a photo of the damage so we can process a replacement. ^JS",,253,damaged_or_wrong_item
+255,cust_47512,True,Sat Mar 02 05:45:00 +0000 2024,"Order #108695125 arrived damaged, the coffee maker was smashed in the box.",256,,damaged_or_wrong_item
+256,AmazonHelp,False,Sat Mar 02 06:53:00 +0000 2024,Sorry about that! Send a DM with order #152660856 and a picture and we'll sort out a replacement or refund. ^DM,,255,damaged_or_wrong_item
+257,cust_99241,True,Sat Mar 02 05:59:00 +0000 2024,"I got the wrong item for order #751831074, I ordered my shoes and got something else.",258,,damaged_or_wrong_item
+258,AmazonHelp,False,Sat Mar 02 07:28:00 +0000 2024,Sorry about that! Send a DM with order #304152670 and a picture and we'll sort out a replacement or refund. ^DM,,257,damaged_or_wrong_item
+259,cust_14373,True,Sat Mar 02 06:13:00 +0000 2024,"I got the wrong item for order #774576271, I ordered the blender and got something else.",260,,damaged_or_wrong_item
+260,AmazonHelp,False,Sat Mar 02 07:14:00 +0000 2024,Sorry about that! Send a DM with order #142329671 and a picture and we'll sort out a replacement or refund. ^DM,,259,damaged_or_wrong_item
+261,cust_27322,True,Sat Mar 02 06:27:00 +0000 2024,"Order #886365312 arrived damaged, my phone case was smashed in the box.",262,,damaged_or_wrong_item
+262,AmazonHelp,False,Sat Mar 02 06:57:00 +0000 2024,"That's not okay, we'll fix this. DM order #450811990 with a photo of the damage so we can process a replacement. ^JS",,261,damaged_or_wrong_item
+263,cust_54396,True,Sat Mar 02 06:41:00 +0000 2024,"Order #669998399 arrived damaged, the vacuum was smashed in the box.",264,,damaged_or_wrong_item
+264,AmazonHelp,False,Sat Mar 02 07:23:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #375919523 and we'll get a replacement started. ^KT",,263,damaged_or_wrong_item
+265,cust_57942,True,Sat Mar 02 06:55:00 +0000 2024,the blender arrived completely broken from order #602866993. Not happy.,266,,damaged_or_wrong_item
+266,AmazonHelp,False,Sat Mar 02 08:11:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #826197069 and we'll get a replacement started. ^KT",,265,damaged_or_wrong_item
+267,cust_98188,True,Sat Mar 02 07:09:00 +0000 2024,the backpack arrived completely broken from order #948988297. Not happy.,268,,damaged_or_wrong_item
+268,AmazonHelp,False,Sat Mar 02 08:01:00 +0000 2024,"That's not okay, we'll fix this. DM order #676140134 with a photo of the damage so we can process a replacement. ^JS",,267,damaged_or_wrong_item
+269,cust_91205,True,Sat Mar 02 07:23:00 +0000 2024,"Order #727666622 arrived damaged, the backpack was smashed in the box.",270,,damaged_or_wrong_item
+270,AmazonHelp,False,Sat Mar 02 07:31:00 +0000 2024,"That's not okay, we'll fix this. DM order #216335741 with a photo of the damage so we can process a replacement. ^JS",,269,damaged_or_wrong_item
+271,cust_95097,True,Sat Mar 02 07:37:00 +0000 2024,"Order #755070775 arrived damaged, the desk lamp was smashed in the box.",272,,damaged_or_wrong_item
+272,AmazonHelp,False,Sat Mar 02 08:20:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #782259766 and we'll get a replacement started. ^KT",,271,damaged_or_wrong_item
+273,cust_40775,True,Sat Mar 02 07:51:00 +0000 2024,"This is the second time my phone case came defective, order #225279834.",274,,damaged_or_wrong_item
+274,AmazonHelp,False,Sat Mar 02 08:08:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #426808977 and we'll get a replacement started. ^KT",,273,damaged_or_wrong_item
+275,cust_30253,True,Sat Mar 02 08:05:00 +0000 2024,"I got the wrong item for order #517305280, I ordered the monitor and got something else.",276,,damaged_or_wrong_item
+276,AmazonHelp,False,Sat Mar 02 09:25:00 +0000 2024,Sorry about that! Send a DM with order #897940629 and a picture and we'll sort out a replacement or refund. ^DM,,275,damaged_or_wrong_item
+277,cust_38477,True,Sat Mar 02 08:19:00 +0000 2024,"This is the second time the blender came defective, order #803217037.",278,,damaged_or_wrong_item
+278,AmazonHelp,False,Sat Mar 02 09:11:00 +0000 2024,Sorry about that! Send a DM with order #538211092 and a picture and we'll sort out a replacement or refund. ^DM,,277,damaged_or_wrong_item
+279,cust_57012,True,Sat Mar 02 08:33:00 +0000 2024,"This is the second time the desk lamp came defective, order #577488537.",280,,damaged_or_wrong_item
+280,AmazonHelp,False,Sat Mar 02 10:00:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #836243579 and we'll get a replacement started. ^KT",,279,damaged_or_wrong_item
+281,cust_37801,True,Sat Mar 02 08:47:00 +0000 2024,the router arrived completely broken from order #527499187. Not happy.,282,,damaged_or_wrong_item
+282,AmazonHelp,False,Sat Mar 02 10:16:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #984968439 and we'll get a replacement started. ^KT",,281,damaged_or_wrong_item
+283,cust_82641,True,Sat Mar 02 09:01:00 +0000 2024,my shoes arrived completely broken from order #154308262. Not happy.,284,,damaged_or_wrong_item
+284,AmazonHelp,False,Sat Mar 02 09:14:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #945011302 and we'll get a replacement started. ^KT",,283,damaged_or_wrong_item
+285,cust_10371,True,Sat Mar 02 09:15:00 +0000 2024,"I got the wrong item for order #729624046, I ordered the desk lamp and got something else.",286,,damaged_or_wrong_item
+286,AmazonHelp,False,Sat Mar 02 10:36:00 +0000 2024,"That's not okay, we'll fix this. DM order #931471931 with a photo of the damage so we can process a replacement. ^JS",,285,damaged_or_wrong_item
+287,cust_13379,True,Sat Mar 02 09:29:00 +0000 2024,"Order #255357534 arrived damaged, my phone case was smashed in the box.",288,,damaged_or_wrong_item
+288,AmazonHelp,False,Sat Mar 02 10:58:00 +0000 2024,"That's not okay, we'll fix this. DM order #957397689 with a photo of the damage so we can process a replacement. ^JS",,287,damaged_or_wrong_item
+289,cust_44782,True,Sat Mar 02 09:43:00 +0000 2024,"I got the wrong item for order #115956152, I ordered my shoes and got something else.",290,,damaged_or_wrong_item
+290,AmazonHelp,False,Sat Mar 02 10:10:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #732276010 and we'll get a replacement started. ^KT",,289,damaged_or_wrong_item
+291,cust_57453,True,Sat Mar 02 09:57:00 +0000 2024,the backpack arrived completely broken from order #236105947. Not happy.,292,,damaged_or_wrong_item
+292,AmazonHelp,False,Sat Mar 02 10:59:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #900651998 and we'll get a replacement started. ^KT",,291,damaged_or_wrong_item
+293,cust_94323,True,Sat Mar 02 10:11:00 +0000 2024,the vacuum arrived completely broken from order #585337126. Not happy.,294,,damaged_or_wrong_item
+294,AmazonHelp,False,Sat Mar 02 11:14:00 +0000 2024,Sorry about that! Send a DM with order #146562851 and a picture and we'll sort out a replacement or refund. ^DM,,293,damaged_or_wrong_item
+295,cust_19632,True,Sat Mar 02 10:25:00 +0000 2024,the monitor arrived completely broken from order #165310776. Not happy.,296,,damaged_or_wrong_item
+296,AmazonHelp,False,Sat Mar 02 11:26:00 +0000 2024,"That's not okay, we'll fix this. DM order #836691577 with a photo of the damage so we can process a replacement. ^JS",,295,damaged_or_wrong_item
+297,cust_86724,True,Sat Mar 02 10:39:00 +0000 2024,the coffee maker arrived completely broken from order #445864933. Not happy.,298,,damaged_or_wrong_item
+298,AmazonHelp,False,Sat Mar 02 12:05:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #235497187 and we'll get a replacement started. ^KT",,297,damaged_or_wrong_item
+299,cust_22999,True,Sat Mar 02 10:53:00 +0000 2024,"Order #508992977 arrived damaged, the coffee maker was smashed in the box.",300,,damaged_or_wrong_item
+300,AmazonHelp,False,Sat Mar 02 11:53:00 +0000 2024,"That's not okay, we'll fix this. DM order #587173220 with a photo of the damage so we can process a replacement. ^JS",,299,damaged_or_wrong_item
+301,cust_54424,True,Sat Mar 02 11:07:00 +0000 2024,the vacuum arrived completely broken from order #802992685. Not happy.,302,,damaged_or_wrong_item
+302,AmazonHelp,False,Sat Mar 02 12:04:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #561784080 and we'll get a replacement started. ^KT",,301,damaged_or_wrong_item
+303,cust_43408,True,Sat Mar 02 11:21:00 +0000 2024,"This is the second time the backpack came defective, order #528133274.",304,,damaged_or_wrong_item
+304,AmazonHelp,False,Sat Mar 02 12:51:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #435596237 and we'll get a replacement started. ^KT",,303,damaged_or_wrong_item
+305,cust_22656,True,Sat Mar 02 11:35:00 +0000 2024,"Order #263894795 arrived damaged, the monitor was smashed in the box.",306,,damaged_or_wrong_item
+306,AmazonHelp,False,Sat Mar 02 12:35:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #993108266 and we'll get a replacement started. ^KT",,305,damaged_or_wrong_item
+307,cust_97819,True,Sat Mar 02 11:49:00 +0000 2024,"Order #971630639 arrived damaged, my phone case was smashed in the box.",308,,damaged_or_wrong_item
+308,AmazonHelp,False,Sat Mar 02 12:36:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #729712082 and we'll get a replacement started. ^KT",,307,damaged_or_wrong_item
+309,cust_50953,True,Sat Mar 02 12:03:00 +0000 2024,my shoes arrived completely broken from order #541102414. Not happy.,310,,damaged_or_wrong_item
+310,AmazonHelp,False,Sat Mar 02 13:24:00 +0000 2024,"That's not okay, we'll fix this. DM order #874233009 with a photo of the damage so we can process a replacement. ^JS",,309,damaged_or_wrong_item
+311,cust_55890,True,Sat Mar 02 12:17:00 +0000 2024,"Order #211240259 arrived damaged, the coffee maker was smashed in the box.",312,,damaged_or_wrong_item
+312,AmazonHelp,False,Sat Mar 02 12:35:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #266140258 and we'll get a replacement started. ^KT",,311,damaged_or_wrong_item
+313,cust_90422,True,Sat Mar 02 12:31:00 +0000 2024,"Order #223357166 arrived damaged, the router was smashed in the box.",314,,damaged_or_wrong_item
+314,AmazonHelp,False,Sat Mar 02 13:55:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #966747347 and we'll get a replacement started. ^KT",,313,damaged_or_wrong_item
+315,cust_10800,True,Sat Mar 02 12:45:00 +0000 2024,the router arrived completely broken from order #753903309. Not happy.,316,,damaged_or_wrong_item
+316,AmazonHelp,False,Sat Mar 02 13:34:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #393421844 and we'll get a replacement started. ^KT",,315,damaged_or_wrong_item
+317,cust_14018,True,Sat Mar 02 12:59:00 +0000 2024,"I got the wrong item for order #253815116, I ordered the coffee maker and got something else.",318,,damaged_or_wrong_item
+318,AmazonHelp,False,Sat Mar 02 14:25:00 +0000 2024,"That's not okay, we'll fix this. DM order #174716780 with a photo of the damage so we can process a replacement. ^JS",,317,damaged_or_wrong_item
+319,cust_58503,True,Sat Mar 02 13:13:00 +0000 2024,the vacuum arrived completely broken from order #901131404. Not happy.,320,,damaged_or_wrong_item
+320,AmazonHelp,False,Sat Mar 02 13:38:00 +0000 2024,"That's not okay, we'll fix this. DM order #550791704 with a photo of the damage so we can process a replacement. ^JS",,319,damaged_or_wrong_item
+321,cust_30632,True,Sat Mar 02 13:27:00 +0000 2024,"Order #874807770 arrived damaged, my shoes was smashed in the box.",322,,damaged_or_wrong_item
+322,AmazonHelp,False,Sat Mar 02 13:51:00 +0000 2024,Sorry about that! Send a DM with order #740190407 and a picture and we'll sort out a replacement or refund. ^DM,,321,damaged_or_wrong_item
+323,cust_67939,True,Sat Mar 02 13:41:00 +0000 2024,the blender arrived completely broken from order #823668399. Not happy.,324,,damaged_or_wrong_item
+324,AmazonHelp,False,Sat Mar 02 15:03:00 +0000 2024,"That's not okay, we'll fix this. DM order #810751262 with a photo of the damage so we can process a replacement. ^JS",,323,damaged_or_wrong_item
+325,cust_47125,True,Sat Mar 02 13:55:00 +0000 2024,"This is the second time the desk lamp came defective, order #393310667.",326,,damaged_or_wrong_item
+326,AmazonHelp,False,Sat Mar 02 14:14:00 +0000 2024,Sorry about that! Send a DM with order #222210617 and a picture and we'll sort out a replacement or refund. ^DM,,325,damaged_or_wrong_item
+327,cust_36794,True,Sat Mar 02 14:09:00 +0000 2024,"This is the second time the router came defective, order #665791188.",328,,damaged_or_wrong_item
+328,AmazonHelp,False,Sat Mar 02 14:14:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #524410834 and we'll get a replacement started. ^KT",,327,damaged_or_wrong_item
+329,cust_75193,True,Sat Mar 02 14:23:00 +0000 2024,"Order #326810757 arrived damaged, my phone case was smashed in the box.",330,,damaged_or_wrong_item
+330,AmazonHelp,False,Sat Mar 02 14:28:00 +0000 2024,"That's not okay, we'll fix this. DM order #410791488 with a photo of the damage so we can process a replacement. ^JS",,329,damaged_or_wrong_item
+331,cust_97562,True,Sat Mar 02 14:37:00 +0000 2024,"This is the second time my phone case came defective, order #288650860.",332,,damaged_or_wrong_item
+332,AmazonHelp,False,Sat Mar 02 15:53:00 +0000 2024,Sorry about that! Send a DM with order #855561271 and a picture and we'll sort out a replacement or refund. ^DM,,331,damaged_or_wrong_item
+333,cust_51033,True,Sat Mar 02 14:51:00 +0000 2024,"Order #177390472 arrived damaged, the backpack was smashed in the box.",334,,damaged_or_wrong_item
+334,AmazonHelp,False,Sat Mar 02 15:05:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #568387228 and we'll get a replacement started. ^KT",,333,damaged_or_wrong_item
+335,cust_12733,True,Sat Mar 02 15:05:00 +0000 2024,"This is the second time the backpack came defective, order #715683222.",336,,damaged_or_wrong_item
+336,AmazonHelp,False,Sat Mar 02 16:01:00 +0000 2024,Sorry about that! Send a DM with order #548495473 and a picture and we'll sort out a replacement or refund. ^DM,,335,damaged_or_wrong_item
+337,cust_41891,True,Sat Mar 02 15:19:00 +0000 2024,"Order #284547422 arrived damaged, the coffee maker was smashed in the box.",338,,damaged_or_wrong_item
+338,AmazonHelp,False,Sat Mar 02 15:37:00 +0000 2024,Sorry about that! Send a DM with order #488536370 and a picture and we'll sort out a replacement or refund. ^DM,,337,damaged_or_wrong_item
+339,cust_39041,True,Sat Mar 02 15:33:00 +0000 2024,"This is the second time the backpack came defective, order #732295732.",340,,damaged_or_wrong_item
+340,AmazonHelp,False,Sat Mar 02 16:21:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #524951250 and we'll get a replacement started. ^KT",,339,damaged_or_wrong_item
+341,cust_35415,True,Sat Mar 02 15:47:00 +0000 2024,"Order #936571442 arrived damaged, my phone case was smashed in the box.",342,,damaged_or_wrong_item
+342,AmazonHelp,False,Sat Mar 02 16:57:00 +0000 2024,Sorry about that! Send a DM with order #779919809 and a picture and we'll sort out a replacement or refund. ^DM,,341,damaged_or_wrong_item
+343,cust_88957,True,Sat Mar 02 16:01:00 +0000 2024,"Order #476990466 arrived damaged, my phone case was smashed in the box.",344,,damaged_or_wrong_item
+344,AmazonHelp,False,Sat Mar 02 16:28:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #257243284 and we'll get a replacement started. ^KT",,343,damaged_or_wrong_item
+345,cust_85952,True,Sat Mar 02 16:15:00 +0000 2024,"I got the wrong item for order #916274954, I ordered the blender and got something else.",346,,damaged_or_wrong_item
+346,AmazonHelp,False,Sat Mar 02 17:32:00 +0000 2024,Sorry about that! Send a DM with order #630554118 and a picture and we'll sort out a replacement or refund. ^DM,,345,damaged_or_wrong_item
+347,cust_29786,True,Sat Mar 02 16:29:00 +0000 2024,"This is the second time the coffee maker came defective, order #831361497.",348,,damaged_or_wrong_item
+348,AmazonHelp,False,Sat Mar 02 17:14:00 +0000 2024,Sorry about that! Send a DM with order #770575153 and a picture and we'll sort out a replacement or refund. ^DM,,347,damaged_or_wrong_item
+349,cust_56129,True,Sat Mar 02 16:43:00 +0000 2024,"This is the second time the monitor came defective, order #173321814.",350,,damaged_or_wrong_item
+350,AmazonHelp,False,Sat Mar 02 16:55:00 +0000 2024,Sorry about that! Send a DM with order #425150964 and a picture and we'll sort out a replacement or refund. ^DM,,349,damaged_or_wrong_item
+351,cust_94497,True,Sat Mar 02 16:57:00 +0000 2024,the monitor arrived completely broken from order #433297890. Not happy.,352,,damaged_or_wrong_item
+352,AmazonHelp,False,Sat Mar 02 17:11:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #161085229 and we'll get a replacement started. ^KT",,351,damaged_or_wrong_item
+353,cust_68947,True,Sat Mar 02 17:11:00 +0000 2024,the coffee maker arrived completely broken from order #760360225. Not happy.,354,,damaged_or_wrong_item
+354,AmazonHelp,False,Sat Mar 02 17:21:00 +0000 2024,"That's not okay, we'll fix this. DM order #596832859 with a photo of the damage so we can process a replacement. ^JS",,353,damaged_or_wrong_item
+355,cust_55015,True,Sat Mar 02 17:25:00 +0000 2024,"I got the wrong item for order #445236735, I ordered the coffee maker and got something else.",356,,damaged_or_wrong_item
+356,AmazonHelp,False,Sat Mar 02 17:43:00 +0000 2024,Sorry about that! Send a DM with order #261985842 and a picture and we'll sort out a replacement or refund. ^DM,,355,damaged_or_wrong_item
+357,cust_78517,True,Sat Mar 02 17:39:00 +0000 2024,my phone case arrived completely broken from order #641755366. Not happy.,358,,damaged_or_wrong_item
+358,AmazonHelp,False,Sat Mar 02 18:51:00 +0000 2024,"Oh no, we're sorry to hear that! Please DM us a photo along with order #859803019 and we'll get a replacement started. ^KT",,357,damaged_or_wrong_item
+359,cust_16863,True,Sat Mar 02 17:53:00 +0000 2024,"I got the wrong item for order #490732457, I ordered my shoes and got something else.",360,,damaged_or_wrong_item
+360,AmazonHelp,False,Sat Mar 02 19:14:00 +0000 2024,"That's not okay, we'll fix this. DM order #538912794 with a photo of the damage so we can process a replacement. ^JS",,359,damaged_or_wrong_item
+361,cust_96057,True,Sat Mar 02 18:07:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #170772317.",362,,refund_request
+362,AmazonHelp,False,Sat Mar 02 18:44:00 +0000 2024,We'd like to make this right. Send order #828404274 via DM and our team will look into the refund. ^KT,,361,refund_request
+363,cust_96787,True,Sat Mar 02 18:21:00 +0000 2024,"Please refund order #457944766 immediately, item never arrived.",364,,refund_request
+364,AmazonHelp,False,Sat Mar 02 19:49:00 +0000 2024,We'd like to make this right. Send order #251857566 via DM and our team will look into the refund. ^KT,,363,refund_request
+365,cust_53054,True,Sat Mar 02 18:35:00 +0000 2024,"Cancel and refund order #238460786, I don't want it anymore after this experience.",366,,refund_request
+366,AmazonHelp,False,Sat Mar 02 20:02:00 +0000 2024,We completely understand. Please DM your order number #432411019 so we can review and process a refund. ^RL,,365,refund_request
+367,cust_12389,True,Sat Mar 02 18:49:00 +0000 2024,"Please refund order #819532005 immediately, item never arrived.",368,,refund_request
+368,AmazonHelp,False,Sat Mar 02 19:40:00 +0000 2024,We'd like to make this right. Send order #819896690 via DM and our team will look into the refund. ^KT,,367,refund_request
+369,cust_28030,True,Sat Mar 02 19:03:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #431642423.",370,,refund_request
+370,AmazonHelp,False,Sat Mar 02 19:36:00 +0000 2024,So sorry for the trouble. DM us order #922653967 and we'll get the refund process started for you. ^AB,,369,refund_request
+371,cust_14947,True,Sat Mar 02 19:17:00 +0000 2024,"Please refund order #182855381 immediately, item never arrived.",372,,refund_request
+372,AmazonHelp,False,Sat Mar 02 20:29:00 +0000 2024,We completely understand. Please DM your order number #645127678 so we can review and process a refund. ^RL,,371,refund_request
+373,cust_91885,True,Sat Mar 02 19:31:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #922816526.",374,,refund_request
+374,AmazonHelp,False,Sat Mar 02 19:59:00 +0000 2024,We'd like to make this right. Send order #504499880 via DM and our team will look into the refund. ^KT,,373,refund_request
+375,cust_47346,True,Sat Mar 02 19:45:00 +0000 2024,"Please refund order #874364348 immediately, item never arrived.",376,,refund_request
+376,AmazonHelp,False,Sat Mar 02 21:08:00 +0000 2024,So sorry for the trouble. DM us order #491163514 and we'll get the refund process started for you. ^AB,,375,refund_request
+377,cust_98907,True,Sat Mar 02 19:59:00 +0000 2024,"Cancel and refund order #351258749, I don't want it anymore after this experience.",378,,refund_request
+378,AmazonHelp,False,Sat Mar 02 20:51:00 +0000 2024,So sorry for the trouble. DM us order #968253265 and we'll get the refund process started for you. ^AB,,377,refund_request
+379,cust_36174,True,Sat Mar 02 20:13:00 +0000 2024,"Cancel and refund order #595725097, I don't want it anymore after this experience.",380,,refund_request
+380,AmazonHelp,False,Sat Mar 02 20:38:00 +0000 2024,So sorry for the trouble. DM us order #639991949 and we'll get the refund process started for you. ^AB,,379,refund_request
+381,cust_26341,True,Sat Mar 02 20:27:00 +0000 2024,"Please refund order #368438908 immediately, item never arrived.",382,,refund_request
+382,AmazonHelp,False,Sat Mar 02 21:38:00 +0000 2024,So sorry for the trouble. DM us order #498585961 and we'll get the refund process started for you. ^AB,,381,refund_request
+383,cust_39102,True,Sat Mar 02 20:41:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #190060226.",384,,refund_request
+384,AmazonHelp,False,Sat Mar 02 20:57:00 +0000 2024,So sorry for the trouble. DM us order #651208305 and we'll get the refund process started for you. ^AB,,383,refund_request
+385,cust_60615,True,Sat Mar 02 20:55:00 +0000 2024,"Cancel and refund order #475364113, I don't want it anymore after this experience.",386,,refund_request
+386,AmazonHelp,False,Sat Mar 02 21:30:00 +0000 2024,We completely understand. Please DM your order number #525689202 so we can review and process a refund. ^RL,,385,refund_request
+387,cust_28035,True,Sat Mar 02 21:09:00 +0000 2024,"I want a full refund for order #502559419, this is unacceptable.",388,,refund_request
+388,AmazonHelp,False,Sat Mar 02 21:32:00 +0000 2024,So sorry for the trouble. DM us order #206389694 and we'll get the refund process started for you. ^AB,,387,refund_request
+389,cust_10688,True,Sat Mar 02 21:23:00 +0000 2024,"I want a full refund for order #408034406, this is unacceptable.",390,,refund_request
+390,AmazonHelp,False,Sat Mar 02 22:46:00 +0000 2024,We completely understand. Please DM your order number #914799481 so we can review and process a refund. ^RL,,389,refund_request
+391,cust_24573,True,Sat Mar 02 21:37:00 +0000 2024,"I want a full refund for order #120405269, this is unacceptable.",392,,refund_request
+392,AmazonHelp,False,Sat Mar 02 22:36:00 +0000 2024,We completely understand. Please DM your order number #689274064 so we can review and process a refund. ^RL,,391,refund_request
+393,cust_69914,True,Sat Mar 02 21:51:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #355164255.",394,,refund_request
+394,AmazonHelp,False,Sat Mar 02 23:15:00 +0000 2024,We completely understand. Please DM your order number #356022467 so we can review and process a refund. ^RL,,393,refund_request
+395,cust_28818,True,Sat Mar 02 22:05:00 +0000 2024,"I want a full refund for order #219032752, this is unacceptable.",396,,refund_request
+396,AmazonHelp,False,Sat Mar 02 22:40:00 +0000 2024,We'd like to make this right. Send order #117647321 via DM and our team will look into the refund. ^KT,,395,refund_request
+397,cust_97080,True,Sat Mar 02 22:19:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #560891752.",398,,refund_request
+398,AmazonHelp,False,Sat Mar 02 22:47:00 +0000 2024,So sorry for the trouble. DM us order #358303887 and we'll get the refund process started for you. ^AB,,397,refund_request
+399,cust_82633,True,Sat Mar 02 22:33:00 +0000 2024,"I want a full refund for order #662087258, this is unacceptable.",400,,refund_request
+400,AmazonHelp,False,Sat Mar 02 23:42:00 +0000 2024,We'd like to make this right. Send order #684203557 via DM and our team will look into the refund. ^KT,,399,refund_request
+401,cust_56805,True,Sat Mar 02 22:47:00 +0000 2024,"I want a full refund for order #519246503, this is unacceptable.",402,,refund_request
+402,AmazonHelp,False,Sat Mar 02 22:54:00 +0000 2024,We'd like to make this right. Send order #515410649 via DM and our team will look into the refund. ^KT,,401,refund_request
+403,cust_53583,True,Sat Mar 02 23:01:00 +0000 2024,"I want a full refund for order #470228863, this is unacceptable.",404,,refund_request
+404,AmazonHelp,False,Sun Mar 03 00:20:00 +0000 2024,We'd like to make this right. Send order #774585778 via DM and our team will look into the refund. ^KT,,403,refund_request
+405,cust_72722,True,Sat Mar 02 23:15:00 +0000 2024,"Please refund order #147605080 immediately, item never arrived.",406,,refund_request
+406,AmazonHelp,False,Sun Mar 03 00:19:00 +0000 2024,So sorry for the trouble. DM us order #973498494 and we'll get the refund process started for you. ^AB,,405,refund_request
+407,cust_36422,True,Sat Mar 02 23:29:00 +0000 2024,"Please refund order #971339002 immediately, item never arrived.",408,,refund_request
+408,AmazonHelp,False,Sun Mar 03 00:11:00 +0000 2024,We'd like to make this right. Send order #933428091 via DM and our team will look into the refund. ^KT,,407,refund_request
+409,cust_72049,True,Sat Mar 02 23:43:00 +0000 2024,"I want a full refund for order #949447049, this is unacceptable.",410,,refund_request
+410,AmazonHelp,False,Sun Mar 03 00:57:00 +0000 2024,So sorry for the trouble. DM us order #432941445 and we'll get the refund process started for you. ^AB,,409,refund_request
+411,cust_45811,True,Sat Mar 02 23:57:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #139321248.",412,,refund_request
+412,AmazonHelp,False,Sun Mar 03 00:44:00 +0000 2024,So sorry for the trouble. DM us order #938422254 and we'll get the refund process started for you. ^AB,,411,refund_request
+413,cust_34486,True,Sun Mar 03 00:11:00 +0000 2024,"I want a full refund for order #958287383, this is unacceptable.",414,,refund_request
+414,AmazonHelp,False,Sun Mar 03 00:59:00 +0000 2024,So sorry for the trouble. DM us order #898120571 and we'll get the refund process started for you. ^AB,,413,refund_request
+415,cust_20345,True,Sun Mar 03 00:25:00 +0000 2024,"Cancel and refund order #843102880, I don't want it anymore after this experience.",416,,refund_request
+416,AmazonHelp,False,Sun Mar 03 01:24:00 +0000 2024,We'd like to make this right. Send order #386389162 via DM and our team will look into the refund. ^KT,,415,refund_request
+417,cust_96628,True,Sun Mar 03 00:39:00 +0000 2024,"Cancel and refund order #746879296, I don't want it anymore after this experience.",418,,refund_request
+418,AmazonHelp,False,Sun Mar 03 01:25:00 +0000 2024,So sorry for the trouble. DM us order #444898148 and we'll get the refund process started for you. ^AB,,417,refund_request
+419,cust_56077,True,Sun Mar 03 00:53:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #429097422.",420,,refund_request
+420,AmazonHelp,False,Sun Mar 03 01:54:00 +0000 2024,We'd like to make this right. Send order #557538651 via DM and our team will look into the refund. ^KT,,419,refund_request
+421,cust_93560,True,Sun Mar 03 01:07:00 +0000 2024,"Cancel and refund order #145478504, I don't want it anymore after this experience.",422,,refund_request
+422,AmazonHelp,False,Sun Mar 03 02:37:00 +0000 2024,So sorry for the trouble. DM us order #394801573 and we'll get the refund process started for you. ^AB,,421,refund_request
+423,cust_89635,True,Sun Mar 03 01:21:00 +0000 2024,"Cancel and refund order #490102359, I don't want it anymore after this experience.",424,,refund_request
+424,AmazonHelp,False,Sun Mar 03 01:44:00 +0000 2024,We'd like to make this right. Send order #829511584 via DM and our team will look into the refund. ^KT,,423,refund_request
+425,cust_84349,True,Sun Mar 03 01:35:00 +0000 2024,"Cancel and refund order #137365109, I don't want it anymore after this experience.",426,,refund_request
+426,AmazonHelp,False,Sun Mar 03 02:29:00 +0000 2024,We completely understand. Please DM your order number #935924516 so we can review and process a refund. ^RL,,425,refund_request
+427,cust_85225,True,Sun Mar 03 01:49:00 +0000 2024,"I want a full refund for order #749715626, this is unacceptable.",428,,refund_request
+428,AmazonHelp,False,Sun Mar 03 02:03:00 +0000 2024,So sorry for the trouble. DM us order #498320110 and we'll get the refund process started for you. ^AB,,427,refund_request
+429,cust_13396,True,Sun Mar 03 02:03:00 +0000 2024,"Please refund order #668503222 immediately, item never arrived.",430,,refund_request
+430,AmazonHelp,False,Sun Mar 03 02:22:00 +0000 2024,So sorry for the trouble. DM us order #797460535 and we'll get the refund process started for you. ^AB,,429,refund_request
+431,cust_68493,True,Sun Mar 03 02:17:00 +0000 2024,"Please refund order #635844374 immediately, item never arrived.",432,,refund_request
+432,AmazonHelp,False,Sun Mar 03 02:55:00 +0000 2024,We'd like to make this right. Send order #226444910 via DM and our team will look into the refund. ^KT,,431,refund_request
+433,cust_69250,True,Sun Mar 03 02:31:00 +0000 2024,"Please refund order #756998124 immediately, item never arrived.",434,,refund_request
+434,AmazonHelp,False,Sun Mar 03 02:45:00 +0000 2024,So sorry for the trouble. DM us order #314939857 and we'll get the refund process started for you. ^AB,,433,refund_request
+435,cust_82089,True,Sun Mar 03 02:45:00 +0000 2024,"Please refund order #865975088 immediately, item never arrived.",436,,refund_request
+436,AmazonHelp,False,Sun Mar 03 02:58:00 +0000 2024,We'd like to make this right. Send order #443154754 via DM and our team will look into the refund. ^KT,,435,refund_request
+437,cust_76683,True,Sun Mar 03 02:59:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #422076028.",438,,refund_request
+438,AmazonHelp,False,Sun Mar 03 03:50:00 +0000 2024,We'd like to make this right. Send order #851854702 via DM and our team will look into the refund. ^KT,,437,refund_request
+439,cust_82616,True,Sun Mar 03 03:13:00 +0000 2024,"Please refund order #230311939 immediately, item never arrived.",440,,refund_request
+440,AmazonHelp,False,Sun Mar 03 04:04:00 +0000 2024,We completely understand. Please DM your order number #354193540 so we can review and process a refund. ^RL,,439,refund_request
+441,cust_72739,True,Sun Mar 03 03:27:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #601873197.",442,,refund_request
+442,AmazonHelp,False,Sun Mar 03 04:22:00 +0000 2024,We'd like to make this right. Send order #192573170 via DM and our team will look into the refund. ^KT,,441,refund_request
+443,cust_68979,True,Sun Mar 03 03:41:00 +0000 2024,"Cancel and refund order #925884151, I don't want it anymore after this experience.",444,,refund_request
+444,AmazonHelp,False,Sun Mar 03 03:55:00 +0000 2024,We completely understand. Please DM your order number #234568604 so we can review and process a refund. ^RL,,443,refund_request
+445,cust_33850,True,Sun Mar 03 03:55:00 +0000 2024,"Cancel and refund order #830261466, I don't want it anymore after this experience.",446,,refund_request
+446,AmazonHelp,False,Sun Mar 03 05:15:00 +0000 2024,We completely understand. Please DM your order number #990189659 so we can review and process a refund. ^RL,,445,refund_request
+447,cust_31229,True,Sun Mar 03 04:09:00 +0000 2024,"Please refund order #564520346 immediately, item never arrived.",448,,refund_request
+448,AmazonHelp,False,Sun Mar 03 04:35:00 +0000 2024,We completely understand. Please DM your order number #656307931 so we can review and process a refund. ^RL,,447,refund_request
+449,cust_93238,True,Sun Mar 03 04:23:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #861639583.",450,,refund_request
+450,AmazonHelp,False,Sun Mar 03 04:53:00 +0000 2024,We'd like to make this right. Send order #404994549 via DM and our team will look into the refund. ^KT,,449,refund_request
+451,cust_87569,True,Sun Mar 03 04:37:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #234400576.",452,,refund_request
+452,AmazonHelp,False,Sun Mar 03 05:03:00 +0000 2024,We'd like to make this right. Send order #200317984 via DM and our team will look into the refund. ^KT,,451,refund_request
+453,cust_20646,True,Sun Mar 03 04:51:00 +0000 2024,"Please refund order #283825267 immediately, item never arrived.",454,,refund_request
+454,AmazonHelp,False,Sun Mar 03 04:59:00 +0000 2024,We'd like to make this right. Send order #462516271 via DM and our team will look into the refund. ^KT,,453,refund_request
+455,cust_93753,True,Sun Mar 03 05:05:00 +0000 2024,"I want a full refund for order #788755699, this is unacceptable.",456,,refund_request
+456,AmazonHelp,False,Sun Mar 03 06:29:00 +0000 2024,We'd like to make this right. Send order #326353775 via DM and our team will look into the refund. ^KT,,455,refund_request
+457,cust_48985,True,Sun Mar 03 05:19:00 +0000 2024,"I want a full refund for order #634764290, this is unacceptable.",458,,refund_request
+458,AmazonHelp,False,Sun Mar 03 06:15:00 +0000 2024,We'd like to make this right. Send order #424371087 via DM and our team will look into the refund. ^KT,,457,refund_request
+459,cust_54589,True,Sun Mar 03 05:33:00 +0000 2024,"Cancel and refund order #178354184, I don't want it anymore after this experience.",460,,refund_request
+460,AmazonHelp,False,Sun Mar 03 06:04:00 +0000 2024,So sorry for the trouble. DM us order #546270451 and we'll get the refund process started for you. ^AB,,459,refund_request
+461,cust_77499,True,Sun Mar 03 05:47:00 +0000 2024,"Please refund order #435632899 immediately, item never arrived.",462,,refund_request
+462,AmazonHelp,False,Sun Mar 03 06:39:00 +0000 2024,So sorry for the trouble. DM us order #528118701 and we'll get the refund process started for you. ^AB,,461,refund_request
+463,cust_22689,True,Sun Mar 03 06:01:00 +0000 2024,"I want a full refund for order #442648079, this is unacceptable.",464,,refund_request
+464,AmazonHelp,False,Sun Mar 03 06:24:00 +0000 2024,We completely understand. Please DM your order number #387195524 so we can review and process a refund. ^RL,,463,refund_request
+465,cust_50988,True,Sun Mar 03 06:15:00 +0000 2024,"I want a full refund for order #411612760, this is unacceptable.",466,,refund_request
+466,AmazonHelp,False,Sun Mar 03 07:33:00 +0000 2024,So sorry for the trouble. DM us order #366578178 and we'll get the refund process started for you. ^AB,,465,refund_request
+467,cust_13037,True,Sun Mar 03 06:29:00 +0000 2024,"Please refund order #919395339 immediately, item never arrived.",468,,refund_request
+468,AmazonHelp,False,Sun Mar 03 07:37:00 +0000 2024,We'd like to make this right. Send order #601238919 via DM and our team will look into the refund. ^KT,,467,refund_request
+469,cust_16624,True,Sun Mar 03 06:43:00 +0000 2024,"I want a full refund for order #522240582, this is unacceptable.",470,,refund_request
+470,AmazonHelp,False,Sun Mar 03 06:54:00 +0000 2024,We completely understand. Please DM your order number #331009561 so we can review and process a refund. ^RL,,469,refund_request
+471,cust_24089,True,Sun Mar 03 06:57:00 +0000 2024,"@AmazonHelp I've asked twice already, I need a refund on order #631388604.",472,,refund_request
+472,AmazonHelp,False,Sun Mar 03 07:03:00 +0000 2024,We'd like to make this right. Send order #605288784 via DM and our team will look into the refund. ^KT,,471,refund_request
+473,cust_62505,True,Sun Mar 03 07:11:00 +0000 2024,"Cancel and refund order #243811545, I don't want it anymore after this experience.",474,,refund_request
+474,AmazonHelp,False,Sun Mar 03 07:21:00 +0000 2024,So sorry for the trouble. DM us order #920184955 and we'll get the refund process started for you. ^AB,,473,refund_request
+475,cust_76093,True,Sun Mar 03 07:25:00 +0000 2024,"I want a full refund for order #712335251, this is unacceptable.",476,,refund_request
+476,AmazonHelp,False,Sun Mar 03 08:19:00 +0000 2024,So sorry for the trouble. DM us order #694018597 and we'll get the refund process started for you. ^AB,,475,refund_request
+477,cust_22672,True,Sun Mar 03 07:39:00 +0000 2024,"Cancel and refund order #920772671, I don't want it anymore after this experience.",478,,refund_request
+478,AmazonHelp,False,Sun Mar 03 08:00:00 +0000 2024,We'd like to make this right. Send order #830572478 via DM and our team will look into the refund. ^KT,,477,refund_request
+479,cust_76731,True,Sun Mar 03 07:53:00 +0000 2024,"Cancel and refund order #500718660, I don't want it anymore after this experience.",480,,refund_request
+480,AmazonHelp,False,Sun Mar 03 09:15:00 +0000 2024,So sorry for the trouble. DM us order #910637681 and we'll get the refund process started for you. ^AB,,479,refund_request
+481,cust_78069,True,Sun Mar 03 08:07:00 +0000 2024,Is it too late to cancel order #636954564?,482,,cancel_order
+482,AmazonHelp,False,Sun Mar 03 09:12:00 +0000 2024,We can help with that. Please DM order #247141682 and we'll check if it can still be cancelled before shipping. ^JS,,481,cancel_order
+483,cust_61505,True,Sun Mar 03 08:21:00 +0000 2024,Is it too late to cancel order #259923818?,484,,cancel_order
+484,AmazonHelp,False,Sun Mar 03 08:46:00 +0000 2024,We can help with that. Please DM order #452150647 and we'll check if it can still be cancelled before shipping. ^JS,,483,cancel_order
+485,cust_49294,True,Sun Mar 03 08:35:00 +0000 2024,"Please cancel my order #737506993, I found it cheaper elsewhere.",486,,cancel_order
+486,AmazonHelp,False,Sun Mar 03 09:52:00 +0000 2024,"Let's take a look, DM order #671595541 and we'll confirm the cancellation status. ^RL",,485,cancel_order
+487,cust_50327,True,Sun Mar 03 08:49:00 +0000 2024,Is it too late to cancel order #975903641?,488,,cancel_order
+488,AmazonHelp,False,Sun Mar 03 10:08:00 +0000 2024,"Sure thing, DM us order #823494111 and we'll see what options are available to cancel. ^DM",,487,cancel_order
+489,cust_16731,True,Sun Mar 03 09:03:00 +0000 2024,Can I cancel order #740926818? It hasn't shipped yet I think.,490,,cancel_order
+490,AmazonHelp,False,Sun Mar 03 09:37:00 +0000 2024,"Let's take a look, DM order #940636753 and we'll confirm the cancellation status. ^RL",,489,cancel_order
+491,cust_14138,True,Sun Mar 03 09:17:00 +0000 2024,Is it too late to cancel order #283085932?,492,,cancel_order
+492,AmazonHelp,False,Sun Mar 03 09:53:00 +0000 2024,"Let's take a look, DM order #765436255 and we'll confirm the cancellation status. ^RL",,491,cancel_order
+493,cust_63788,True,Sun Mar 03 09:31:00 +0000 2024,Can I cancel order #304853117? It hasn't shipped yet I think.,494,,cancel_order
+494,AmazonHelp,False,Sun Mar 03 10:02:00 +0000 2024,"Sure thing, DM us order #549661921 and we'll see what options are available to cancel. ^DM",,493,cancel_order
+495,cust_96799,True,Sun Mar 03 09:45:00 +0000 2024,Is it too late to cancel order #890099255?,496,,cancel_order
+496,AmazonHelp,False,Sun Mar 03 10:31:00 +0000 2024,We can help with that. Please DM order #656931857 and we'll check if it can still be cancelled before shipping. ^JS,,495,cancel_order
+497,cust_56437,True,Sun Mar 03 09:59:00 +0000 2024,Is it too late to cancel order #664226794?,498,,cancel_order
+498,AmazonHelp,False,Sun Mar 03 11:13:00 +0000 2024,We can help with that. Please DM order #593559955 and we'll check if it can still be cancelled before shipping. ^JS,,497,cancel_order
+499,cust_49008,True,Sun Mar 03 10:13:00 +0000 2024,"Please cancel my order #755064741, I found it cheaper elsewhere.",500,,cancel_order
+500,AmazonHelp,False,Sun Mar 03 10:46:00 +0000 2024,We can help with that. Please DM order #399580835 and we'll check if it can still be cancelled before shipping. ^JS,,499,cancel_order
+501,cust_83464,True,Sun Mar 03 10:27:00 +0000 2024,"Please cancel my order #856881618, I found it cheaper elsewhere.",502,,cancel_order
+502,AmazonHelp,False,Sun Mar 03 11:16:00 +0000 2024,"Let's take a look, DM order #625063062 and we'll confirm the cancellation status. ^RL",,501,cancel_order
+503,cust_29198,True,Sun Mar 03 10:41:00 +0000 2024,"Please cancel my order #409011489, I found it cheaper elsewhere.",504,,cancel_order
+504,AmazonHelp,False,Sun Mar 03 11:30:00 +0000 2024,"Let's take a look, DM order #683246764 and we'll confirm the cancellation status. ^RL",,503,cancel_order
+505,cust_72793,True,Sun Mar 03 10:55:00 +0000 2024,"Please cancel my order #145168545, I found it cheaper elsewhere.",506,,cancel_order
+506,AmazonHelp,False,Sun Mar 03 11:32:00 +0000 2024,We can help with that. Please DM order #471904990 and we'll check if it can still be cancelled before shipping. ^JS,,505,cancel_order
+507,cust_90698,True,Sun Mar 03 11:09:00 +0000 2024,"I need to cancel order #316968866 before it ships, how do I do that?",508,,cancel_order
+508,AmazonHelp,False,Sun Mar 03 11:27:00 +0000 2024,"Let's take a look, DM order #847508242 and we'll confirm the cancellation status. ^RL",,507,cancel_order
+509,cust_64172,True,Sun Mar 03 11:23:00 +0000 2024,"I need to cancel order #360337343 before it ships, how do I do that?",510,,cancel_order
+510,AmazonHelp,False,Sun Mar 03 11:40:00 +0000 2024,"Let's take a look, DM order #342313086 and we'll confirm the cancellation status. ^RL",,509,cancel_order
+511,cust_30701,True,Sun Mar 03 11:37:00 +0000 2024,"Please cancel my order #870257350, I found it cheaper elsewhere.",512,,cancel_order
+512,AmazonHelp,False,Sun Mar 03 12:52:00 +0000 2024,"Let's take a look, DM order #927603754 and we'll confirm the cancellation status. ^RL",,511,cancel_order
+513,cust_94659,True,Sun Mar 03 11:51:00 +0000 2024,Is it too late to cancel order #801038300?,514,,cancel_order
+514,AmazonHelp,False,Sun Mar 03 12:32:00 +0000 2024,"Let's take a look, DM order #314164216 and we'll confirm the cancellation status. ^RL",,513,cancel_order
+515,cust_32946,True,Sun Mar 03 12:05:00 +0000 2024,Can I cancel order #925412179? It hasn't shipped yet I think.,516,,cancel_order
+516,AmazonHelp,False,Sun Mar 03 12:14:00 +0000 2024,"Let's take a look, DM order #349344539 and we'll confirm the cancellation status. ^RL",,515,cancel_order
+517,cust_14910,True,Sun Mar 03 12:19:00 +0000 2024,Is it too late to cancel order #999371401?,518,,cancel_order
+518,AmazonHelp,False,Sun Mar 03 13:01:00 +0000 2024,"Sure thing, DM us order #946066287 and we'll see what options are available to cancel. ^DM",,517,cancel_order
+519,cust_81211,True,Sun Mar 03 12:33:00 +0000 2024,Can I cancel order #420396197? It hasn't shipped yet I think.,520,,cancel_order
+520,AmazonHelp,False,Sun Mar 03 14:00:00 +0000 2024,We can help with that. Please DM order #459748735 and we'll check if it can still be cancelled before shipping. ^JS,,519,cancel_order
+521,cust_70150,True,Sun Mar 03 12:47:00 +0000 2024,Is it too late to cancel order #244096091?,522,,cancel_order
+522,AmazonHelp,False,Sun Mar 03 13:12:00 +0000 2024,"Sure thing, DM us order #307029662 and we'll see what options are available to cancel. ^DM",,521,cancel_order
+523,cust_33002,True,Sun Mar 03 13:01:00 +0000 2024,"Please cancel my order #871588919, I found it cheaper elsewhere.",524,,cancel_order
+524,AmazonHelp,False,Sun Mar 03 13:30:00 +0000 2024,"Let's take a look, DM order #461971444 and we'll confirm the cancellation status. ^RL",,523,cancel_order
+525,cust_34219,True,Sun Mar 03 13:15:00 +0000 2024,Is it too late to cancel order #987973565?,526,,cancel_order
+526,AmazonHelp,False,Sun Mar 03 13:32:00 +0000 2024,"Sure thing, DM us order #193133974 and we'll see what options are available to cancel. ^DM",,525,cancel_order
+527,cust_44995,True,Sun Mar 03 13:29:00 +0000 2024,"I need to cancel order #612662437 before it ships, how do I do that?",528,,cancel_order
+528,AmazonHelp,False,Sun Mar 03 14:31:00 +0000 2024,We can help with that. Please DM order #380016058 and we'll check if it can still be cancelled before shipping. ^JS,,527,cancel_order
+529,cust_40972,True,Sun Mar 03 13:43:00 +0000 2024,"Please cancel my order #424211872, I found it cheaper elsewhere.",530,,cancel_order
+530,AmazonHelp,False,Sun Mar 03 14:34:00 +0000 2024,"Let's take a look, DM order #112279027 and we'll confirm the cancellation status. ^RL",,529,cancel_order
+531,cust_50760,True,Sun Mar 03 13:57:00 +0000 2024,Can I cancel order #817029885? It hasn't shipped yet I think.,532,,cancel_order
+532,AmazonHelp,False,Sun Mar 03 15:06:00 +0000 2024,"Sure thing, DM us order #271494637 and we'll see what options are available to cancel. ^DM",,531,cancel_order
+533,cust_30078,True,Sun Mar 03 14:11:00 +0000 2024,Can I cancel order #785811060? It hasn't shipped yet I think.,534,,cancel_order
+534,AmazonHelp,False,Sun Mar 03 15:17:00 +0000 2024,"Let's take a look, DM order #337135066 and we'll confirm the cancellation status. ^RL",,533,cancel_order
+535,cust_97044,True,Sun Mar 03 14:25:00 +0000 2024,Is it too late to cancel order #902874167?,536,,cancel_order
+536,AmazonHelp,False,Sun Mar 03 15:38:00 +0000 2024,"Sure thing, DM us order #853703117 and we'll see what options are available to cancel. ^DM",,535,cancel_order
+537,cust_79228,True,Sun Mar 03 14:39:00 +0000 2024,"I need to cancel order #918040539 before it ships, how do I do that?",538,,cancel_order
+538,AmazonHelp,False,Sun Mar 03 15:41:00 +0000 2024,"Let's take a look, DM order #945432844 and we'll confirm the cancellation status. ^RL",,537,cancel_order
+539,cust_85065,True,Sun Mar 03 14:53:00 +0000 2024,"Please cancel my order #183862154, I found it cheaper elsewhere.",540,,cancel_order
+540,AmazonHelp,False,Sun Mar 03 15:23:00 +0000 2024,We can help with that. Please DM order #989889367 and we'll check if it can still be cancelled before shipping. ^JS,,539,cancel_order
+541,cust_74071,True,Sun Mar 03 15:07:00 +0000 2024,"I need to cancel order #276670424 before it ships, how do I do that?",542,,cancel_order
+542,AmazonHelp,False,Sun Mar 03 16:26:00 +0000 2024,"Sure thing, DM us order #224811770 and we'll see what options are available to cancel. ^DM",,541,cancel_order
+543,cust_69873,True,Sun Mar 03 15:21:00 +0000 2024,Can I cancel order #648011361? It hasn't shipped yet I think.,544,,cancel_order
+544,AmazonHelp,False,Sun Mar 03 16:19:00 +0000 2024,We can help with that. Please DM order #586869229 and we'll check if it can still be cancelled before shipping. ^JS,,543,cancel_order
+545,cust_10395,True,Sun Mar 03 15:35:00 +0000 2024,Can I cancel order #700003920? It hasn't shipped yet I think.,546,,cancel_order
+546,AmazonHelp,False,Sun Mar 03 16:12:00 +0000 2024,"Sure thing, DM us order #876616079 and we'll see what options are available to cancel. ^DM",,545,cancel_order
+547,cust_19046,True,Sun Mar 03 15:49:00 +0000 2024,"I need to cancel order #720956992 before it ships, how do I do that?",548,,cancel_order
+548,AmazonHelp,False,Sun Mar 03 16:01:00 +0000 2024,"Sure thing, DM us order #469935052 and we'll see what options are available to cancel. ^DM",,547,cancel_order
+549,cust_94656,True,Sun Mar 03 16:03:00 +0000 2024,Is it too late to cancel order #134075063?,550,,cancel_order
+550,AmazonHelp,False,Sun Mar 03 17:30:00 +0000 2024,We can help with that. Please DM order #925677464 and we'll check if it can still be cancelled before shipping. ^JS,,549,cancel_order
+551,cust_80687,True,Sun Mar 03 16:17:00 +0000 2024,Is it too late to cancel order #502074351?,552,,cancel_order
+552,AmazonHelp,False,Sun Mar 03 17:46:00 +0000 2024,"Sure thing, DM us order #503346325 and we'll see what options are available to cancel. ^DM",,551,cancel_order
+553,cust_39188,True,Sun Mar 03 16:31:00 +0000 2024,"I need to cancel order #801726890 before it ships, how do I do that?",554,,cancel_order
+554,AmazonHelp,False,Sun Mar 03 16:52:00 +0000 2024,We can help with that. Please DM order #676876906 and we'll check if it can still be cancelled before shipping. ^JS,,553,cancel_order
+555,cust_59712,True,Sun Mar 03 16:45:00 +0000 2024,Can I cancel order #911941471? It hasn't shipped yet I think.,556,,cancel_order
+556,AmazonHelp,False,Sun Mar 03 17:58:00 +0000 2024,"Sure thing, DM us order #823164961 and we'll see what options are available to cancel. ^DM",,555,cancel_order
+557,cust_14222,True,Sun Mar 03 16:59:00 +0000 2024,"I need to cancel order #365764028 before it ships, how do I do that?",558,,cancel_order
+558,AmazonHelp,False,Sun Mar 03 17:18:00 +0000 2024,We can help with that. Please DM order #395976645 and we'll check if it can still be cancelled before shipping. ^JS,,557,cancel_order
+559,cust_68515,True,Sun Mar 03 17:13:00 +0000 2024,Is it too late to cancel order #760268760?,560,,cancel_order
+560,AmazonHelp,False,Sun Mar 03 17:22:00 +0000 2024,We can help with that. Please DM order #172253060 and we'll check if it can still be cancelled before shipping. ^JS,,559,cancel_order
+561,cust_28367,True,Sun Mar 03 17:27:00 +0000 2024,Can I cancel order #362781292? It hasn't shipped yet I think.,562,,cancel_order
+562,AmazonHelp,False,Sun Mar 03 17:39:00 +0000 2024,"Sure thing, DM us order #351619881 and we'll see what options are available to cancel. ^DM",,561,cancel_order
+563,cust_28777,True,Sun Mar 03 17:41:00 +0000 2024,"Please cancel my order #351429015, I found it cheaper elsewhere.",564,,cancel_order
+564,AmazonHelp,False,Sun Mar 03 18:24:00 +0000 2024,"Let's take a look, DM order #742009209 and we'll confirm the cancellation status. ^RL",,563,cancel_order
+565,cust_92050,True,Sun Mar 03 17:55:00 +0000 2024,"I need to cancel order #544056890 before it ships, how do I do that?",566,,cancel_order
+566,AmazonHelp,False,Sun Mar 03 18:22:00 +0000 2024,We can help with that. Please DM order #697771523 and we'll check if it can still be cancelled before shipping. ^JS,,565,cancel_order
+567,cust_51777,True,Sun Mar 03 18:09:00 +0000 2024,Is it too late to cancel order #696840109?,568,,cancel_order
+568,AmazonHelp,False,Sun Mar 03 19:21:00 +0000 2024,"Sure thing, DM us order #790755362 and we'll see what options are available to cancel. ^DM",,567,cancel_order
+569,cust_39536,True,Sun Mar 03 18:23:00 +0000 2024,Is it too late to cancel order #538364955?,570,,cancel_order
+570,AmazonHelp,False,Sun Mar 03 18:58:00 +0000 2024,"Sure thing, DM us order #297438548 and we'll see what options are available to cancel. ^DM",,569,cancel_order
+571,cust_83044,True,Sun Mar 03 18:37:00 +0000 2024,"Please cancel my order #859754807, I found it cheaper elsewhere.",572,,cancel_order
+572,AmazonHelp,False,Sun Mar 03 19:35:00 +0000 2024,"Sure thing, DM us order #161873231 and we'll see what options are available to cancel. ^DM",,571,cancel_order
+573,cust_22119,True,Sun Mar 03 18:51:00 +0000 2024,"I need to cancel order #517061783 before it ships, how do I do that?",574,,cancel_order
+574,AmazonHelp,False,Sun Mar 03 19:43:00 +0000 2024,We can help with that. Please DM order #454617185 and we'll check if it can still be cancelled before shipping. ^JS,,573,cancel_order
+575,cust_34662,True,Sun Mar 03 19:05:00 +0000 2024,"I need to cancel order #155337035 before it ships, how do I do that?",576,,cancel_order
+576,AmazonHelp,False,Sun Mar 03 19:19:00 +0000 2024,"Let's take a look, DM order #749580994 and we'll confirm the cancellation status. ^RL",,575,cancel_order
+577,cust_72773,True,Sun Mar 03 19:19:00 +0000 2024,"I need to cancel order #614745610 before it ships, how do I do that?",578,,cancel_order
+578,AmazonHelp,False,Sun Mar 03 19:39:00 +0000 2024,"Sure thing, DM us order #116464447 and we'll see what options are available to cancel. ^DM",,577,cancel_order
+579,cust_47101,True,Sun Mar 03 19:33:00 +0000 2024,"I need to cancel order #846923032 before it ships, how do I do that?",580,,cancel_order
+580,AmazonHelp,False,Sun Mar 03 20:19:00 +0000 2024,We can help with that. Please DM order #525880424 and we'll check if it can still be cancelled before shipping. ^JS,,579,cancel_order
+581,cust_75179,True,Sun Mar 03 19:47:00 +0000 2024,Is it too late to cancel order #600632621?,582,,cancel_order
+582,AmazonHelp,False,Sun Mar 03 20:57:00 +0000 2024,"Sure thing, DM us order #431165907 and we'll see what options are available to cancel. ^DM",,581,cancel_order
+583,cust_15992,True,Sun Mar 03 20:01:00 +0000 2024,Is it too late to cancel order #205879779?,584,,cancel_order
+584,AmazonHelp,False,Sun Mar 03 20:58:00 +0000 2024,"Sure thing, DM us order #318106480 and we'll see what options are available to cancel. ^DM",,583,cancel_order
+585,cust_48691,True,Sun Mar 03 20:15:00 +0000 2024,"I need to cancel order #895913682 before it ships, how do I do that?",586,,cancel_order
+586,AmazonHelp,False,Sun Mar 03 21:13:00 +0000 2024,"Sure thing, DM us order #694113766 and we'll see what options are available to cancel. ^DM",,585,cancel_order
+587,cust_95800,True,Sun Mar 03 20:29:00 +0000 2024,"I need to cancel order #310659326 before it ships, how do I do that?",588,,cancel_order
+588,AmazonHelp,False,Sun Mar 03 21:44:00 +0000 2024,"Sure thing, DM us order #711806831 and we'll see what options are available to cancel. ^DM",,587,cancel_order
+589,cust_56160,True,Sun Mar 03 20:43:00 +0000 2024,"Please cancel my order #376302498, I found it cheaper elsewhere.",590,,cancel_order
+590,AmazonHelp,False,Sun Mar 03 21:09:00 +0000 2024,"Let's take a look, DM order #894133105 and we'll confirm the cancellation status. ^RL",,589,cancel_order
+591,cust_19742,True,Sun Mar 03 20:57:00 +0000 2024,"I need to cancel order #250279322 before it ships, how do I do that?",592,,cancel_order
+592,AmazonHelp,False,Sun Mar 03 21:06:00 +0000 2024,We can help with that. Please DM order #682115008 and we'll check if it can still be cancelled before shipping. ^JS,,591,cancel_order
+593,cust_11198,True,Sun Mar 03 21:11:00 +0000 2024,Can I cancel order #920702588? It hasn't shipped yet I think.,594,,cancel_order
+594,AmazonHelp,False,Sun Mar 03 21:35:00 +0000 2024,We can help with that. Please DM order #777210736 and we'll check if it can still be cancelled before shipping. ^JS,,593,cancel_order
+595,cust_73944,True,Sun Mar 03 21:25:00 +0000 2024,"I need to cancel order #643026584 before it ships, how do I do that?",596,,cancel_order
+596,AmazonHelp,False,Sun Mar 03 22:54:00 +0000 2024,We can help with that. Please DM order #763395529 and we'll check if it can still be cancelled before shipping. ^JS,,595,cancel_order
+597,cust_80220,True,Sun Mar 03 21:39:00 +0000 2024,Can I cancel order #107099962? It hasn't shipped yet I think.,598,,cancel_order
+598,AmazonHelp,False,Sun Mar 03 22:19:00 +0000 2024,"Sure thing, DM us order #112724887 and we'll see what options are available to cancel. ^DM",,597,cancel_order
+599,cust_78732,True,Sun Mar 03 21:53:00 +0000 2024,"Please cancel my order #118406723, I found it cheaper elsewhere.",600,,cancel_order
+600,AmazonHelp,False,Sun Mar 03 22:10:00 +0000 2024,"Let's take a look, DM order #562324458 and we'll confirm the cancellation status. ^RL",,599,cancel_order
+601,cust_20357,True,Sun Mar 03 22:07:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",602,,account_access
+602,AmazonHelp,False,Sun Mar 03 23:02:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,601,account_access
+603,cust_95686,True,Sun Mar 03 22:21:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",604,,account_access
+604,AmazonHelp,False,Sun Mar 03 22:36:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,603,account_access
+605,cust_11238,True,Sun Mar 03 22:35:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",606,,account_access
+606,AmazonHelp,False,Mon Mar 04 00:01:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,605,account_access
+607,cust_79226,True,Sun Mar 03 22:49:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",608,,account_access
+608,AmazonHelp,False,Sun Mar 03 23:06:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,607,account_access
+609,cust_99709,True,Sun Mar 03 23:03:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",610,,account_access
+610,AmazonHelp,False,Sun Mar 03 23:17:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,609,account_access
+611,cust_86943,True,Sun Mar 03 23:17:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",612,,account_access
+612,AmazonHelp,False,Sun Mar 03 23:48:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,611,account_access
+613,cust_61007,True,Sun Mar 03 23:31:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",614,,account_access
+614,AmazonHelp,False,Mon Mar 04 00:48:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,613,account_access
+615,cust_17038,True,Sun Mar 03 23:45:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",616,,account_access
+616,AmazonHelp,False,Mon Mar 04 00:34:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,615,account_access
+617,cust_52778,True,Sun Mar 03 23:59:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",618,,account_access
+618,AmazonHelp,False,Mon Mar 04 00:54:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,617,account_access
+619,cust_59207,True,Mon Mar 04 00:13:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",620,,account_access
+620,AmazonHelp,False,Mon Mar 04 01:28:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,619,account_access
+621,cust_19634,True,Mon Mar 04 00:27:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",622,,account_access
+622,AmazonHelp,False,Mon Mar 04 01:03:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,621,account_access
+623,cust_51507,True,Mon Mar 04 00:41:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",624,,account_access
+624,AmazonHelp,False,Mon Mar 04 01:35:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,623,account_access
+625,cust_23399,True,Mon Mar 04 00:55:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",626,,account_access
+626,AmazonHelp,False,Mon Mar 04 01:34:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,625,account_access
+627,cust_23538,True,Mon Mar 04 01:09:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",628,,account_access
+628,AmazonHelp,False,Mon Mar 04 02:06:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,627,account_access
+629,cust_60493,True,Mon Mar 04 01:23:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",630,,account_access
+630,AmazonHelp,False,Mon Mar 04 02:09:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,629,account_access
+631,cust_78302,True,Mon Mar 04 01:37:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",632,,account_access
+632,AmazonHelp,False,Mon Mar 04 02:55:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,631,account_access
+633,cust_29127,True,Mon Mar 04 01:51:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",634,,account_access
+634,AmazonHelp,False,Mon Mar 04 02:59:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,633,account_access
+635,cust_57333,True,Mon Mar 04 02:05:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",636,,account_access
+636,AmazonHelp,False,Mon Mar 04 02:19:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,635,account_access
+637,cust_49932,True,Mon Mar 04 02:19:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",638,,account_access
+638,AmazonHelp,False,Mon Mar 04 02:41:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,637,account_access
+639,cust_66441,True,Mon Mar 04 02:33:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",640,,account_access
+640,AmazonHelp,False,Mon Mar 04 03:20:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,639,account_access
+641,cust_62198,True,Mon Mar 04 02:47:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",642,,account_access
+642,AmazonHelp,False,Mon Mar 04 03:14:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,641,account_access
+643,cust_57843,True,Mon Mar 04 03:01:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",644,,account_access
+644,AmazonHelp,False,Mon Mar 04 03:56:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,643,account_access
+645,cust_37479,True,Mon Mar 04 03:15:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",646,,account_access
+646,AmazonHelp,False,Mon Mar 04 04:19:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,645,account_access
+647,cust_28242,True,Mon Mar 04 03:29:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",648,,account_access
+648,AmazonHelp,False,Mon Mar 04 04:37:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,647,account_access
+649,cust_19694,True,Mon Mar 04 03:43:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",650,,account_access
+650,AmazonHelp,False,Mon Mar 04 04:36:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,649,account_access
+651,cust_81256,True,Mon Mar 04 03:57:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",652,,account_access
+652,AmazonHelp,False,Mon Mar 04 04:55:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,651,account_access
+653,cust_96193,True,Mon Mar 04 04:11:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",654,,account_access
+654,AmazonHelp,False,Mon Mar 04 04:47:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,653,account_access
+655,cust_66420,True,Mon Mar 04 04:25:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",656,,account_access
+656,AmazonHelp,False,Mon Mar 04 05:12:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,655,account_access
+657,cust_85397,True,Mon Mar 04 04:39:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",658,,account_access
+658,AmazonHelp,False,Mon Mar 04 05:58:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,657,account_access
+659,cust_29758,True,Mon Mar 04 04:53:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",660,,account_access
+660,AmazonHelp,False,Mon Mar 04 06:02:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,659,account_access
+661,cust_55656,True,Mon Mar 04 05:07:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",662,,account_access
+662,AmazonHelp,False,Mon Mar 04 05:30:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,661,account_access
+663,cust_22795,True,Mon Mar 04 05:21:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",664,,account_access
+664,AmazonHelp,False,Mon Mar 04 06:26:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,663,account_access
+665,cust_12960,True,Mon Mar 04 05:35:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",666,,account_access
+666,AmazonHelp,False,Mon Mar 04 05:54:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,665,account_access
+667,cust_82339,True,Mon Mar 04 05:49:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",668,,account_access
+668,AmazonHelp,False,Mon Mar 04 06:16:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,667,account_access
+669,cust_34430,True,Mon Mar 04 06:03:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",670,,account_access
+670,AmazonHelp,False,Mon Mar 04 06:31:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,669,account_access
+671,cust_60965,True,Mon Mar 04 06:17:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",672,,account_access
+672,AmazonHelp,False,Mon Mar 04 07:16:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,671,account_access
+673,cust_80371,True,Mon Mar 04 06:31:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",674,,account_access
+674,AmazonHelp,False,Mon Mar 04 06:49:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,673,account_access
+675,cust_79168,True,Mon Mar 04 06:45:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",676,,account_access
+676,AmazonHelp,False,Mon Mar 04 07:52:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,675,account_access
+677,cust_70012,True,Mon Mar 04 06:59:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",678,,account_access
+678,AmazonHelp,False,Mon Mar 04 07:49:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,677,account_access
+679,cust_41270,True,Mon Mar 04 07:13:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",680,,account_access
+680,AmazonHelp,False,Mon Mar 04 07:33:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,679,account_access
+681,cust_88174,True,Mon Mar 04 07:27:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",682,,account_access
+682,AmazonHelp,False,Mon Mar 04 08:25:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,681,account_access
+683,cust_32706,True,Mon Mar 04 07:41:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",684,,account_access
+684,AmazonHelp,False,Mon Mar 04 09:08:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,683,account_access
+685,cust_57059,True,Mon Mar 04 07:55:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",686,,account_access
+686,AmazonHelp,False,Mon Mar 04 08:06:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,685,account_access
+687,cust_63626,True,Mon Mar 04 08:09:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",688,,account_access
+688,AmazonHelp,False,Mon Mar 04 09:17:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,687,account_access
+689,cust_48284,True,Mon Mar 04 08:23:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",690,,account_access
+690,AmazonHelp,False,Mon Mar 04 08:56:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,689,account_access
+691,cust_82053,True,Mon Mar 04 08:37:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",692,,account_access
+692,AmazonHelp,False,Mon Mar 04 09:45:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,691,account_access
+693,cust_67850,True,Mon Mar 04 08:51:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",694,,account_access
+694,AmazonHelp,False,Mon Mar 04 09:01:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,693,account_access
+695,cust_68947,True,Mon Mar 04 09:05:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",696,,account_access
+696,AmazonHelp,False,Mon Mar 04 09:14:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,695,account_access
+697,cust_55957,True,Mon Mar 04 09:19:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",698,,account_access
+698,AmazonHelp,False,Mon Mar 04 10:39:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,697,account_access
+699,cust_84720,True,Mon Mar 04 09:33:00 +0000 2024,"Someone else may have accessed my account, I can't log in anymore.",700,,account_access
+700,AmazonHelp,False,Mon Mar 04 09:45:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,699,account_access
+701,cust_47923,True,Mon Mar 04 09:47:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",702,,account_access
+702,AmazonHelp,False,Mon Mar 04 10:29:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,701,account_access
+703,cust_27392,True,Mon Mar 04 10:01:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",704,,account_access
+704,AmazonHelp,False,Mon Mar 04 10:22:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,703,account_access
+705,cust_92890,True,Mon Mar 04 10:15:00 +0000 2024,"@AmazonHelp my account got locked out of nowhere, need help getting back in.",706,,account_access
+706,AmazonHelp,False,Mon Mar 04 11:33:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,705,account_access
+707,cust_46467,True,Mon Mar 04 10:29:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",708,,account_access
+708,AmazonHelp,False,Mon Mar 04 11:39:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,707,account_access
+709,cust_93209,True,Mon Mar 04 10:43:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",710,,account_access
+710,AmazonHelp,False,Mon Mar 04 11:46:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,709,account_access
+711,cust_52318,True,Mon Mar 04 10:57:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",712,,account_access
+712,AmazonHelp,False,Mon Mar 04 11:36:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,711,account_access
+713,cust_99463,True,Mon Mar 04 11:11:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",714,,account_access
+714,AmazonHelp,False,Mon Mar 04 11:59:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,713,account_access
+715,cust_69836,True,Mon Mar 04 11:25:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",716,,account_access
+716,AmazonHelp,False,Mon Mar 04 12:26:00 +0000 2024,We can help secure your account. DM us the email on file so our team can assist. ^KT,,715,account_access
+717,cust_22234,True,Mon Mar 04 11:39:00 +0000 2024,"I can't log into my account, keeps saying wrong password even after reset.",718,,account_access
+718,AmazonHelp,False,Mon Mar 04 12:19:00 +0000 2024,Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,,717,account_access
+719,cust_91999,True,Mon Mar 04 11:53:00 +0000 2024,"Password reset email never arrived, I've tried 3 times.",720,,account_access
+720,AmazonHelp,False,Mon Mar 04 12:48:00 +0000 2024,Let's get this fixed. Please send a DM with the account email (never the password) so we can investigate. ^JS,,719,account_access
+721,cust_72496,True,Mon Mar 04 12:07:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,722,,billing_dispute
+722,AmazonHelp,False,Mon Mar 04 12:39:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,721,billing_dispute
+723,cust_55032,True,Mon Mar 04 12:21:00 +0000 2024,"I was charged twice for order #242485313, please fix this.",724,,billing_dispute
+724,AmazonHelp,False,Mon Mar 04 12:27:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,723,billing_dispute
+725,cust_23526,True,Mon Mar 04 12:35:00 +0000 2024,"I was charged twice for order #553456129, please fix this.",726,,billing_dispute
+726,AmazonHelp,False,Mon Mar 04 12:53:00 +0000 2024,We're sorry about that! Please DM order #345829826 and the charge amount so our billing team can investigate. ^RL,,725,billing_dispute
+727,cust_18966,True,Mon Mar 04 12:49:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,728,,billing_dispute
+728,AmazonHelp,False,Mon Mar 04 13:12:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #930496866. ^DM",,727,billing_dispute
+729,cust_63963,True,Mon Mar 04 13:03:00 +0000 2024,"I was charged twice for order #755325292, please fix this.",730,,billing_dispute
+730,AmazonHelp,False,Mon Mar 04 13:27:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #875705487. ^DM",,729,billing_dispute
+731,cust_56076,True,Mon Mar 04 13:17:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #333264702.,732,,billing_dispute
+732,AmazonHelp,False,Mon Mar 04 14:11:00 +0000 2024,We're sorry about that! Please DM order #907932366 and the charge amount so our billing team can investigate. ^RL,,731,billing_dispute
+733,cust_88774,True,Mon Mar 04 13:31:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #437695739.,734,,billing_dispute
+734,AmazonHelp,False,Mon Mar 04 14:46:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #792156071. ^DM",,733,billing_dispute
+735,cust_34726,True,Mon Mar 04 13:45:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,736,,billing_dispute
+736,AmazonHelp,False,Mon Mar 04 14:55:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #320595661. ^DM",,735,billing_dispute
+737,cust_75481,True,Mon Mar 04 13:59:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #417335858.,738,,billing_dispute
+738,AmazonHelp,False,Mon Mar 04 14:34:00 +0000 2024,We're sorry about that! Please DM order #631381642 and the charge amount so our billing team can investigate. ^RL,,737,billing_dispute
+739,cust_57895,True,Mon Mar 04 14:13:00 +0000 2024,"I was charged twice for order #667243311, please fix this.",740,,billing_dispute
+740,AmazonHelp,False,Mon Mar 04 15:11:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #241715543. ^DM",,739,billing_dispute
+741,cust_44365,True,Mon Mar 04 14:27:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #918970742.",742,,billing_dispute
+742,AmazonHelp,False,Mon Mar 04 14:33:00 +0000 2024,We're sorry about that! Please DM order #117920106 and the charge amount so our billing team can investigate. ^RL,,741,billing_dispute
+743,cust_64451,True,Mon Mar 04 14:41:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #142763764.",744,,billing_dispute
+744,AmazonHelp,False,Mon Mar 04 15:50:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #643968992. ^DM",,743,billing_dispute
+745,cust_46368,True,Mon Mar 04 14:55:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #853563434.,746,,billing_dispute
+746,AmazonHelp,False,Mon Mar 04 15:19:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,745,billing_dispute
+747,cust_61213,True,Mon Mar 04 15:09:00 +0000 2024,"I was charged twice for order #432759989, please fix this.",748,,billing_dispute
+748,AmazonHelp,False,Mon Mar 04 15:55:00 +0000 2024,We're sorry about that! Please DM order #967647911 and the charge amount so our billing team can investigate. ^RL,,747,billing_dispute
+749,cust_25202,True,Mon Mar 04 15:23:00 +0000 2024,"I was charged twice for order #433041955, please fix this.",750,,billing_dispute
+750,AmazonHelp,False,Mon Mar 04 16:23:00 +0000 2024,We're sorry about that! Please DM order #162176039 and the charge amount so our billing team can investigate. ^RL,,749,billing_dispute
+751,cust_27984,True,Mon Mar 04 15:37:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #757448675.,752,,billing_dispute
+752,AmazonHelp,False,Mon Mar 04 15:43:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #815197502. ^DM",,751,billing_dispute
+753,cust_26637,True,Mon Mar 04 15:51:00 +0000 2024,"I was charged twice for order #275913951, please fix this.",754,,billing_dispute
+754,AmazonHelp,False,Mon Mar 04 16:43:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,753,billing_dispute
+755,cust_18371,True,Mon Mar 04 16:05:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,756,,billing_dispute
+756,AmazonHelp,False,Mon Mar 04 17:17:00 +0000 2024,We're sorry about that! Please DM order #459715348 and the charge amount so our billing team can investigate. ^RL,,755,billing_dispute
+757,cust_17266,True,Mon Mar 04 16:19:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,758,,billing_dispute
+758,AmazonHelp,False,Mon Mar 04 17:10:00 +0000 2024,We're sorry about that! Please DM order #632734398 and the charge amount so our billing team can investigate. ^RL,,757,billing_dispute
+759,cust_39937,True,Mon Mar 04 16:33:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #708689346.,760,,billing_dispute
+760,AmazonHelp,False,Mon Mar 04 16:52:00 +0000 2024,We're sorry about that! Please DM order #373928805 and the charge amount so our billing team can investigate. ^RL,,759,billing_dispute
+761,cust_33456,True,Mon Mar 04 16:47:00 +0000 2024,"I was charged twice for order #147285340, please fix this.",762,,billing_dispute
+762,AmazonHelp,False,Mon Mar 04 17:11:00 +0000 2024,We're sorry about that! Please DM order #606553372 and the charge amount so our billing team can investigate. ^RL,,761,billing_dispute
+763,cust_45554,True,Mon Mar 04 17:01:00 +0000 2024,"I was charged twice for order #693634042, please fix this.",764,,billing_dispute
+764,AmazonHelp,False,Mon Mar 04 17:46:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #366570563. ^DM",,763,billing_dispute
+765,cust_77603,True,Mon Mar 04 17:15:00 +0000 2024,"I was charged twice for order #713682070, please fix this.",766,,billing_dispute
+766,AmazonHelp,False,Mon Mar 04 17:48:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,765,billing_dispute
+767,cust_82494,True,Mon Mar 04 17:29:00 +0000 2024,"I was charged twice for order #530489781, please fix this.",768,,billing_dispute
+768,AmazonHelp,False,Mon Mar 04 17:45:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #930568802. ^DM",,767,billing_dispute
+769,cust_41795,True,Mon Mar 04 17:43:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #108556837.,770,,billing_dispute
+770,AmazonHelp,False,Mon Mar 04 19:07:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #705382875. ^DM",,769,billing_dispute
+771,cust_29735,True,Mon Mar 04 17:57:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #495430792.,772,,billing_dispute
+772,AmazonHelp,False,Mon Mar 04 18:33:00 +0000 2024,We're sorry about that! Please DM order #886476517 and the charge amount so our billing team can investigate. ^RL,,771,billing_dispute
+773,cust_96154,True,Mon Mar 04 18:11:00 +0000 2024,"I was charged twice for order #540272920, please fix this.",774,,billing_dispute
+774,AmazonHelp,False,Mon Mar 04 18:16:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,773,billing_dispute
+775,cust_17850,True,Mon Mar 04 18:25:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #892510222.,776,,billing_dispute
+776,AmazonHelp,False,Mon Mar 04 19:32:00 +0000 2024,We're sorry about that! Please DM order #668883968 and the charge amount so our billing team can investigate. ^RL,,775,billing_dispute
+777,cust_70091,True,Mon Mar 04 18:39:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #864131026.",778,,billing_dispute
+778,AmazonHelp,False,Mon Mar 04 19:31:00 +0000 2024,We're sorry about that! Please DM order #348541776 and the charge amount so our billing team can investigate. ^RL,,777,billing_dispute
+779,cust_84425,True,Mon Mar 04 18:53:00 +0000 2024,"I was charged twice for order #723597716, please fix this.",780,,billing_dispute
+780,AmazonHelp,False,Mon Mar 04 20:13:00 +0000 2024,We're sorry about that! Please DM order #784205125 and the charge amount so our billing team can investigate. ^RL,,779,billing_dispute
+781,cust_52762,True,Mon Mar 04 19:07:00 +0000 2024,"I was charged twice for order #567059305, please fix this.",782,,billing_dispute
+782,AmazonHelp,False,Mon Mar 04 20:02:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #380236885. ^DM",,781,billing_dispute
+783,cust_24283,True,Mon Mar 04 19:21:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,784,,billing_dispute
+784,AmazonHelp,False,Mon Mar 04 20:40:00 +0000 2024,We're sorry about that! Please DM order #317661025 and the charge amount so our billing team can investigate. ^RL,,783,billing_dispute
+785,cust_56961,True,Mon Mar 04 19:35:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #213449146.",786,,billing_dispute
+786,AmazonHelp,False,Mon Mar 04 20:48:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #437190678. ^DM",,785,billing_dispute
+787,cust_89076,True,Mon Mar 04 19:49:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #585242269.",788,,billing_dispute
+788,AmazonHelp,False,Mon Mar 04 20:32:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #228756206. ^DM",,787,billing_dispute
+789,cust_77300,True,Mon Mar 04 20:03:00 +0000 2024,"I was charged twice for order #330876810, please fix this.",790,,billing_dispute
+790,AmazonHelp,False,Mon Mar 04 20:58:00 +0000 2024,We're sorry about that! Please DM order #863599447 and the charge amount so our billing team can investigate. ^RL,,789,billing_dispute
+791,cust_82105,True,Mon Mar 04 20:17:00 +0000 2024,"I was charged twice for order #827120114, please fix this.",792,,billing_dispute
+792,AmazonHelp,False,Mon Mar 04 21:33:00 +0000 2024,We're sorry about that! Please DM order #133374137 and the charge amount so our billing team can investigate. ^RL,,791,billing_dispute
+793,cust_27133,True,Mon Mar 04 20:31:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #201710492.",794,,billing_dispute
+794,AmazonHelp,False,Mon Mar 04 21:04:00 +0000 2024,We're sorry about that! Please DM order #230409444 and the charge amount so our billing team can investigate. ^RL,,793,billing_dispute
+795,cust_43924,True,Mon Mar 04 20:45:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #984412594.",796,,billing_dispute
+796,AmazonHelp,False,Mon Mar 04 22:05:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,795,billing_dispute
+797,cust_26059,True,Mon Mar 04 20:59:00 +0000 2024,"I was charged twice for order #123407763, please fix this.",798,,billing_dispute
+798,AmazonHelp,False,Mon Mar 04 21:46:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,797,billing_dispute
+799,cust_60165,True,Mon Mar 04 21:13:00 +0000 2024,"I was charged twice for order #594989531, please fix this.",800,,billing_dispute
+800,AmazonHelp,False,Mon Mar 04 21:21:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,799,billing_dispute
+801,cust_14541,True,Mon Mar 04 21:27:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #285550328.,802,,billing_dispute
+802,AmazonHelp,False,Mon Mar 04 21:51:00 +0000 2024,We're sorry about that! Please DM order #395259429 and the charge amount so our billing team can investigate. ^RL,,801,billing_dispute
+803,cust_46670,True,Mon Mar 04 21:41:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #795009888.",804,,billing_dispute
+804,AmazonHelp,False,Mon Mar 04 21:57:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #691297450. ^DM",,803,billing_dispute
+805,cust_81258,True,Mon Mar 04 21:55:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #247356051.,806,,billing_dispute
+806,AmazonHelp,False,Mon Mar 04 23:20:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,805,billing_dispute
+807,cust_75849,True,Mon Mar 04 22:09:00 +0000 2024,"I was charged twice for order #510704185, please fix this.",808,,billing_dispute
+808,AmazonHelp,False,Mon Mar 04 23:26:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,807,billing_dispute
+809,cust_46822,True,Mon Mar 04 22:23:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,810,,billing_dispute
+810,AmazonHelp,False,Mon Mar 04 22:31:00 +0000 2024,We're sorry about that! Please DM order #442392183 and the charge amount so our billing team can investigate. ^RL,,809,billing_dispute
+811,cust_23124,True,Mon Mar 04 22:37:00 +0000 2024,"I was charged twice for order #968285490, please fix this.",812,,billing_dispute
+812,AmazonHelp,False,Mon Mar 04 23:02:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #923390510. ^DM",,811,billing_dispute
+813,cust_85457,True,Mon Mar 04 22:51:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #805302800.",814,,billing_dispute
+814,AmazonHelp,False,Mon Mar 04 23:24:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,813,billing_dispute
+815,cust_87537,True,Mon Mar 04 23:05:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #480968571.,816,,billing_dispute
+816,AmazonHelp,False,Mon Mar 04 23:55:00 +0000 2024,We're sorry about that! Please DM order #736212983 and the charge amount so our billing team can investigate. ^RL,,815,billing_dispute
+817,cust_81057,True,Mon Mar 04 23:19:00 +0000 2024,"I was charged twice for order #855326778, please fix this.",818,,billing_dispute
+818,AmazonHelp,False,Tue Mar 05 00:27:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,817,billing_dispute
+819,cust_12612,True,Mon Mar 04 23:33:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,820,,billing_dispute
+820,AmazonHelp,False,Tue Mar 05 00:06:00 +0000 2024,We're sorry about that! Please DM order #160309911 and the charge amount so our billing team can investigate. ^RL,,819,billing_dispute
+821,cust_52413,True,Mon Mar 04 23:47:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #100733897.,822,,billing_dispute
+822,AmazonHelp,False,Tue Mar 05 00:14:00 +0000 2024,We're sorry about that! Please DM order #965914172 and the charge amount so our billing team can investigate. ^RL,,821,billing_dispute
+823,cust_19506,True,Tue Mar 05 00:01:00 +0000 2024,"I was charged twice for order #123528797, please fix this.",824,,billing_dispute
+824,AmazonHelp,False,Tue Mar 05 00:52:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,823,billing_dispute
+825,cust_30644,True,Tue Mar 05 00:15:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,826,,billing_dispute
+826,AmazonHelp,False,Tue Mar 05 00:37:00 +0000 2024,We're sorry about that! Please DM order #461379699 and the charge amount so our billing team can investigate. ^RL,,825,billing_dispute
+827,cust_56769,True,Tue Mar 05 00:29:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #950234433.,828,,billing_dispute
+828,AmazonHelp,False,Tue Mar 05 01:52:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #287048690. ^DM",,827,billing_dispute
+829,cust_10235,True,Tue Mar 05 00:43:00 +0000 2024,"There's a charge on my card I don't recognize, might be related to order #814609188.",830,,billing_dispute
+830,AmazonHelp,False,Tue Mar 05 01:10:00 +0000 2024,"That shouldn't happen, let's fix it. DM us the details of the charge and order #429448930. ^DM",,829,billing_dispute
+831,cust_38953,True,Tue Mar 05 00:57:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #927672827.,832,,billing_dispute
+832,AmazonHelp,False,Tue Mar 05 02:20:00 +0000 2024,We're sorry about that! Please DM order #746809909 and the charge amount so our billing team can investigate. ^RL,,831,billing_dispute
+833,cust_32005,True,Tue Mar 05 01:11:00 +0000 2024,"I was charged twice for order #632774653, please fix this.",834,,billing_dispute
+834,AmazonHelp,False,Tue Mar 05 01:56:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,833,billing_dispute
+835,cust_55938,True,Tue Mar 05 01:25:00 +0000 2024,"I was charged twice for order #982252644, please fix this.",836,,billing_dispute
+836,AmazonHelp,False,Tue Mar 05 01:38:00 +0000 2024,We're sorry about that! Please DM order #384769690 and the charge amount so our billing team can investigate. ^RL,,835,billing_dispute
+837,cust_31802,True,Tue Mar 05 01:39:00 +0000 2024,Why was I billed for a subscription I cancelled months ago?,838,,billing_dispute
+838,AmazonHelp,False,Tue Mar 05 02:37:00 +0000 2024,We're sorry about that! Please DM order #151697938 and the charge amount so our billing team can investigate. ^RL,,837,billing_dispute
+839,cust_95323,True,Tue Mar 05 01:53:00 +0000 2024,@AmazonHelp charged me the wrong amount for order #629442753.,840,,billing_dispute
+840,AmazonHelp,False,Tue Mar 05 03:11:00 +0000 2024,Apologies for the confusion. Send a DM with your account email and the charge date so we can look into it. ^AB,,839,billing_dispute
+841,cust_23726,True,Tue Mar 05 02:07:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",842,,general_complaint
+842,AmazonHelp,False,Tue Mar 05 02:45:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,841,general_complaint
+843,cust_54295,True,Tue Mar 05 02:21:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,844,,general_complaint
+844,AmazonHelp,False,Tue Mar 05 02:37:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,843,general_complaint
+845,cust_17019,True,Tue Mar 05 02:35:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,846,,general_complaint
+846,AmazonHelp,False,Tue Mar 05 03:00:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,845,general_complaint
+847,cust_44768,True,Tue Mar 05 02:49:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,848,,general_complaint
+848,AmazonHelp,False,Tue Mar 05 04:03:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,847,general_complaint
+849,cust_30131,True,Tue Mar 05 03:03:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",850,,general_complaint
+850,AmazonHelp,False,Tue Mar 05 04:10:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,849,general_complaint
+851,cust_22712,True,Tue Mar 05 03:17:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,852,,general_complaint
+852,AmazonHelp,False,Tue Mar 05 03:47:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,851,general_complaint
+853,cust_62096,True,Tue Mar 05 03:31:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,854,,general_complaint
+854,AmazonHelp,False,Tue Mar 05 04:15:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,853,general_complaint
+855,cust_59996,True,Tue Mar 05 03:45:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,856,,general_complaint
+856,AmazonHelp,False,Tue Mar 05 04:37:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,855,general_complaint
+857,cust_45200,True,Tue Mar 05 03:59:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",858,,general_complaint
+858,AmazonHelp,False,Tue Mar 05 04:32:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,857,general_complaint
+859,cust_39820,True,Tue Mar 05 04:13:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,860,,general_complaint
+860,AmazonHelp,False,Tue Mar 05 05:33:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,859,general_complaint
+861,cust_72424,True,Tue Mar 05 04:27:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,862,,general_complaint
+862,AmazonHelp,False,Tue Mar 05 05:02:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,861,general_complaint
+863,cust_98805,True,Tue Mar 05 04:41:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",864,,general_complaint
+864,AmazonHelp,False,Tue Mar 05 05:59:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,863,general_complaint
+865,cust_65492,True,Tue Mar 05 04:55:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",866,,general_complaint
+866,AmazonHelp,False,Tue Mar 05 05:05:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,865,general_complaint
+867,cust_18783,True,Tue Mar 05 05:09:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,868,,general_complaint
+868,AmazonHelp,False,Tue Mar 05 05:54:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,867,general_complaint
+869,cust_11620,True,Tue Mar 05 05:23:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,870,,general_complaint
+870,AmazonHelp,False,Tue Mar 05 06:26:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,869,general_complaint
+871,cust_23845,True,Tue Mar 05 05:37:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,872,,general_complaint
+872,AmazonHelp,False,Tue Mar 05 05:54:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,871,general_complaint
+873,cust_73646,True,Tue Mar 05 05:51:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,874,,general_complaint
+874,AmazonHelp,False,Tue Mar 05 07:19:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,873,general_complaint
+875,cust_15083,True,Tue Mar 05 06:05:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,876,,general_complaint
+876,AmazonHelp,False,Tue Mar 05 07:01:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,875,general_complaint
+877,cust_54284,True,Tue Mar 05 06:19:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,878,,general_complaint
+878,AmazonHelp,False,Tue Mar 05 06:26:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,877,general_complaint
+879,cust_49384,True,Tue Mar 05 06:33:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",880,,general_complaint
+880,AmazonHelp,False,Tue Mar 05 06:55:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,879,general_complaint
+881,cust_34633,True,Tue Mar 05 06:47:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,882,,general_complaint
+882,AmazonHelp,False,Tue Mar 05 07:03:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,881,general_complaint
+883,cust_77537,True,Tue Mar 05 07:01:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,884,,general_complaint
+884,AmazonHelp,False,Tue Mar 05 07:13:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,883,general_complaint
+885,cust_84537,True,Tue Mar 05 07:15:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",886,,general_complaint
+886,AmazonHelp,False,Tue Mar 05 08:27:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,885,general_complaint
+887,cust_57235,True,Tue Mar 05 07:29:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,888,,general_complaint
+888,AmazonHelp,False,Tue Mar 05 07:40:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,887,general_complaint
+889,cust_41711,True,Tue Mar 05 07:43:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",890,,general_complaint
+890,AmazonHelp,False,Tue Mar 05 07:51:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,889,general_complaint
+891,cust_55121,True,Tue Mar 05 07:57:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",892,,general_complaint
+892,AmazonHelp,False,Tue Mar 05 08:46:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,891,general_complaint
+893,cust_16507,True,Tue Mar 05 08:11:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",894,,general_complaint
+894,AmazonHelp,False,Tue Mar 05 09:05:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,893,general_complaint
+895,cust_63674,True,Tue Mar 05 08:25:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",896,,general_complaint
+896,AmazonHelp,False,Tue Mar 05 09:53:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,895,general_complaint
+897,cust_39329,True,Tue Mar 05 08:39:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,898,,general_complaint
+898,AmazonHelp,False,Tue Mar 05 08:45:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,897,general_complaint
+899,cust_55706,True,Tue Mar 05 08:53:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",900,,general_complaint
+900,AmazonHelp,False,Tue Mar 05 09:46:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,899,general_complaint
+901,cust_86609,True,Tue Mar 05 09:07:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,902,,general_complaint
+902,AmazonHelp,False,Tue Mar 05 10:02:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,901,general_complaint
+903,cust_49121,True,Tue Mar 05 09:21:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,904,,general_complaint
+904,AmazonHelp,False,Tue Mar 05 10:02:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,903,general_complaint
+905,cust_95998,True,Tue Mar 05 09:35:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,906,,general_complaint
+906,AmazonHelp,False,Tue Mar 05 10:13:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,905,general_complaint
+907,cust_51888,True,Tue Mar 05 09:49:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",908,,general_complaint
+908,AmazonHelp,False,Tue Mar 05 11:18:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,907,general_complaint
+909,cust_60891,True,Tue Mar 05 10:03:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",910,,general_complaint
+910,AmazonHelp,False,Tue Mar 05 10:59:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,909,general_complaint
+911,cust_93665,True,Tue Mar 05 10:17:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,912,,general_complaint
+912,AmazonHelp,False,Tue Mar 05 11:30:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,911,general_complaint
+913,cust_22793,True,Tue Mar 05 10:31:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,914,,general_complaint
+914,AmazonHelp,False,Tue Mar 05 11:13:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,913,general_complaint
+915,cust_95778,True,Tue Mar 05 10:45:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,916,,general_complaint
+916,AmazonHelp,False,Tue Mar 05 11:32:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,915,general_complaint
+917,cust_58717,True,Tue Mar 05 10:59:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,918,,general_complaint
+918,AmazonHelp,False,Tue Mar 05 11:46:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,917,general_complaint
+919,cust_86062,True,Tue Mar 05 11:13:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",920,,general_complaint
+920,AmazonHelp,False,Tue Mar 05 12:32:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,919,general_complaint
+921,cust_64146,True,Tue Mar 05 11:27:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,922,,general_complaint
+922,AmazonHelp,False,Tue Mar 05 12:10:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,921,general_complaint
+923,cust_51469,True,Tue Mar 05 11:41:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,924,,general_complaint
+924,AmazonHelp,False,Tue Mar 05 12:04:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,923,general_complaint
+925,cust_17603,True,Tue Mar 05 11:55:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",926,,general_complaint
+926,AmazonHelp,False,Tue Mar 05 13:21:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,925,general_complaint
+927,cust_26961,True,Tue Mar 05 12:09:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,928,,general_complaint
+928,AmazonHelp,False,Tue Mar 05 12:25:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,927,general_complaint
+929,cust_79963,True,Tue Mar 05 12:23:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,930,,general_complaint
+930,AmazonHelp,False,Tue Mar 05 12:32:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,929,general_complaint
+931,cust_98702,True,Tue Mar 05 12:37:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",932,,general_complaint
+932,AmazonHelp,False,Tue Mar 05 12:44:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,931,general_complaint
+933,cust_60272,True,Tue Mar 05 12:51:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,934,,general_complaint
+934,AmazonHelp,False,Tue Mar 05 13:09:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,933,general_complaint
+935,cust_88167,True,Tue Mar 05 13:05:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",936,,general_complaint
+936,AmazonHelp,False,Tue Mar 05 14:16:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,935,general_complaint
+937,cust_12506,True,Tue Mar 05 13:19:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",938,,general_complaint
+938,AmazonHelp,False,Tue Mar 05 14:15:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,937,general_complaint
+939,cust_26143,True,Tue Mar 05 13:33:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",940,,general_complaint
+940,AmazonHelp,False,Tue Mar 05 13:59:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,939,general_complaint
+941,cust_87846,True,Tue Mar 05 13:47:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",942,,general_complaint
+942,AmazonHelp,False,Tue Mar 05 13:58:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,941,general_complaint
+943,cust_59840,True,Tue Mar 05 14:01:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,944,,general_complaint
+944,AmazonHelp,False,Tue Mar 05 15:02:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,943,general_complaint
+945,cust_11219,True,Tue Mar 05 14:15:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,946,,general_complaint
+946,AmazonHelp,False,Tue Mar 05 15:40:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,945,general_complaint
+947,cust_64896,True,Tue Mar 05 14:29:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",948,,general_complaint
+948,AmazonHelp,False,Tue Mar 05 14:51:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,947,general_complaint
+949,cust_89823,True,Tue Mar 05 14:43:00 +0000 2024,Been a customer for years and the service has really gone downhill lately.,950,,general_complaint
+950,AmazonHelp,False,Tue Mar 05 15:13:00 +0000 2024,That's not the experience we want you to have. Please DM us so we can look into what happened. ^JS,,949,general_complaint
+951,cust_15164,True,Tue Mar 05 14:57:00 +0000 2024,"This is the third bad experience in a row with AmazonHelp, so frustrating.",952,,general_complaint
+952,AmazonHelp,False,Tue Mar 05 15:22:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,951,general_complaint
+953,cust_24474,True,Tue Mar 05 15:11:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,954,,general_complaint
+954,AmazonHelp,False,Tue Mar 05 15:27:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,953,general_complaint
+955,cust_40298,True,Tue Mar 05 15:25:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,956,,general_complaint
+956,AmazonHelp,False,Tue Mar 05 16:52:00 +0000 2024,"We hear your frustration and want to make it right, please DM us the details. ^DM",,955,general_complaint
+957,cust_57214,True,Tue Mar 05 15:39:00 +0000 2024,Really disappointed with how AmazonHelp has handled things lately.,958,,general_complaint
+958,AmazonHelp,False,Tue Mar 05 16:21:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,957,general_complaint
+959,cust_32349,True,Tue Mar 05 15:53:00 +0000 2024,"Customer service wait times are unacceptable, been trying to get help for an hour.",960,,general_complaint
+960,AmazonHelp,False,Tue Mar 05 17:20:00 +0000 2024,We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,,959,general_complaint
+961,cust_33969,True,Tue Mar 05 16:07:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",962,,positive_feedback
+962,AmazonHelp,False,Tue Mar 05 16:55:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,961,positive_feedback
+963,cust_65278,True,Tue Mar 05 16:21:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",964,,positive_feedback
+964,AmazonHelp,False,Tue Mar 05 17:27:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,963,positive_feedback
+965,cust_87430,True,Tue Mar 05 16:35:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",966,,positive_feedback
+966,AmazonHelp,False,Tue Mar 05 17:33:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,965,positive_feedback
+967,cust_90131,True,Tue Mar 05 16:49:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,968,,positive_feedback
+968,AmazonHelp,False,Tue Mar 05 17:39:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,967,positive_feedback
+969,cust_18301,True,Tue Mar 05 17:03:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",970,,positive_feedback
+970,AmazonHelp,False,Tue Mar 05 17:13:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,969,positive_feedback
+971,cust_84057,True,Tue Mar 05 17:17:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",972,,positive_feedback
+972,AmazonHelp,False,Tue Mar 05 18:35:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,971,positive_feedback
+973,cust_96732,True,Tue Mar 05 17:31:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",974,,positive_feedback
+974,AmazonHelp,False,Tue Mar 05 18:31:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,973,positive_feedback
+975,cust_90335,True,Tue Mar 05 17:45:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",976,,positive_feedback
+976,AmazonHelp,False,Tue Mar 05 19:01:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,975,positive_feedback
+977,cust_52026,True,Tue Mar 05 17:59:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",978,,positive_feedback
+978,AmazonHelp,False,Tue Mar 05 19:06:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,977,positive_feedback
+979,cust_62858,True,Tue Mar 05 18:13:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",980,,positive_feedback
+980,AmazonHelp,False,Tue Mar 05 19:06:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,979,positive_feedback
+981,cust_51426,True,Tue Mar 05 18:27:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",982,,positive_feedback
+982,AmazonHelp,False,Tue Mar 05 19:29:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,981,positive_feedback
+983,cust_10022,True,Tue Mar 05 18:41:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",984,,positive_feedback
+984,AmazonHelp,False,Tue Mar 05 19:56:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,983,positive_feedback
+985,cust_95799,True,Tue Mar 05 18:55:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",986,,positive_feedback
+986,AmazonHelp,False,Tue Mar 05 19:26:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,985,positive_feedback
+987,cust_88636,True,Tue Mar 05 19:09:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,988,,positive_feedback
+988,AmazonHelp,False,Tue Mar 05 20:33:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,987,positive_feedback
+989,cust_39064,True,Tue Mar 05 19:23:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,990,,positive_feedback
+990,AmazonHelp,False,Tue Mar 05 20:52:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,989,positive_feedback
+991,cust_16000,True,Tue Mar 05 19:37:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",992,,positive_feedback
+992,AmazonHelp,False,Tue Mar 05 19:55:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,991,positive_feedback
+993,cust_90065,True,Tue Mar 05 19:51:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",994,,positive_feedback
+994,AmazonHelp,False,Tue Mar 05 20:28:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,993,positive_feedback
+995,cust_24125,True,Tue Mar 05 20:05:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",996,,positive_feedback
+996,AmazonHelp,False,Tue Mar 05 20:53:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,995,positive_feedback
+997,cust_75382,True,Tue Mar 05 20:19:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,998,,positive_feedback
+998,AmazonHelp,False,Tue Mar 05 20:41:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,997,positive_feedback
+999,cust_85832,True,Tue Mar 05 20:33:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1000,,positive_feedback
+1000,AmazonHelp,False,Tue Mar 05 21:00:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,999,positive_feedback
+1001,cust_76074,True,Tue Mar 05 20:47:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1002,,positive_feedback
+1002,AmazonHelp,False,Tue Mar 05 21:33:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1001,positive_feedback
+1003,cust_69355,True,Tue Mar 05 21:01:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1004,,positive_feedback
+1004,AmazonHelp,False,Tue Mar 05 21:43:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1003,positive_feedback
+1005,cust_51144,True,Tue Mar 05 21:15:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1006,,positive_feedback
+1006,AmazonHelp,False,Tue Mar 05 22:30:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1005,positive_feedback
+1007,cust_95208,True,Tue Mar 05 21:29:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1008,,positive_feedback
+1008,AmazonHelp,False,Tue Mar 05 21:50:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1007,positive_feedback
+1009,cust_83699,True,Tue Mar 05 21:43:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1010,,positive_feedback
+1010,AmazonHelp,False,Tue Mar 05 22:33:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1009,positive_feedback
+1011,cust_11673,True,Tue Mar 05 21:57:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1012,,positive_feedback
+1012,AmazonHelp,False,Tue Mar 05 22:56:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1011,positive_feedback
+1013,cust_31094,True,Tue Mar 05 22:11:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1014,,positive_feedback
+1014,AmazonHelp,False,Tue Mar 05 22:50:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1013,positive_feedback
+1015,cust_14234,True,Tue Mar 05 22:25:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1016,,positive_feedback
+1016,AmazonHelp,False,Tue Mar 05 23:39:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1015,positive_feedback
+1017,cust_83566,True,Tue Mar 05 22:39:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1018,,positive_feedback
+1018,AmazonHelp,False,Wed Mar 06 00:06:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1017,positive_feedback
+1019,cust_64600,True,Tue Mar 05 22:53:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1020,,positive_feedback
+1020,AmazonHelp,False,Tue Mar 05 23:47:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1019,positive_feedback
+1021,cust_39563,True,Tue Mar 05 23:07:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1022,,positive_feedback
+1022,AmazonHelp,False,Wed Mar 06 00:08:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1021,positive_feedback
+1023,cust_48558,True,Tue Mar 05 23:21:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1024,,positive_feedback
+1024,AmazonHelp,False,Tue Mar 05 23:50:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1023,positive_feedback
+1025,cust_15326,True,Tue Mar 05 23:35:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1026,,positive_feedback
+1026,AmazonHelp,False,Wed Mar 06 00:28:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1025,positive_feedback
+1027,cust_53327,True,Tue Mar 05 23:49:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1028,,positive_feedback
+1028,AmazonHelp,False,Tue Mar 05 23:54:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1027,positive_feedback
+1029,cust_90689,True,Wed Mar 06 00:03:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1030,,positive_feedback
+1030,AmazonHelp,False,Wed Mar 06 01:28:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1029,positive_feedback
+1031,cust_34100,True,Wed Mar 06 00:17:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1032,,positive_feedback
+1032,AmazonHelp,False,Wed Mar 06 00:50:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1031,positive_feedback
+1033,cust_55796,True,Wed Mar 06 00:31:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1034,,positive_feedback
+1034,AmazonHelp,False,Wed Mar 06 00:47:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1033,positive_feedback
+1035,cust_79533,True,Wed Mar 06 00:45:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1036,,positive_feedback
+1036,AmazonHelp,False,Wed Mar 06 02:09:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1035,positive_feedback
+1037,cust_90439,True,Wed Mar 06 00:59:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1038,,positive_feedback
+1038,AmazonHelp,False,Wed Mar 06 02:26:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1037,positive_feedback
+1039,cust_13238,True,Wed Mar 06 01:13:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1040,,positive_feedback
+1040,AmazonHelp,False,Wed Mar 06 01:54:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1039,positive_feedback
+1041,cust_51984,True,Wed Mar 06 01:27:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1042,,positive_feedback
+1042,AmazonHelp,False,Wed Mar 06 01:56:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1041,positive_feedback
+1043,cust_37627,True,Wed Mar 06 01:41:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1044,,positive_feedback
+1044,AmazonHelp,False,Wed Mar 06 01:54:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1043,positive_feedback
+1045,cust_99921,True,Wed Mar 06 01:55:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1046,,positive_feedback
+1046,AmazonHelp,False,Wed Mar 06 02:09:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1045,positive_feedback
+1047,cust_33329,True,Wed Mar 06 02:09:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1048,,positive_feedback
+1048,AmazonHelp,False,Wed Mar 06 02:20:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1047,positive_feedback
+1049,cust_92603,True,Wed Mar 06 02:23:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1050,,positive_feedback
+1050,AmazonHelp,False,Wed Mar 06 03:25:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1049,positive_feedback
+1051,cust_94072,True,Wed Mar 06 02:37:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1052,,positive_feedback
+1052,AmazonHelp,False,Wed Mar 06 02:42:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1051,positive_feedback
+1053,cust_47989,True,Wed Mar 06 02:51:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1054,,positive_feedback
+1054,AmazonHelp,False,Wed Mar 06 03:09:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1053,positive_feedback
+1055,cust_72126,True,Wed Mar 06 03:05:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1056,,positive_feedback
+1056,AmazonHelp,False,Wed Mar 06 03:13:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1055,positive_feedback
+1057,cust_28884,True,Wed Mar 06 03:19:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1058,,positive_feedback
+1058,AmazonHelp,False,Wed Mar 06 04:45:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1057,positive_feedback
+1059,cust_10659,True,Wed Mar 06 03:33:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1060,,positive_feedback
+1060,AmazonHelp,False,Wed Mar 06 03:43:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1059,positive_feedback
+1061,cust_94663,True,Wed Mar 06 03:47:00 +0000 2024,Shoutout to the support team for sorting out my order so quickly.,1062,,positive_feedback
+1062,AmazonHelp,False,Wed Mar 06 04:44:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1061,positive_feedback
+1063,cust_33770,True,Wed Mar 06 04:01:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1064,,positive_feedback
+1064,AmazonHelp,False,Wed Mar 06 04:20:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1063,positive_feedback
+1065,cust_18829,True,Wed Mar 06 04:15:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1066,,positive_feedback
+1066,AmazonHelp,False,Wed Mar 06 05:45:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1065,positive_feedback
+1067,cust_97988,True,Wed Mar 06 04:29:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1068,,positive_feedback
+1068,AmazonHelp,False,Wed Mar 06 04:50:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1067,positive_feedback
+1069,cust_53036,True,Wed Mar 06 04:43:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1070,,positive_feedback
+1070,AmazonHelp,False,Wed Mar 06 05:45:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1069,positive_feedback
+1071,cust_66139,True,Wed Mar 06 04:57:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1072,,positive_feedback
+1072,AmazonHelp,False,Wed Mar 06 05:42:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1071,positive_feedback
+1073,cust_27603,True,Wed Mar 06 05:11:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1074,,positive_feedback
+1074,AmazonHelp,False,Wed Mar 06 06:02:00 +0000 2024,"That means a lot, thank you for letting us know! ^AB",,1073,positive_feedback
+1075,cust_24264,True,Wed Mar 06 05:25:00 +0000 2024,"Great experience with customer service today, thanks for the quick help.",1076,,positive_feedback
+1076,AmazonHelp,False,Wed Mar 06 06:40:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1075,positive_feedback
+1077,cust_44502,True,Wed Mar 06 05:39:00 +0000 2024,"@AmazonHelp support just resolved my issue in minutes, really appreciate it!",1078,,positive_feedback
+1078,AmazonHelp,False,Wed Mar 06 06:09:00 +0000 2024,"So glad we could help, thanks for the kind words! ^KT",,1077,positive_feedback
+1079,cust_63101,True,Wed Mar 06 05:53:00 +0000 2024,"Just wanted to say the replacement I got was super fast, thank you!",1080,,positive_feedback
+1080,AmazonHelp,False,Wed Mar 06 07:12:00 +0000 2024,"Awesome to hear, thank you for the feedback! ^RL",,1079,positive_feedback
+1081,cust_39269,True,Wed Mar 06 06:07:00 +0000 2024,does anyone even work here lol,1082,,other
+1082,AmazonHelp,False,Wed Mar 06 07:02:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1081,other
+1083,cust_96858,True,Wed Mar 06 06:21:00 +0000 2024,@AmazonHelp check your DMs,1084,,other
+1084,AmazonHelp,False,Wed Mar 06 06:27:00 +0000 2024,Thanks for following us! ^DM,,1083,other
+1085,cust_30869,True,Wed Mar 06 06:35:00 +0000 2024,does anyone even work here lol,1086,,other
+1086,AmazonHelp,False,Wed Mar 06 07:37:00 +0000 2024,We're here! How can we help? ^AB,,1085,other
+1087,cust_38681,True,Wed Mar 06 06:49:00 +0000 2024,does anyone even work here lol,1088,,other
+1088,AmazonHelp,False,Wed Mar 06 06:59:00 +0000 2024,We're here! How can we help? ^AB,,1087,other
+1089,cust_77880,True,Wed Mar 06 07:03:00 +0000 2024,"random question, are you hiring right now?",1090,,other
+1090,AmazonHelp,False,Wed Mar 06 07:34:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1089,other
+1091,cust_93042,True,Wed Mar 06 07:17:00 +0000 2024,@AmazonHelp check your DMs,1092,,other
+1092,AmazonHelp,False,Wed Mar 06 08:28:00 +0000 2024,Thanks for following us! ^DM,,1091,other
+1093,cust_95634,True,Wed Mar 06 07:31:00 +0000 2024,@AmazonHelp check your DMs,1094,,other
+1094,AmazonHelp,False,Wed Mar 06 08:51:00 +0000 2024,We're here! How can we help? ^AB,,1093,other
+1095,cust_73813,True,Wed Mar 06 07:45:00 +0000 2024,"following you now, love the brand",1096,,other
+1096,AmazonHelp,False,Wed Mar 06 08:34:00 +0000 2024,We're here! How can we help? ^AB,,1095,other
+1097,cust_77441,True,Wed Mar 06 07:59:00 +0000 2024,"random question, are you hiring right now?",1098,,other
+1098,AmazonHelp,False,Wed Mar 06 08:13:00 +0000 2024,We're here! How can we help? ^AB,,1097,other
+1099,cust_96652,True,Wed Mar 06 08:13:00 +0000 2024,@AmazonHelp check your DMs,1100,,other
+1100,AmazonHelp,False,Wed Mar 06 08:33:00 +0000 2024,We're here! How can we help? ^AB,,1099,other
+1101,cust_87436,True,Wed Mar 06 08:27:00 +0000 2024,does anyone even work here lol,1102,,other
+1102,AmazonHelp,False,Wed Mar 06 08:58:00 +0000 2024,Thanks for following us! ^DM,,1101,other
+1103,cust_31119,True,Wed Mar 06 08:41:00 +0000 2024,does anyone even work here lol,1104,,other
+1104,AmazonHelp,False,Wed Mar 06 10:01:00 +0000 2024,We're here! How can we help? ^AB,,1103,other
+1105,cust_77717,True,Wed Mar 06 08:55:00 +0000 2024,does anyone even work here lol,1106,,other
+1106,AmazonHelp,False,Wed Mar 06 09:23:00 +0000 2024,We're here! How can we help? ^AB,,1105,other
+1107,cust_68877,True,Wed Mar 06 09:09:00 +0000 2024,"random question, are you hiring right now?",1108,,other
+1108,AmazonHelp,False,Wed Mar 06 09:41:00 +0000 2024,Thanks for following us! ^DM,,1107,other
+1109,cust_33839,True,Wed Mar 06 09:23:00 +0000 2024,"random question, are you hiring right now?",1110,,other
+1110,AmazonHelp,False,Wed Mar 06 10:42:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1109,other
+1111,cust_24230,True,Wed Mar 06 09:37:00 +0000 2024,@AmazonHelp check your DMs,1112,,other
+1112,AmazonHelp,False,Wed Mar 06 09:58:00 +0000 2024,Thanks for following us! ^DM,,1111,other
+1113,cust_33255,True,Wed Mar 06 09:51:00 +0000 2024,"following you now, love the brand",1114,,other
+1114,AmazonHelp,False,Wed Mar 06 10:08:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1113,other
+1115,cust_89098,True,Wed Mar 06 10:05:00 +0000 2024,"random question, are you hiring right now?",1116,,other
+1116,AmazonHelp,False,Wed Mar 06 10:26:00 +0000 2024,Thanks for following us! ^DM,,1115,other
+1117,cust_66224,True,Wed Mar 06 10:19:00 +0000 2024,"following you now, love the brand",1118,,other
+1118,AmazonHelp,False,Wed Mar 06 11:31:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1117,other
+1119,cust_22807,True,Wed Mar 06 10:33:00 +0000 2024,does anyone even work here lol,1120,,other
+1120,AmazonHelp,False,Wed Mar 06 11:51:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1119,other
+1121,cust_63562,True,Wed Mar 06 10:47:00 +0000 2024,"random question, are you hiring right now?",1122,,other
+1122,AmazonHelp,False,Wed Mar 06 12:01:00 +0000 2024,We're here! How can we help? ^AB,,1121,other
+1123,cust_10942,True,Wed Mar 06 11:01:00 +0000 2024,@AmazonHelp check your DMs,1124,,other
+1124,AmazonHelp,False,Wed Mar 06 12:12:00 +0000 2024,Thanks for following us! ^DM,,1123,other
+1125,cust_65846,True,Wed Mar 06 11:15:00 +0000 2024,"random question, are you hiring right now?",1126,,other
+1126,AmazonHelp,False,Wed Mar 06 11:39:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1125,other
+1127,cust_36698,True,Wed Mar 06 11:29:00 +0000 2024,@AmazonHelp check your DMs,1128,,other
+1128,AmazonHelp,False,Wed Mar 06 12:24:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1127,other
+1129,cust_43263,True,Wed Mar 06 11:43:00 +0000 2024,"random question, are you hiring right now?",1130,,other
+1130,AmazonHelp,False,Wed Mar 06 12:49:00 +0000 2024,We're here! How can we help? ^AB,,1129,other
+1131,cust_40116,True,Wed Mar 06 11:57:00 +0000 2024,@AmazonHelp check your DMs,1132,,other
+1132,AmazonHelp,False,Wed Mar 06 12:17:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1131,other
+1133,cust_82165,True,Wed Mar 06 12:11:00 +0000 2024,"random question, are you hiring right now?",1134,,other
+1134,AmazonHelp,False,Wed Mar 06 12:59:00 +0000 2024,We're here! How can we help? ^AB,,1133,other
+1135,cust_88675,True,Wed Mar 06 12:25:00 +0000 2024,"following you now, love the brand",1136,,other
+1136,AmazonHelp,False,Wed Mar 06 13:30:00 +0000 2024,Thanks for following us! ^DM,,1135,other
+1137,cust_60374,True,Wed Mar 06 12:39:00 +0000 2024,"random question, are you hiring right now?",1138,,other
+1138,AmazonHelp,False,Wed Mar 06 12:48:00 +0000 2024,We're here! How can we help? ^AB,,1137,other
+1139,cust_67536,True,Wed Mar 06 12:53:00 +0000 2024,"random question, are you hiring right now?",1140,,other
+1140,AmazonHelp,False,Wed Mar 06 14:01:00 +0000 2024,Thanks for following us! ^DM,,1139,other
+1141,cust_40365,True,Wed Mar 06 13:07:00 +0000 2024,"following you now, love the brand",1142,,other
+1142,AmazonHelp,False,Wed Mar 06 14:18:00 +0000 2024,We're here! How can we help? ^AB,,1141,other
+1143,cust_46167,True,Wed Mar 06 13:21:00 +0000 2024,does anyone even work here lol,1144,,other
+1144,AmazonHelp,False,Wed Mar 06 13:37:00 +0000 2024,We're here! How can we help? ^AB,,1143,other
+1145,cust_21818,True,Wed Mar 06 13:35:00 +0000 2024,"random question, are you hiring right now?",1146,,other
+1146,AmazonHelp,False,Wed Mar 06 13:48:00 +0000 2024,We're here! How can we help? ^AB,,1145,other
+1147,cust_35496,True,Wed Mar 06 13:49:00 +0000 2024,@AmazonHelp check your DMs,1148,,other
+1148,AmazonHelp,False,Wed Mar 06 15:11:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1147,other
+1149,cust_83220,True,Wed Mar 06 14:03:00 +0000 2024,"random question, are you hiring right now?",1150,,other
+1150,AmazonHelp,False,Wed Mar 06 14:21:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1149,other
+1151,cust_85352,True,Wed Mar 06 14:17:00 +0000 2024,"following you now, love the brand",1152,,other
+1152,AmazonHelp,False,Wed Mar 06 15:30:00 +0000 2024,Thanks for following us! ^DM,,1151,other
+1153,cust_70142,True,Wed Mar 06 14:31:00 +0000 2024,@AmazonHelp check your DMs,1154,,other
+1154,AmazonHelp,False,Wed Mar 06 15:19:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1153,other
+1155,cust_38885,True,Wed Mar 06 14:45:00 +0000 2024,"random question, are you hiring right now?",1156,,other
+1156,AmazonHelp,False,Wed Mar 06 16:11:00 +0000 2024,Thanks for following us! ^DM,,1155,other
+1157,cust_42539,True,Wed Mar 06 14:59:00 +0000 2024,does anyone even work here lol,1158,,other
+1158,AmazonHelp,False,Wed Mar 06 15:37:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1157,other
+1159,cust_51139,True,Wed Mar 06 15:13:00 +0000 2024,@AmazonHelp check your DMs,1160,,other
+1160,AmazonHelp,False,Wed Mar 06 16:18:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1159,other
+1161,cust_40783,True,Wed Mar 06 15:27:00 +0000 2024,@AmazonHelp check your DMs,1162,,other
+1162,AmazonHelp,False,Wed Mar 06 15:57:00 +0000 2024,We're here! How can we help? ^AB,,1161,other
+1163,cust_30446,True,Wed Mar 06 15:41:00 +0000 2024,does anyone even work here lol,1164,,other
+1164,AmazonHelp,False,Wed Mar 06 16:31:00 +0000 2024,We're here! How can we help? ^AB,,1163,other
+1165,cust_15539,True,Wed Mar 06 15:55:00 +0000 2024,"following you now, love the brand",1166,,other
+1166,AmazonHelp,False,Wed Mar 06 17:09:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1165,other
+1167,cust_76995,True,Wed Mar 06 16:09:00 +0000 2024,"random question, are you hiring right now?",1168,,other
+1168,AmazonHelp,False,Wed Mar 06 16:37:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1167,other
+1169,cust_72694,True,Wed Mar 06 16:23:00 +0000 2024,@AmazonHelp check your DMs,1170,,other
+1170,AmazonHelp,False,Wed Mar 06 17:22:00 +0000 2024,We're here! How can we help? ^AB,,1169,other
+1171,cust_70302,True,Wed Mar 06 16:37:00 +0000 2024,"following you now, love the brand",1172,,other
+1172,AmazonHelp,False,Wed Mar 06 17:48:00 +0000 2024,We're here! How can we help? ^AB,,1171,other
+1173,cust_57395,True,Wed Mar 06 16:51:00 +0000 2024,@AmazonHelp check your DMs,1174,,other
+1174,AmazonHelp,False,Wed Mar 06 17:37:00 +0000 2024,We're here! How can we help? ^AB,,1173,other
+1175,cust_57962,True,Wed Mar 06 17:05:00 +0000 2024,@AmazonHelp check your DMs,1176,,other
+1176,AmazonHelp,False,Wed Mar 06 17:53:00 +0000 2024,We're here! How can we help? ^AB,,1175,other
+1177,cust_46651,True,Wed Mar 06 17:19:00 +0000 2024,does anyone even work here lol,1178,,other
+1178,AmazonHelp,False,Wed Mar 06 18:15:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1177,other
+1179,cust_40907,True,Wed Mar 06 17:33:00 +0000 2024,"random question, are you hiring right now?",1180,,other
+1180,AmazonHelp,False,Wed Mar 06 18:12:00 +0000 2024,We're here! How can we help? ^AB,,1179,other
+1181,cust_75483,True,Wed Mar 06 17:47:00 +0000 2024,"random question, are you hiring right now?",1182,,other
+1182,AmazonHelp,False,Wed Mar 06 18:45:00 +0000 2024,We're here! How can we help? ^AB,,1181,other
+1183,cust_83680,True,Wed Mar 06 18:01:00 +0000 2024,does anyone even work here lol,1184,,other
+1184,AmazonHelp,False,Wed Mar 06 18:38:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1183,other
+1185,cust_92557,True,Wed Mar 06 18:15:00 +0000 2024,"following you now, love the brand",1186,,other
+1186,AmazonHelp,False,Wed Mar 06 19:20:00 +0000 2024,We're here! How can we help? ^AB,,1185,other
+1187,cust_55107,True,Wed Mar 06 18:29:00 +0000 2024,"following you now, love the brand",1188,,other
+1188,AmazonHelp,False,Wed Mar 06 19:06:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1187,other
+1189,cust_80574,True,Wed Mar 06 18:43:00 +0000 2024,"following you now, love the brand",1190,,other
+1190,AmazonHelp,False,Wed Mar 06 20:11:00 +0000 2024,We're here! How can we help? ^AB,,1189,other
+1191,cust_20277,True,Wed Mar 06 18:57:00 +0000 2024,does anyone even work here lol,1192,,other
+1192,AmazonHelp,False,Wed Mar 06 19:59:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1191,other
+1193,cust_90256,True,Wed Mar 06 19:11:00 +0000 2024,"random question, are you hiring right now?",1194,,other
+1194,AmazonHelp,False,Wed Mar 06 20:36:00 +0000 2024,We're here! How can we help? ^AB,,1193,other
+1195,cust_48188,True,Wed Mar 06 19:25:00 +0000 2024,"random question, are you hiring right now?",1196,,other
+1196,AmazonHelp,False,Wed Mar 06 20:53:00 +0000 2024,"Thanks for the DM, we'll take a look! ^KT",,1195,other
+1197,cust_78280,True,Wed Mar 06 19:39:00 +0000 2024,@AmazonHelp check your DMs,1198,,other
+1198,AmazonHelp,False,Wed Mar 06 20:59:00 +0000 2024,We are! Check our careers page for openings. ^RL,,1197,other
+1199,cust_20494,True,Wed Mar 06 19:53:00 +0000 2024,"random question, are you hiring right now?",1200,,other
+1200,AmazonHelp,False,Wed Mar 06 20:30:00 +0000 2024,Thanks for following us! ^DM,,1199,other

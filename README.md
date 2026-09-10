@@ -1,109 +1,358 @@
-# AI Support Agent — AmazonHelp (Twitter Customer Support)
+# Hiver SDE Intern Take-Home — AmazonHelp Support Agent
 
-Classifies inbound customer tweets to `@AmazonHelp` into one of 10 intents, drafts a reply grounded
-in how the brand has historically resolved similar issues, and decides whether to auto-handle or
-escalate to a human — with a stated reason.
+An AI customer-support triage agent for inbound `@AmazonHelp` Twitter/X messages.
 
-**Read `report.md` first**, especially Section 2 (data note) and Section 5 ("what's misleading
-about my headline number") before looking at any metric below.
+The system:
 
-## TL;DR reproduction (under 15 minutes, no API key required)
+1. Classifies customer messages into 10 support intents derived from the AmazonHelp data.
+2. Retrieves similar historical customer/agent interactions using TF-IDF cosine similarity.
+3. Drafts a short support reply grounded in historical responses.
+4. Uses a Groq-hosted LLM to determine whether the case should be escalated.
+5. Applies a deterministic safety policy on top of the model decision.
+6. Evaluates intent classification, escalation decisions, and reply quality.
+
+## Architecture
+
+```text
+Inbound customer tweet
+        |
+        v
+TF-IDF Retrieval
+        |
+        +----> Similar historical customer/agent examples
+        |
+        v
+Groq LLM
+        |
+        +----> Intent
+        +----> Confidence
+        +----> Draft reply
+        +----> Model escalation decision
+        |
+        v
+Deterministic Safety Policy
+        |
+        v
+AUTO-HANDLE / ESCALATE
+```
+
+The LLM proposes the classification, response and escalation decision. The deterministic policy layer provides an additional safety boundary for higher-risk cases such as refunds, billing disputes and account access.
+
+The system **never automatically sends a customer message**. It only produces a draft and routing recommendation.
+
+---
+
+## Tech Stack
+
+* **Language:** Python
+* **LLM:** Groq Chat Completions
+* **Model:** `openai/gpt-oss-20b`
+* **Retrieval:** TF-IDF + cosine similarity
+* **Classification baselines:** Majority class, keyword rules, TF-IDF + Logistic Regression
+* **Evaluation:** Accuracy, precision, recall, F1, escalation metrics, LLM-as-judge
+* **Dataset:** Customer Support on Twitter — AmazonHelp subset
+
+---
+
+## Quick Start
+
+### 1. Create the environment
 
 ```bash
-git clone <this repo>
-cd hiver-support-agent
+python -m venv venv
+```
+
+Windows PowerShell:
+
+```powershell
+venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
-
-# 1. Generate the synthetic dataset + golden eval set (schema-matched to the real Kaggle dataset)
-python src/generate_synthetic_data.py
-python src/build_golden_set.py
-
-# 2. Baselines (trivial + keyword-rule + TF-IDF/LogReg)
-python src/baselines.py
-
-# 3. Run the agent (mock mode without an API key, real Claude with one) over the golden set
-python src/pipeline.py            # full 200 examples, ~seconds in mock mode
-# python src/pipeline.py --limit 10   # quick smoke test
-
-# 4. Evaluate: classification metrics, escalation metrics, reply-quality judge, judge<->human agreement
-python src/build_human_judge_sample.py   # only needed once
-python src/eval_harness.py
 ```
 
-All of the above runs with **zero external API calls** by default (mock mode), so it's reproducible
-without any credentials. To use the real LLM:
+### 2. Configure Groq
+
+Create `.env` in the repository root:
+
+```env
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=openai/gpt-oss-20b
+```
+
+Never commit `.env` or an API key.
+
+### 3. Run the LLM smoke test
+
+From the repository root:
 
 ```bash
-export ANTHROPIC_API_KEY=sk-ant-...
-# optional: export ANTHROPIC_MODEL=claude-sonnet-4-6
-python src/pipeline.py
-python src/eval_harness.py
+python -m src.llm_agent
 ```
 
-Every script prints and every output row records whether it ran in `mock` or `real` mode — never
-silently degraded.
+Expected:
 
-## Using the real Kaggle dataset instead of the synthetic one
-
-This sandbox couldn't reach kaggle.com to download data directly, so `src/generate_synthetic_data.py`
-builds a synthetic dataset with the **exact same schema** as the real one. To use real data:
-
-1. Download `twcs.csv` from https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
-   (free Kaggle account required; or use the `kaggle` CLI with an API token from
-   kaggle.com/settings → API).
-2. Filter to your brand and build a hand-labeling template in one step:
-   ```bash
-   python src/prepare_real_data.py --raw_csv /path/to/twcs.csv --brand AmazonHelp
-   ```
-   This streams the ~3M-row file in chunks (won't blow up memory), writes the filtered thread to
-   `data/raw/tweets.csv`, and writes `data/golden/golden_eval_TEMPLATE.csv` — a random sample of
-   real inbound tweets with empty `gold_intent` / `gold_escalate` / `gold_escalate_reason` columns.
-3. (Optional but recommended) Get an LLM-suggested first pass instead of labeling from a blank sheet:
-   ```bash
-   python src/pre_label_golden_set.py
-   ```
-   Writes `data/golden/golden_eval_SUGGESTED.csv` with suggested labels + a `confidence` score,
-   sorted so the lowest-confidence (most likely wrong) rows are at the top. **This does not replace
-   hand-labeling** — you still review and correct every row, mark `reviewed=1` as you go, and only
-   the final human-confirmed labels count. What it changes is that you're correcting a first draft
-   instead of typing 660 cells from nothing. See the script's docstring for the full workflow and
-   why an eval set needs a human in the loop, not just an LLM, at the end of it.
-4. Save your reviewed/corrected file as `data/golden/golden_eval.csv` (columns: `tweet_id, text,
-   gold_intent, gold_escalate, gold_escalate_reason`). 150-250 rows recommended.
-5. Nothing else changes — `python src/pipeline.py` and `python src/eval_harness.py` run exactly as
-   before, now against real data and real hand labels.
-
-Other brands worth trying (check exact `author_id` capitalization in the data first):
-`AppleSupport`, `Uber_Support`, `SpotifyCares`, `Delta`, `AmazonHelp`, `AmericanAir`.
-
-## Repo structure
-
+```text
+Running in REAL mode (GROQ_API_KEY found)
 ```
+
+The smoke test also retrieves historical AmazonHelp interactions and demonstrates the complete agent output.
+
+### 4. Run the pipeline
+
+Quick 10-example test:
+
+```bash
+python -m src.pipeline --limit 10
+```
+
+Full golden evaluation:
+
+```bash
+python -m src.pipeline
+```
+
+Predictions are written to:
+
+```text
+outputs/predictions.csv
+```
+
+Each prediction records whether the result came from `real` or `mock` mode.
+
+---
+
+## Evaluation
+
+Run:
+
+```bash
+python -m src.eval_harness
+```
+
+The evaluation covers:
+
+### Intent classification
+
+* Accuracy
+* Per-intent precision
+* Per-intent recall
+* Per-intent F1
+
+### Escalation
+
+* Precision
+* Recall
+* F1
+* Missed escalations
+* Unnecessary escalations
+
+### Reply quality
+
+A subset of replies is evaluated using an LLM judge on:
+
+* Grounding
+* Correctness
+* Tone
+* Actionability
+
+Human ratings can additionally be entered in:
+
+```text
+data/golden/human_judge_sample.csv
+```
+
+The harness does not calculate judge-human agreement until the human rating fields are completed.
+
+---
+
+## Headline Evaluation Result
+
+On the 220-example golden evaluation set, the current system achieved:
+
+| Metric               |    Result |
+| -------------------- | --------: |
+| Intent accuracy      | **50.9%** |
+| Escalation precision | **56.8%** |
+| Escalation recall    | **38.3%** |
+| Escalation F1        | **45.8%** |
+
+Detailed per-intent results and failure analysis are included in `report.md`.
+
+The evaluation set contains multiple closely related support categories, making intent boundaries ambiguous for some messages.
+
+---
+
+## LLM-as-Judge Note
+
+The reply-quality judge successfully evaluated 8 of the 30 sampled examples before the Groq token-per-day limit was reached.
+
+Therefore, the resulting reply-quality averages are treated as **exploratory rather than statistically definitive**.
+
+The failed judge calls were not converted into scores.
+
+This limitation is documented in the evaluation output and report.
+
+---
+
+## Golden Evaluation Set
+
+The repository contains a 220-example AmazonHelp evaluation set.
+
+The required intent fields are:
+
+* `gold_intent`
+* `gold_escalate`
+* `gold_escalate_reason`
+
+The labeling guide is available at:
+
+```text
+data/golden/HAND_LABELING_GUIDE.md
+```
+
+The evaluation data should be interpreted together with the labeling methodology described in the report.
+
+---
+
+## Real Dataset
+
+The repository contains a filtered AmazonHelp subset at:
+
+```text
+data/raw/tweets.csv
+```
+
+The original Customer Support on Twitter dataset is not required to run the standard evaluation.
+
+To rebuild the AmazonHelp subset from the original dataset:
+
+```bash
+python -m src.prepare_real_data \
+    --raw_csv /path/to/twcs.csv \
+    --brand AmazonHelp \
+    --n_sample 220
+```
+
+The full source dataset should not be committed to the repository.
+
+---
+
+## Repository Structure
+
+```text
 src/
-  intents.py                    # intent taxonomy + escalation policy defaults
-  generate_synthetic_data.py    # synthetic dataset generator (Kaggle-schema-compatible)
-  build_golden_set.py           # stratified sample + hand-coded gold labels -> golden_eval.csv
-  retrieval.py                  # TF-IDF retrieval over historical (customer, agent-reply) pairs
-  baselines.py                  # trivial / keyword-rule / TF-IDF+LogReg baselines
-  llm_agent.py                  # the actual agent: classify + draft (grounded) + escalate
-  decision.py                   # rule-based policy layer on top of the model's escalate flag
-  pipeline.py                   # runs the agent over the golden set -> outputs/predictions.csv
-  build_human_judge_sample.py   # builds the human hand-scoring template for judge agreement
-  eval_harness.py               # all metrics: classification, escalation, LLM-as-judge, agreement
+├── intents.py
+├── retrieval.py
+├── llm_agent.py
+├── decision.py
+├── pipeline.py
+├── baselines.py
+├── eval_harness.py
+├── prepare_real_data.py
+├── pre_label_golden_set.py
+└── build_human_judge_sample.py
+
 data/
-  raw/tweets.csv                       # synthetic, Kaggle-schema-compatible
-  golden/golden_eval.csv               # 200 hand-labeled (well, policy-labeled, see report.md §5) examples
-  golden/human_judge_sample.csv        # 30-example judge-agreement sample (placeholder scores, see docstring)
+├── raw/
+│   └── tweets.csv
+└── golden/
+    ├── golden_eval.csv
+    ├── golden_eval_TEMPLATE.csv
+    ├── HAND_LABELING_GUIDE.md
+    └── human_judge_sample.csv
+
 outputs/
-  predictions.csv, reply_quality.csv, baseline_comparison.txt
-report.md          # problem framing, results, failure analysis, limitations, next steps
-decision_log.md    # 15 non-obvious decisions and why
+├── predictions.csv
+├── reply_quality.csv
+└── baseline_comparison.txt
+
+report.md
+decision_log.md
+requirements.txt
+README.md
 ```
 
-## What's actually being tested here
+---
 
-Given this brand's traffic pattern, the highest-leverage things to get right are: (1) never let a
-refund/billing/account-access request get auto-answered without a human, (2) never draft a reply
-that invents a policy detail (refund amount, timeline) the brand hasn't actually offered before, and
-(3) keep the false-escalation rate low enough that "always escalate" isn't secretly the strategy.
-Section 1 of `report.md` covers this in full, including what was deliberately left out of scope.
+## Key Design Decisions
+
+### Retrieval-grounded generation
+
+The model receives similar historical AmazonHelp customer/agent interactions rather than generating support responses entirely from general knowledge.
+
+This reduces unsupported policy claims and helps match the historical support tone.
+
+### Single LLM call
+
+Classification, drafting and model-level escalation are performed in a single call.
+
+This reduces latency and token usage while keeping the decisions based on the same interpretation of the customer message.
+
+### Deterministic safety layer
+
+The final escalation decision is not based entirely on the LLM.
+
+Higher-risk categories such as refunds, billing disputes and account-access cases are protected by deterministic rules.
+
+### No automatic sending
+
+The system produces:
+
+```text
+classification
+draft response
+escalation recommendation
+escalation reason
+```
+
+It does not send messages to customers.
+
+---
+
+## Limitations
+
+The current evaluation highlights several limitations:
+
+1. Intent boundaries can be ambiguous for short or context-dependent tweets.
+2. Retrieval can surface historical URLs, handles or other artifacts that require filtering before production use.
+3. The current LLM-as-judge evaluation is limited by API token availability.
+4. Escalation recall remains an important area for improvement.
+5. The golden-set labeling methodology and sample size affect the reliability of the headline metrics.
+
+These limitations and proposed improvements are discussed in `report.md`.
+
+---
+
+## Reproducibility
+
+From a clean environment:
+
+```bash
+pip install -r requirements.txt
+```
+
+Configure:
+
+```env
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=openai/gpt-oss-20b
+```
+
+Then:
+
+```bash
+python -m src.pipeline --limit 10
+```
+
+For the complete evaluation:
+
+```bash
+python -m src.pipeline
+python -m src.eval_harness
+```
+
+The repository contains the filtered AmazonHelp data required for the standard run.

@@ -1,201 +1,31 @@
 grounding,correctness,tone,actionability,notes,tweet_id,judge_mode
-5,4,4,5,"mock heuristic judge, not a real LLM",549,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",783,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",239,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",91,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1117,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",119,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",761,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",535,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",429,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",395,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",643,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",545,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",753,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",449,mock
-5,2,3,3,"mock heuristic judge, not a real LLM",1123,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",877,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",141,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",551,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",867,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",309,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",993,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",791,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",875,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",415,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1149,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1021,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",641,mock
-5,2,3,3,"mock heuristic judge, not a real LLM",1083,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",661,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",963,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",243,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",669,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1023,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",501,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",741,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",569,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",789,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1115,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",543,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",665,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",781,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",763,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",423,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",839,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",151,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",303,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",329,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1171,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",211,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",895,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",145,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",27,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",603,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",393,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",811,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",163,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",33,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",881,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",775,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",483,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",523,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",273,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",627,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",901,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",185,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1105,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1199,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",331,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1101,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",903,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",599,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",637,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",517,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",123,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",745,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",719,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",513,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",301,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",89,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",3,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",873,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1003,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1151,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1135,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",479,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",381,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",189,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",883,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",281,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",265,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1031,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",521,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",31,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",571,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",987,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",915,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",435,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1029,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",691,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",43,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",621,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",431,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",809,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",981,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",181,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",35,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",191,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",315,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",363,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",995,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",655,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",295,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",555,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1079,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",275,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",911,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",283,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1035,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",311,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",37,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",267,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",183,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",55,mock
-5,2,3,3,"mock heuristic judge, not a real LLM",1111,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",747,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",425,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",61,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",689,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",631,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",843,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",25,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",65,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",271,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",871,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",671,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",161,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1001,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",795,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1121,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",387,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",195,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",909,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",147,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",929,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1049,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1015,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",755,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1113,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",663,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",905,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1143,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",401,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",157,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",75,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1155,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",451,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1107,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",507,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",633,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",861,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",41,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",515,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1141,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",511,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",723,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",21,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",153,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1051,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",175,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",625,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",865,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",305,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",421,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",261,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",71,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",69,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",277,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",397,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",63,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",985,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",757,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",751,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",1025,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",403,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",991,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",785,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",359,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",675,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",541,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",385,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",155,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",959,mock
-5,2,3,3,"mock heuristic judge, not a real LLM",1169,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",505,mock
-5,4,4,5,"mock heuristic judge, not a real LLM",635,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",931,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",391,mock
-5,4,3,5,"mock heuristic judge, not a real LLM",209,mock
-5,4,4,3,"mock heuristic judge, not a real LLM",1145,mock
-5,2,4,3,"mock heuristic judge, not a real LLM",997,mock
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}",1055382,real
+1.0,1.0,2.0,1.0,Reply lacks specific guidance and brand style.,2686766,real
+3.0,5.0,5.0,5.0,Missing user handle and signature tag reduces grounding.,439685,real
+2.0,2.0,2.0,2.0,Draft does not reflect brand style or address the specific request for additional baskets.,1037188,real
+3.0,5.0,4.0,5.0,Grounding slightly off due to added phishing mention not seen in brand example.,1145917,real
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}",2895867,real
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}",1601588,real
+4.0,3.0,5.0,4.0,Reply aligns with brand style but does not explicitly address the customer’s request for a call.,1026076,real
+2.0,3.0,2.0,4.0,"Lacks brand tone and empathy, but provides actionable link.",284007,real
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}",108132,real
+1.0,1.0,3.0,1.0,"Reply lacks brand style, contact link, and clear next steps.",438703,real
+4.0,3.0,5.0,5.0,"Good empathy, but does not directly address responsibility question.",2827675,real
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}",671643,real
+,,,,"judge call failed: Error code: 400 - {'error': {'message': ""Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}",2429493,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199865, Requested 859. Please try again in 5m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2132825,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199865, Requested 754. Please try again in 4m27.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2535365,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199864, Requested 724. Please try again in 4m14.016s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",1691958,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199864, Requested 830. Please try again in 4m59.808s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2927085,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199864, Requested 738. Please try again in 4m20.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",1201299,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199864, Requested 741. Please try again in 4m21.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2935879,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199863, Requested 856. Please try again in 5m10.608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2540272,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199863, Requested 838. Please try again in 5m2.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",77523,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199863, Requested 723. Please try again in 4m13.152s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",1368964,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199862, Requested 844. Please try again in 5m4.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",453232,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199862, Requested 870. Please try again in 5m16.224s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",519696,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199862, Requested 854. Please try again in 5m9.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",795223,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199861, Requested 806. Please try again in 4m48.144s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",63888,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199861, Requested 725. Please try again in 4m13.152s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",1569584,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199861, Requested 717. Please try again in 4m9.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",937317,real
+,,,,"judge call failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kzjppbp6exhvs57a94d27pcj` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199860, Requested 834. Please try again in 4m59.808s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",2379859,real

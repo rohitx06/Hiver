@@ -1,31 +1,44 @@
 tweet_id,text,draft_reply,grounding,correctness,tone,actionability
-71,Where's my package for order #590941149? No tracking info showing up.,[MOCK] Hi there! Let's take a look. Please DM us your order number #110002396 and zip code so we can pull up tracking. ^AB,4,4,3,5
-501,"Please cancel my order #856881618, I found it cheaper elsewhere.","[MOCK] Let's take a look, DM order #625063062 and we'll confirm the cancellation status. ^RL",4,4,3,5
-261,"Order #886365312 arrived damaged, my phone case was smashed in the box.","[MOCK] That's not okay, we'll fix this. DM order #450811990 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
-359,"I got the wrong item for order #490732457, I ordered my shoes and got something else.","[MOCK] That's not okay, we'll fix this. DM order #538912794 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
-875,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
-393,"@AmazonHelp I've asked twice already, I need a refund on order #355164255.",[MOCK] We completely understand. Please DM your order number #356022467 so we can review and process a refund. ^RL,4,4,3,5
-671,"Someone else may have accessed my account, I can't log in anymore.",[MOCK] Sorry for the trouble! Please DM us the email on the account (no passwords) and we'll help you regain access. ^AB,4,4,5,5
-33,@AmazonHelp any update on order #645119047? Tracking hasn't moved in 3 days.,[MOCK] Thanks for reaching out! Could you send us the order number #786066793 via DM so we can check the latest tracking status? ^KT,4,4,5,5
-929,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
-987,Shoutout to the support team for sorting out my order so quickly.,"[MOCK] Awesome to hear, thank you for the feedback! ^RL",2,3,5,2
-163,"Order #361846370 says delivered but I never got it, and it was already 11 days late.",[MOCK] That's not the experience we want for you. DM us order #817461907 and we'll look into the carrier delay right away. ^AB,4,4,3,5
-123,"Order #153921577 says delivered but I never got it, and it was already 5 days late.",[MOCK] We're really sorry for the delay on order #590122159. Please DM your order number and address so we can investigate with the carrier. ^JS,4,4,5,5
-25,"Just checking in on order #726563708, when will it ship?",[MOCK] Hi there! Let's take a look. Please DM us your order number #248532577 and zip code so we can pull up tracking. ^AB,4,4,3,5
-763,"I was charged twice for order #693634042, please fix this.","[MOCK] That shouldn't happen, let's fix it. DM us the details of the charge and order #366570563. ^DM",4,4,3,5
-1123,@AmazonHelp check your DMs,[MOCK] We are! Check our careers page for openings. ^RL,2,3,3,2
-901,Really disappointed with how AmazonHelp has handled things lately.,[MOCK] We're sorry to hear that and want to understand more. Could you DM us more detail so we can help? ^KT,4,4,5,5
-141,My order #190137896 was supposed to arrive 4 days ago and it's still not here!,[MOCK] Apologies for the wait on order #295130056! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,4,4,5,5
-523,"Please cancel my order #871588919, I found it cheaper elsewhere.","[MOCK] Let's take a look, DM order #461971444 and we'll confirm the cancellation status. ^RL",4,4,3,5
-295,the monitor arrived completely broken from order #165310776. Not happy.,"[MOCK] That's not okay, we'll fix this. DM order #836691577 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
-549,Is it too late to cancel order #134075063?,[MOCK] We can help with that. Please DM order #925677464 and we'll check if it can still be cancelled before shipping. ^JS,4,4,3,5
-239,My order #762992051 was supposed to arrive 5 days ago and it's still not here!,[MOCK] That's not the experience we want for you. DM us order #834868441 and we'll look into the carrier delay right away. ^AB,4,4,3,5
-329,"Order #326810757 arrived damaged, my phone case was smashed in the box.","[MOCK] That's not okay, we'll fix this. DM order #410791488 with a photo of the damage so we can process a replacement. ^JS",4,4,3,5
-189,"This is ridiculous, order #932894596 is 8 days late with no explanation.",[MOCK] Apologies for the wait on order #575368059! Send us a DM with your order details and we'll escalate with the delivery partner. ^RL,4,4,5,5
-281,the router arrived completely broken from order #527499187. Not happy.,"[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #984968439 and we'll get a replacement started. ^KT",4,4,5,5
-273,"This is the second time my phone case came defective, order #225279834.","[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #426808977 and we'll get a replacement started. ^KT",4,4,5,5
-1141,"following you now, love the brand",[MOCK] We're here! How can we help? ^AB,2,3,3,2
-301,the vacuum arrived completely broken from order #802992685. Not happy.,"[MOCK] Oh no, we're sorry to hear that! Please DM us a photo along with order #561784080 and we'll get a replacement started. ^KT",4,4,5,5
-61,"Just checking in on order #266211829, when will it ship?",[MOCK] Hi there! Let's take a look. Please DM us your order number #162795957 and zip code so we can pull up tracking. ^AB,4,4,3,5
-1145,"random question, are you hiring right now?",[MOCK] We're here! How can we help? ^AB,2,3,3,2
-91,@AmazonHelp any update on order #958872154? Tracking hasn't moved in 3 days.,[MOCK] Hi there! Let's take a look. Please DM us your order number #292587044 and zip code so we can pull up tracking. ^AB,4,4,3,5
+77523,@115850 I realise you and your executive not helpful for concern what I do? Please refund.i don't want product.,,,,,
+2895867,"@AmazonHelp 7) A package goes missing in less than 24 hours!? Where'd last night's delivery person put it?
+8) They resend part 1 of the package, part 2 I don't get an answer
+9) Part 2 after four attempts I get a response, I cancel it, not worth the $1 savings for recurring item 3/?",,,,,
+108132,@AmazonHelp But I thought Prime membership meant next day?,,,,,
+2540272,"Hey @AmazonHelp, surprise, surprise yet another shipment is delayed. Makes SIX orders in a row. What’s the point in paying for prime??? Look into this. And don’t blame UPS/USPS again. This is on you. Start crediting my account or something. This is ridiculous.",,,,,
+1601588,@AmazonHelp That won't make it deliver it to my  alternate address will DM u that..,,,,,
+63888,"@AmazonHelp I just got an email saying delayed. 
+The new 'order status' screen is worse than useless.",,,,,
+284007,@AmazonHelp “Parcel will be held for 48 hours waiting for instructions”. How can I instruct if I can’t contact the carrier?!,,,,,
+438703,"@AmazonHelp It happens with almost every order I have now. My building code is in my address, I shouldn't have to do anything else to get my orders on time.",,,,,
+1201299,@AmazonHelp How long does a package from AmazonUS take (via Global Store)  to reach UK? My package was meant to arrive on the 18th Oct.,,,,,
+671643,@115821 - your support chat says there is no way to purchase kindle books from mobile?! What???!! I use mobile 95% of time I travel extensively I want to buy kindle books I can’t. PLEASE FIX THIS HUGE OVERSIGHT!!! you are losing real customer dollars when will this be fixed?????,,,,,
+453232,@115821 thought you'd like to know that @118706 told me the reason I don't have my package yet is because #cybermonday overwhelmed them.  But the went ahead and marked as delivered.  I guess to keep you happy.,,,,,
+2379859,"@115821 Lightening speed of services.Keep it up, https://t.co/0fJloQdpv3 make customers happy.😃😁",,,,,
+2535365,@AmazonHelp Learned my delivery promised for today did not deliver and you signed me up for some remote UPS dump off service that I neither authorized nor requested (fraud?). My package did not arrive on the date promised. Long phone call w/Amazon+UPS; no resolution yet.,,,,,
+1368964,"@AmazonHelp 4 hours later I got this.
+Why wasn’t I allowed to cancel? https://t.co/GKy0M4xXR3",,,,,
+2927085,Shout out to @115821,,,,,
+519696,"@AmazonHelp LOL!! You sent me a link to log into my account which I can't do because IT'S LOCKED!! Are you serious? 
+
+I've already called and was told there was nothing you could do. I can call again though to hear that again. It was really fun the first time.",,,,,
+2429493,@AmazonHelp do you price match? I saw the same tv I wanted to buy at Walmart online. It was almost $50 more at amazon,,,,,
+1145917,"@AmazonHelp hi, I just got this email, but I am not a prime member? Is it legit or a virus?? https://t.co/S5wEYy204p",,,,,
+2935879,@115830 I believed in you till today but the moment you debited my credit card account without my permission I have lost trust in you #fraud #AmazonPrime,,,,,
+2132825,@AmazonHelp I’m really not impressed at all. When I purchased this item it stated that they were in stock so what is the delay?,,,,,
+937317,@AmazonHelp Hasn’t been updated since 10/19 and was due for 10/20 delivery. Last scan was at the USPS.,,,,,
+2827675,"@AmazonHelp @787586 Who will take responsibility of this kind of blunder???
+It seems lots of sentiment involved at the time of ordering as it was for very special occasion",,,,,
+1691958,"@AmazonHelp Yes, I have been charged but they can’t give me a delivery or dispatch date so I can make arrangements. I’m getting mugged off",,,,,
+2686766,@AmazonHelp Thank you. I'm on the phone now to one of your staff. He is trying to locate my important birthday order.,,,,,
+1037188,"Hey @115830, please could my fiancée have the other nine baskets? https://t.co/6Xf9cJAuUv",,,,,
+1569584,@115821 @115850 @AmazonHelp @115851 And still I did not get my refund. Filed complaint with RBI. Next will be consumer forum.,,,,,
+1055382,"@115830 So I pre-order a game over a month ago. To guarantee I received it on release day. ""Due to arrive by 8pm"" still at mailing center",,,,,
+1026076,"@AmazonHelp Cutiya company he Amazon
+
+Not good answer
+
+Call kar baiyla",,,,,
+439685,@AmazonHelp No such link is shared.,,,,,
+795223,"@AmazonHelp
+
+I ordered a product from yourselves &amp; it still hasn't arrived as it was meant to come the next day. I contacted the seller",,,,,
